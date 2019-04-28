@@ -1,0 +1,87 @@
+﻿werewolf = {	
+	color = hsv { 0.76 0.91 0.72 }
+
+
+	male_names = {
+		Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik Baal Baalhanno Bodashtart Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
+		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
+		Paltibaal Philosir Boodes Bomical Gisgo Malchus Abdhamon Abibaal Abirami Ahumm Eshmounhilles Eshmouniaton Itthobaal Paltibaal
+		Ummashtart Melqartshama Batnoam Urumilki Yehomilk Yadamilk Baaliaton Barekbaal Gerbaal Gerimilki Khiletzbaal Tabnit Yutpan Zimrida
+		Danel Kanmi Maharbaal Milkpilles Melqartpilles Milkyaton Massinissa Hiempsal Juba
+	}
+	female_names = {
+		Abdosir Arishat Astarte Batnoam Dido Shayna Sophonisba Tamar Adiya Tabua Yapa Ytab Suhaima Huldu Mashah Gamila Asherah Izavel Iezabel Arishat Elissa Muttunbaal
+		
+	}
+	family = {
+		Abbarid.Abbarid.Abbarid.Abbarid
+		Adonibaal.Adonibaalid.Adonibaalid.Adonibaalid
+		Ahirom.Ahiromid.Ahiromid.Ahiromid
+		Baalhannid.Baalhannid.Baalhannid.Baalhannid
+		Baalid.Baalid.Baalid.Baalid
+		Bostara.Bostara.Bostarid.Bostarid
+		Chelbesid.Chelbesid.Chelbesid.Chelbesid
+		Eshbaalid.Eshbaalid.Eshbaalid.Eshbaalid
+		Eugorid.Eugorid.Eugorid.Eugorid
+		Hiramid.Hiramid.Hiramid.Hiramid
+		Mattanid.Mattanid.Mattanid.Mattanid
+		Metallid.Metallid.Metallid.Metallid
+		Milkiramid.Milkiramid.Milkiramid.Milkiramid
+		Philosirid.Philosirid.Philosirid.Philosirid
+		Gisgo.Gisgo.Gisgoid.Gisgoid
+		Gerbalid.Gerbalid.Gerbalid.Gerbalid
+		Hammid.Hammid.Hammid.Hammid
+		Eugarid.Eugarid.Eugarid.Eugarid
+		Mashhid.Mashhid.Mashhid.Mashhid
+		Ummashid.Ummashid.Ummashid.Ummashid
+	}
+	culture = {
+		blackfury = {
+			male_names = {
+				Aderbal Arish Arishti Bano Balhano Barka Barkmelqart Bodo Bodmelqart Bodashtart Qarthalus Gerashtart Gilim Gersakun Hamalko Hanibal Hano Asrubal Himelkat Magun Maharbal Malko Misde Safo Eshmunyatun Eshmunhalus
+			}
+			
+			female_names = {
+				Barkat Dido Elishat Hatmelkat Safanbal Ama'ashtart Ladash Lashmun Amtbal Asfet Rashtubal Shadanat
+			}
+			
+			family = {
+				Tigillas.Tigilla.Tigillii.Tigillid
+				Barqa.Barqa.Barqid.Barqid
+				Magun.Magun.Magonid.Magonid
+				Gersakun.Gersakun.Gersakunid.Gersakunid
+				Dido.Dido.Didonid.Didonid
+				Ashtartitan.Ashtartitan.Ashtartitanid.Ashtartitanid
+				Famas.Famas.Famasid.Famasid
+				Rab.Rab.Rabid.Rabid
+				Haqara.Haqara.Haqarid.Haqarid
+				Arik.Arik.Arikid.Arikid
+				Shalum.Shalum.Shalumid.Shalumid
+				Yuni.Yuni.Yunid.Yunid
+				Shafur.Shafur.Shafurid.Shafurid
+			}
+		}
+		
+		bonegnawer = {}
+		fianna = {}
+		getoffenris = {}
+		childrenofgaia = {}
+		redtalon = {}
+		silentstrider = {}
+		silverfang = {}
+		shadowlord = {}
+		warders = {}
+		whitehowler = {}
+		blackspiraldancer = {}
+
+	}
+	
+	barbarian_names = { 
+		SARAKENOI ITOURAIOI SCENITAE HEMESENOI ZABADAIOI AOUIDENOI CHALUTAIOI AGRAIOI EPIMARANITAE
+	}
+	
+	graphical_culture = carthaginian_gfx
+	ethnicities = {
+		10 = levantine
+	}
+}

@@ -1,0 +1,18 @@
+﻿vampire_sect = {
+	color = hsv { 0.64  0.71  0.81 }
+}
+mummy_pantheon = {
+	color = hsv { 0.16  1  0.71 }
+}
+
+gaian_religion = {
+	color = hsv { 0.01 0.51 1.01 }
+}
+
+audena = {
+	color = hsv { 0.31 0.71 0.41 }
+}
+
+valderman_tradition = {
+	color = hsv { 0.06 0.71 0.31 }
+}

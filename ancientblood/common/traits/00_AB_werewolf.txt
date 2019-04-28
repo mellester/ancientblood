@@ -1,0 +1,310 @@
+﻿werewolf = {
+	type = health
+	congenital = no
+	martial = 2
+	health = 5
+}
+
+kinfolk = {
+	type = health
+	congenital = no
+	fertility = 0.1
+	health = 1
+}
+
+blackfury = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+bonegnawer = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		blackfury
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+fianna = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		blackfury
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+getoffenris = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		blackfury
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+childrenofgaia = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		blackfury
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+redtalon = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		blackfury
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+silentstrider = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		blackfury
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+silverfang = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		blackfury
+		shadowlord
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+shadowlord = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		blackfury
+		warder
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+warder = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		blackfury
+		whitehowler
+		blackspiraldancer
+	}
+	
+}
+
+whitehowler = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		blackfury
+		blackspiraldancer
+	}
+	
+}
+
+blackspiraldancer = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+		bonegnawer
+		fianna
+		getoffenris
+		childrenofgaia
+		redtalon
+		silentstrider
+		silverfang
+		shadowlord
+		warder
+		whitehowler
+		blackfury
+	}
+	
+}
+
+
+
+auspiceragabash = {
+	type = status
+	finesse = 1
+	opposites = {
+		auspicetheurge
+		auspicephilodox
+		auspicegalliard
+		auspiceahroun
+	}
+}
+
+auspicetheurge = {
+	type = status
+	finesse = 1
+	opposites = {
+		auspiceragabash
+		auspicephilodox
+		auspicegalliard
+		auspiceahroun
+	}
+}
+
+auspicephilodox = {
+	type = status
+	finesse = 1
+	opposites = {
+		auspiceragabash
+		auspicetheurge
+		auspicegalliard
+		auspiceahroun
+	}
+}
+
+auspicegalliard = {
+	type = status
+	finesse = 1
+	opposites = {
+		auspiceragabash
+		auspicetheurge
+		auspicephilodox
+		auspiceahroun
+	}
+}
+
+auspiceahroun = {
+	type = status
+	finesse = 1
+	opposites = {
+		auspiceragabash
+		auspicetheurge
+		auspicephilodox
+		auspicegalliard
+	}
+}

@@ -1,0 +1,636 @@
+﻿NGame = {
+	START_DATE = "450.10.1"
+	END_DATE = "9999.1.1"
+	GAME_SPEED_TICKS = {	 #how many seconds should a day take in every game speed
+		1
+		0.75
+		0.5
+		0.25
+		0.0
+	}
+	COMBAT_TICK_LIMIT = 1
+	HOTJOIN_TICK_LIMIT = 3
+	IMPERIAL_GLORY_RANK = 10
+	SCORE_START_MAX = 500
+	SCORE_START_BASE = 50
+	SCORE_START_POP_WEIGHT = 0.25
+	
+	MIN_MERCENARIES_PER_REGION = 2
+	MERCENARIES_CITY_THRESHOLD = 30
+	MERCENARIES_PER_CITY = 0.5
+		
+	MERCENARY_BASE_AMOUNT = 2
+	MERCENARY_PER_POP_SCALE = 0.05
+	MERCENARY_AMOUNT_DEVIATION = 0.25 
+}
+
+NCountry = {
+	INTEGRATE_MIN_COST = 10
+	INTEGRATE_COST_PER_POP = 1.0
+	MINIMUM_COLONISATION_POP = 10
+	MAX_COLONISATION_BARB_IN_TARGET = 2
+	FORT_MAINTENANCE = 1.0
+	LAND_MAINTENANCE_FACTOR = 0.65
+	NAVAL_MAINTENANCE_FACTOR = 0.1
+	MERCENARY_MAINTENANCE = 2.0
+	RETINUE_MAINTENANCE = 0.0
+	DISBAND_PAYOFF_FACTOR = 0.5
+	MERCENARY_DEBT_THRESHOLD = 2.0
+
+	RETINUE_FOR_CLAN_LEADER_MAINTENANCE = 0.05
+	
+	FAMILY_SCORNED_THRESHOLD = 0.02
+	GOVERNOR_SIMULATE_PERC = 0.02
+	CONSORT_SIMULATE_PERC = 0.01
+	
+	HIGH_AGRESSIVE_THRESHOLD = 50
+	
+	MAX_INVENTIONS_SAME_TYPE = 3
+	
+	STATE_LOYALTY_CONQUEST_MODIFIER = 100
+	
+	MOVE_POP_TO_EMPTY_MONTHS_COOLDOWN = 12
+	
+	
+	RANK_MIGRANT_HORDE = 0
+	RANK_CITY_STATE = 1
+	RANK_LOCAL_POWER = 25
+	RANK_REGIONAL_POWER = 100
+	RANK_MAJOR_POWER = 500
+	
+	LOYAL_TROOPS_MAINTENANCE_FACTOR = 0.5
+	DISLOYAL_COMMANDER_MAINTENANCE_FACTOR = 0.0
+	CALL_FOR_PEACE_THRESHOLD_MONTHS = 60
+	CALL_FOR_PEACE_WARSCORE_LIMIT = 67
+	MAX_MANPOWER_YEARS = 25
+	MAX_STABILITY = 3
+	MIN_STABILITY = -3
+	TECH_ENTRY_YEARS = 15
+	UNREST_MONTHLY_REDUCTION = -0.1
+	POPS_PER_BUILDING = 10
+	WAR_EXHAUSTION_REDUCTION = 2
+	ALERT_HIGH_WAR_EXHAUSTION = 5
+	POWER_GAIN_BASE = 2
+	POWER_SKILL_PER_GAIN = 2 # skill is divided by this.
+	TECH_AHEAD_OF_TIME = -0.2
+	OMEN_DURATION = 1825
+
+	BASE_CONTROL_RANGE = 500
+	
+	POWER_TO_GOLD_AMOUNT = 25
+	POWER_TO_GOLD_MONTHS = 2
+
+	GOLD_TO_POWER_AMOUNT = 25
+	GOLD_TO_POWER_MONTHS = 8
+	
+	UNREST_BLOCKS_ACTIONS = 10
+	
+	POP_FRACTION_FOR_REVOLT = 0.2
+	REVOLT_FOREIGN_THRESHOLD_REDUCTION = -0.1
+	
+	POP_FRACTION_FOR_CIVIL_WAR = 0.33
+	COHORT_FRACTION_FOR_CIVIL_WAR = 0.33
+	CIVIL_WAR_MONTHLY_TICK = 8.34
+	REVOLT_MONTHLY_TICK = 2.5
+	
+	PIRATE_FLEET_CAP = 10		
+	
+	COUNTRY_PRIMARY_COLOR_LIST = "standard_colors_list"
+	COUNTRY_SECONDARY_COLOR_LIST = "metal_colors_list"
+	COUNTRY_TERTIARY_COLOR_LIST = "standard_colors_list"
+	
+	COUNTRY_COLOR_MIN_SATURATION = 0.35
+	COUNTRY_COLOR_MAX_SATURATION = 1.0
+	
+	COUNTRY_COLOR_MIN_VALUE = 0.7
+	COUNTRY_COLOR_MAX_VALUE = 1.0
+	
+	COUNTRY_COLOR_DISTANCE_NEIGHBOUR = 0.1
+	COUNTRY_COLOR_DISTANCE_ORIGIN = 0.25
+	
+	
+	BASE_RESEARCH = 0.01
+	
+	BAD_RESEARCH_RATIO = 66 #Entirely arbitrary number where we'll want to alert player.
+	
+	AREA_TROOPS_POP_COUNT = 0.2
+}  
+
+NPop = {
+	HAPPYNESS_FOR_UNREST_THRESHOLD = 0.5
+	WRONG_CULTURE_GROUP_HAPPYNESS = -0.3
+	WRONG_CULTURE_HAPPYNESS = -0.1
+	WRONG_RELIGION_HAPPNESS = -0.05
+	WRONG_GOVERNOR_RELIGION_HAPPYNESS = -0.1
+		
+	UNREST_GENERATION = 0.5
+	UNREST_SCALE = 20 #Basically UNREST_GENERATION * UNREST_SCALE..
+	
+	MIGRATE_MINIMUM = 3
+	MIGRATE_MAXMIMUM = 20
+}
+
+
+NCombat = {
+	GREAT_BATTLE_SIZE_THRESHOLD = 20000
+	MORALE_COLLAPSE_THRESHOLD = 0.25
+	PERSONAL_LOYALTY_BONUS = 0.1
+
+	NAVAL_EXPERIENCE_DAMAGE_REDUCTION = 0.3
+	LAND_EXPERIENCE_DAMAGE_REDUCTION = 0.3
+
+
+
+	NAVAL_DAMAGE_MODIFIER = 0.1
+	LAND_STRENGTH_DAMAGE_MODIFIER = 0.2
+	LAND_MORALE_DAMAGE_MODIFIER = 1.5
+	LAND_BASE_MORALE_DAMAGE = 2.0
+	
+	
+
+	
+	DAYS_PER_PHASE = 5
+	DAYS_PER_SIEGE_PHASE = 30
+	COMBAT_DICE_SIDE = 6
+	COMBAT_BASE = 5
+	COMBAT_MAX = 15
+	COMBAT_REBEL_MARTIAL = 7
+	COMBAT_WIDTH = 30
+	
+	COMBAT_DAMAGE_MULT = 0.02
+	
+	POPULARITY_FACTOR = 1.0
+	
+	ASSAULT_ATTACKER_LOSS = 1.0
+	ASSAULT_DEFENDER_LOSS = 0.1
+	ASSAULT_DICE_MODIFIER = 5
+	
+	SIEGE_DISEASE_IMPACT = 0.05
+	SIEGE_MEMORY = 11
+	SIEGE_WIN = 20
+	MAX_BREACH = 1
+	
+	GARRISON_SIZE = 1
+	ASSAULT_WIDTH_LIMIT = 3
+	
+	SIEGE_FORCE_NEEDED_MULTIPLIER  = 5
+	
+	EXPERIENCE_GAIN = 20.0
+	
+	FORT_FLIPPING_TIME = 30
+
+	POSITIONING_INIT = 0.1
+	POSITIONING_ADMIRAL = 0.1
+	POSITIONING_FACTOR = 3
+	POSITIONING_MIN = 0.4
+	POSITIONING_REGAIN = 0.02
+	POSITIONING_STOP_FRIENDLY_FIRE_CHANCE = 50
+	POSITIONING_CHANGE_TARGET_CHANCE = 20
+	CHAOS_CHANCE = 10
+
+	WAR_EXHAUTION_FROM_LOSSES = 2.0
+	MAX_WAR_EXHAUSTION_FROM_BATTLE = 5.0
+	
+	SIEGE_SUPPLY_SHORTAGE_LOSS = 0.01
+	SIEGE_SUPPLY_SHORTAGE_IMPACT = 1
+	
+	SIEGE_FOOD_SHORTAGE_LOSS = 0.03
+	SIEGE_FOOD_SHORTAGE_IMPACT = 2
+	
+	SIEGE_WATER_SHORTAGE_LOSS = 0.05
+	SIEGE_WATER_SHORTAGE_IMPACT = 3
+	
+	SIEGE_DEFENDER_DESERTION_LOSS = 0.1
+	SIEGE_DEFENDER_DESERTION_IMPACT = 2
+	
+	SIEGE_BREACH_LOSS = 0.05
+	SIEGE_BREACH_IMPACT = 2
+
+	TACTICS_DEFAULT_EFFECTIVENESS = 0.5			# If subunit not defined this is the effectiveness constribution it will get
+	TACTICS_START_EFFECTIVENESS = 0.0			# The base line effectiveness the algorithm starts calculating with
+	TACTICS_EFFECTIVENESS_MIN_CAP = 0.0			# Will cap to this in the end of calculation
+	TACTICS_EFFECTIVENESS_MAX_CAP = 1.0			
+}
+
+NHorde = {
+	CHARACTER_LOOT_CUT = 0.2
+	BARBARIANS_TO_SLAVES = 0.1
+	BARBARIANS_TO_FREEMEN = 0.25
+	BARBARIAN_POWER_MULT = 1	
+	BARBARIAN_PRIMARY = 0.5
+	BARBARIAN_SECONDARY = 0.3
+	BARBARIAN_FLANK = 0.2
+
+	MIN_BARBARIAN_SPAWN_POWER = 2
+	BARBARIAN_TO_POWERFUL = 7
+	BARBARIAN_DISPLACEMENTDIFF = 3
+	
+	BARBARIAN_LOOT_MULT = 5
+	
+	EXTRA_BARBARIAN_NUM = 5
+	
+}
+
+NUnit = {
+	COHORT_SIZE = 1000
+
+	LAND_MORALE = 3.0
+	NAVAL_MORALE = 3.0
+	
+	MOVEMENT_LOCKED = 0.5
+	LOW_MORALE_THRESHOLD = 0.5
+
+	ROAD_MOVEMENT_BONUS = -0.5
+	
+	COHORT_MANPOWER_COST = 1
+	
+	MONTHLY_REINFORCE = 0.05
+	
+	MONTHLY_REINFORCE_SELF_CONTROLLED_MULTIPLIER = 2.00
+	MONTHLY_REINFORCE_ADJACENT_TO_SELF_CONTROLLED_MULTIPLIER = 1.00
+	
+	MONTHLY_REINFORCE_ENEMY_CONTROLLED_MULTIPLIER = 0.10
+	
+	MONTHLY_REINFORCE_UNOWNED_NONADJACENT_MULTIPLIER = 0.00
+	
+	MONTHLY_REINFORCE_UNOWNED_MIGRANT_MULTIPLIER = 0.5
+	
+	MONTHLY_REINFORCE_NEUTRAL_CONTROLLED_MULTIPLIER = 1.00
+	
+	MONTHLY_REINFORCE_FRIENDLY_CONTROLLED_MULTIPLIER = 1.00
+	MONTHLY_REINFORCE_ADJACENT_TO_FRIENDLY_CONTROLLED_MULTIPLIER = 0.5
+	
+	
+	MONTHLY_REPAIR = 0.1
+	MERCENARY_REINFORCE_MULT = 0.33
+	
+
+	LOCKED_MORALE_CAP = 0.5
+	
+	LOW_FLANK_SIZE = 2
+	MID_FLANK_SIZE = 5
+	HIGH_FLANK_SIZE = 10
+	
+	LEADER_ASSIGN_MIN_MONTHS = 12
+}
+
+NPolitics = {
+	SENATE_SIZE = 100
+	
+	ENDORSE_PARTY_SEATS = 10
+	ENDORSE_PARTY_CAP = 50
+	ENDORSE_PARTY_TYRANNY_HIT = 5
+	
+	INCREASE_LEGITIMACY_TYRANNY = 5
+	INCREASE_LEGITIMACY_AMOUNT = 10
+	
+
+	SENATE_RED_THRESHOLD = 40
+	SENATE_GREEN_THRESHOLD = 60
+	
+	SENATE_YELLOW_TYRANNY = 5
+	
+	
+	NEW_RULER_STAB_HIT_MONARCHY = 1
+	NEW_RULER_STAB_HIT_REPUBLIC_DIFF_PARTY = 0
+	NEW_RULER_STAB_HIT_TRIBES = 1
+	NEW_RULER_TYRANY_SAME_PARTY = 2
+	
+}
+
+NDiplomacy = {
+	PEACE_AUTO_ENFORCE_BASE_DAYS = 365
+	PEACE_AUTO_ENFORCE_RANK_DAY = 180
+	
+	MIN_WARSCORE_TO_DEMAND = 10
+	
+	PEACE_SEPERATE_BLOCK_MONTHS = 36
+
+	INTERVENE_OPINION_THRESHOLD = 100
+
+	EXECUTION_RELATION_MODIFIER = -200
+	BASE_CHARACTER_SPY_CHANCE = 0.5
+	
+	DIPLOMATIC_RANGE = 800
+
+	OPINION_MIN = -200
+	OPINION_MAX = 200
+	
+	SUBJECT_AE_FACTOR = 0.5
+	
+	TRAVEL_DAYS = 30
+	
+	MAX_ANNEX_SIZE = 2
+
+	TRIBUTE_MIN_RELATION = 100
+	MAX_TRIBUTE_TREASURY_DEFICIT = -100.0
+	ANNEX_MIN_RELATION = 190
+	ANNEX_MIN_YEARS_WITH_TRIBUTE = 10
+	
+	MONTHS_BEFORE_TOTAL_OCCUPATION = 60			# Before this many months have passed in the war, you cannot gain 100% warscore by just occupying the warleader
+	
+	
+	
+	DEFAULT_WARGOAL_TICKINGWARSCORE_BONUS = 1		# Amount of warscore per month since attacker/defender started getting the bonus for completing war goal
+	WARGOAL_MAX_BONUS = 25
+	DEFAULT_WARGOAL_WARSCORE_BONUS	= 5			# Warscore bonus
+	DEFAULT_WARGOAL_BATTLESCORE_BONUS = 3		# Battle score bonus from winning battles
+	SUPERIORITY_WARGOAL_WARSCORE_THRESHOLD	= 10	# Needed battle score for getting ticking war score for war goal superiority
+	WARSCORE_MAX_FROM_BATTLES = 40					# maximum amount to get from a battles .
+
+	
+	WAR_JOIN_DEADLINE_MONTHS = 12
+	TRUCE_YEARS = 5
+	SCALED_TRUCE_YEARS = 10
+	REVANCHISM_MONTHLY_DECAY = 0.833
+	
+	CASUS_BELLI_MONTHS = 60
+	
+	AE_IMPACT_ON_OPINION = -5
+	
+	PEACE_GOLD_MIN_ECONOMY = 20
+	PEACE_GOLD_COST_PER_MONTHLY_INCOME = 1
+	PEACE_GOLD_MAX_YEARLY_INCOMES = 2
+	PEACE_GOLD_STEP = 1
+	PEACE_RELEASE_NATION_FACTOR = 0.5
+	PEACE_CANCEL_SUBJECT_FACTOR = 0.5
+	PEACE_BECOME_SUBJECT_FACTOR = 0.5
+	
+	OPINION_GOOD_RELATIONS = 50 #Threshold for good relations -1 stab hit.
+	OPINION_GREAT_RELATIONS = 100 #Threshold for great relations -2 stab hit.
+	OPINION_NO_WAR = 100 #Threshold for being unable to declare war because one's own opinion of enemy is too high.
+	
+	IMPROVE_RELATION_SUBJECT_FACTOR = 2 #Subjects have a maximum this times higher.
+}
+
+NSuccession = {	
+	REPUBLIC_POPULARITY_DIV = 200
+	REPUBLIC_PROMINENCE_DIV = 200
+	REPUBLIC_PRESTIGE_DIV = 400
+	REPUBLIC_PRESTIGE_CAP = 0.1
+	REPUBLIC_NOT_SAME_PARTY = -0.5
+	REPUBLIC_PARTY_LEADER = 1.0
+	REPUBLIC_FRIEND_PARTY_LEADER = 0.25
+	REPUBLIC_FAMILY_PARTY_LEADER = 0.1
+	REPUBLIC_RIVAL_PARTY_LEADER = -0.75
+	REPUBLIC_WRONG_RELIGION = -0.75
+	REPUBLIC_WRONG_CULTURE = -0.5
+	REPUBLIC_NOT_ALLOWED_OFFICE = -0.9
+	
+	COGNATIC_FEMALE_PENALTY = -0.5
+	EGYPTIAN_FEMALE_PENALTY = -0.5
+	FALLBACK_FEMALE_PENALTY = -0.25
+	FALLBACK_CHILD_PENALTY = -0.5
+	FALLBACK_FAMILY = 2
+	FALLBACK_POPULARITY_DIV = 500
+	FALLBACK_PROMINENCE_DIV = 100
+	FALLBACK_PRESTIGE_DIV = 400
+	FALLBACK_PRESTIGE_CAP = 2.0
+	
+	TRIBAL_CLAN_CHIEF = 100
+	TRIBAL_MARTIAL = 2.0
+	TRIBAL_CHARISMA = 1.5
+	TRIBAL_FINESSE = 1.0
+	TRIBAL_ZEAL = 1.0
+	TRIBAL_CHILD_PENALTY = -0.9
+	TRIBAL_FEMALE_PENALTY = -0.9
+	TRIBAL_SAME_FAMILY_PENALTY = -0.5
+	
+	
+}
+
+NCharacter = {	
+	BASE_LOYALTY_GAIN_CHANCE = 0.5
+	LOYALTY_GAIN_OUTSIDE_COMBAT = 0.1
+	
+	INITIAL_MARRIAGE_COUNT = 8;
+	
+	PRIME_MARRY_MIN = 18
+	PRIME_MARRY_MAX = 35
+	
+	DISLOYALTY_THRESHOLD = 50
+	INFANCY_MAX_AGE = 5
+	AGE_OF_ADULTHOOD = 16
+	BASE_DOWRY = 0.05
+	MAX_DOWRY = 0.1
+	UNEQUAL_INHERITANCE_MULTIPLIER = 2
+	MAIN_HEIR_INHERITANCE_MULTIPLIER = 2
+
+	MAX_CHILD_BIRTH_AGE = 45
+	CHILD_BIRTH_TO_PREGNANCY_WAIT = 12
+	BASE_NR_OF_CHILDREN_PER_COUPLE = 1
+	ADDITIONAL_CHILD_PROMINENCE_THRESHOLD_1 = 20
+	ADDITIONAL_CHILD_PROMINENCE_THRESHOLD_2 = 80
+	ADDITIONAL_CHILDREN_FOR_KING = 2
+	ADDITIONAL_CHILDREN_FOR_HEIR = 1
+	COURT_SIZE_CHILD_PENALTY_THRESHOLD = 180
+	
+	DAYS_COMPLETE_MISSION = 30
+	MONTHS_BATTLE_TO_TRIUMPH = 12
+	
+	SPOUSE_CREATION_PROMINENCE_THRESHOLD = 20
+	SPOUSE_CREATION_MAXIMUM_AGE = 35
+	SPOUSE_MOURNING_DURATION = 90 #in days
+	
+	INHERIT_RECESSIVE_GENE_CHANCE = 0.25
+	
+	TOO_DISLOYAL_THRESHOLD = 33
+	
+	MINIMUM_COURT_SIZE = 16
+	MINIMUM_COURT_SIZE_STATE_MULTIPLIER = 0.2
+	MINIMUM_JOB_ELIGIBLES = 9 
+	COURT_SIZE_AGE_FILL = { 16 60 } #when filling the initial court, characters get created using this age range
+	COURT_SIZE_AGE_CHECK = { 14 60 } #characters in this age range is considered suitable for court
+	ADDITIONAL_CHILDREN_FOR_PROMINENCE_THRESHOLD_1 = 1
+	ADDITIONAL_CHILDREN_FOR_PROMINENCE_THRESHOLD_2 = 1
+	SUBTRACTION_CHILDREN_COURT_SIZE_PENALTY = 1 #in code it uses -= so keep this number 'positive'
+	BASE_FERTILITY = 0.07
+	MAX_FERTILITY = 0.15
+	MAX_TOOLTIP_SIZE_FAMILY_LIST = 25
+	
+	FEMALE_CREATION_AGE_START = 16
+	FEMALE_CREATION_AGE_END = 36
+	
+	MALE_CREATION_AGE_START = 18
+	MALE_CREATION_AGE_END = 40
+	
+	WRONG_RELIGION_MAX_LOYALTY = -10
+	
+	
+	FRIEND_WITH_RULER_PARTY_CONVICTION = 0.1
+	RIVAL_WITH_RULER_PARTY_CONVICTION = -0.1
+	
+	FRIEND_WITH_PARTY_LEADER_PARTY_CONVICTION = 0.1
+	RIVAL_WITH_PARTY_LEADER_PARTY_CONVICTION = 0.1
+	
+	
+}
+
+NTrade = {
+	SLAVE_POPS_TO_PRODUCE_EXTRA = 15
+	MINIMUM_SLAVES_PER_GOOD = 5
+}
+
+NProvince = {
+
+	TOO_DISLOYAL_THRESHOLD = 33
+
+	#additional efficiency for supply limit. BaseSupplyLimit() * (1.0 + efficiency)
+	#THESE ARE MUTUALLy EXCLUSIVE
+	SUPPLY_LIMIT_OWNER = 0.25	 #Should be highest of these defines or AI will be confused.
+	SUPPLY_LIMIT_ACCESS = 0.1
+	SUPPLY_LIMIT_ALLY = 0.1
+	SUPPLY_LIMIT_CONTROLLER = 0.1
+	OCCUPY_PROMINENCE_GAIN = 8.5
+}
+
+NBuilding = {
+	POPULARITY_FROM_CONSTRUCTION = 5.0
+	FAMILY_PRESTIGE_FROM_CONSTRUCTION = 1.0
+}
+
+NAI = {
+	#Performance and search
+	MAX_UNITS_PER_TURN = 200 #Higher => more responsive unit AI on average, more CPU. Use "ai.pawns" and "timing show" console commands to tune.
+	TACTICAL_DEPTH = 60 #Depth of tactical search.
+	IDLE_DEPTH = 12 #Depth of tactical search while idle can be reducd to this.
+	FRIEND_DEPTH_COST = 2 #Depth cost in friendly territory.
+	ENEMY_DEPTH_COST = 3 #Depth cost in enemy territory.
+	DEFAULT_DEPTH_COST = 5 #Depth cost in other cases.
+	NAVAL_DEPTH_COST = 2 #Depth cost for navies.
+	TARGET_PRIORITIZATION_DIST = 100 #Within this distance AI prefers to pick fresh targets.
+	SEA_ACCESS_DEPTH = 5 #Search depth over sea provinces for e.g. incresed prio to take coastal provinces. (Divided by 2 for local powers.)
+	SEA_POTENTIAL_ACCESS_DEPTH = 9 #Search depth over sea provinces for e.g. to declare wars. (Divided by 2 for local powers.)
+	POTENTIAL_ACCESS_BORDER_DISTANCE = 250 #Max border distance for "potential" access lists. Impacts mainly range who AI allies due military access.
+	RIVER_CROSS_COST = 1.6 #In tactical only (not A*).
+	STRAIT_CROSS_COST = 3.2 #In tactical only (not A*).
+	ENEMY_CROSS_COST = 4 #In tactical only (not A*). Multiplier for river/strait cost when an enemy is across river or strait.
+	ALLY_NEIGHBOR_ORDER = 3 #Separate check: Recursively iterate of neighbors this many time to generate a list of permitted allies. Countries with ports or adjacent to countries with ports are excluded.
+	STRIKE_TEAM_DEPTH = 10 #How far strike teams can be composed.
+	STRIKE_TEAM_ADVANTAGE = 3 #Advantage over enemy before AI contemplates splitting up strike teams into more.
+	
+	#Objectives
+	MAX_RECON_DISTANCE_ARMY = 90
+	MAX_RECON_DISTANCE_NAVY = 200
+	INVASION_REGRET_YEARS = 4 #Number of years that AI feels regret over a failed invasion and vows to use more forces.
+	INVASION_REGRET_BOOST = 300 #Additional % of troops AI will try to send as the result of a failed invasion.
+	
+	#Planning
+	PLAN_LATENCY_WEIGHT = 0.5 #Plan value weight is always 1 in comparison. I.e. a value 1 here makes latency have as much weight as final value of plan when it has been executed.
+	MAX_PLANNED_WAR_MONTHS = 120 #AI will not plan for wars that are expected to take longer than this to be able to declare. It is also the deadline for the war declaration.
+	MAX_WAR_DIFFICULTY_INCREASE = 50 #% more difficult the war is allowed to be at the deadline than at its inception.
+	TRADITION_LOOKAHEAD = 4 #How many traditions ahead does AI look when weighting their effects.
+	ABILITY_WEIGHT = 1.1 #Base mltiplier for plan weights enabling an ability.
+	REPICK_IDEAS_INTERVAL_MONTHS = 60 # How often the ai will reconsider its current national ideas. Does not affect filling empty idea slots which is done as soon as possible.
+	
+	#Misc.
+	TUTORIAL_RANGE = 500 #Distance from player capital various interactions are possible in tutorial.
+	TUTORIAL_TROOP_MAX = 0.4 #Number of regiments times max manpower AI is allowed to build in tutorial.
+	HISTORICAL_UNIT_FACTOR = 1.25 #Multiplier for AI selecting a unit on the basis that it's scripted in military philosophy. For no effect, leave at 1.
+	FOG_OF_WAR_FORGET_CHANCE = 1 #Chance of AI forgetting a unit in FoW.
+	MAX_ENDORSEMENT_TYRANNY = 5
+	
+	#Economy
+	LOYALTY_BUDGET = 25 #W.r.t. to available loyalty increasing character interactions and current income rates, this is the maximum percentage allowed to invested into characters with a negative outlook (decreasing loyalty).
+	NAVY_BUDGET = 9 #Max fixed cost per month.
+	ARMY_BUDGET = 24
+	ARMY_BUDGET_FORTS_PERCENTAGE = 0.3 # percentage of ARMY_BUDGET that is also spent on forts
+	MAX_FORT_DISTANCE_CALCULATION = 5
+	WAR_BUDGET_MULTIPLIER = 2.5
+	DEFICIT_YEARS = 15 #How long does AI plan to run a deficit when distressed.
+	POWER_CONVERSION_THRESHOLD = 200 #Must have minimum this power to even consider converting.
+	GOLD_CONVERSION_THRESHOLD = 1000 #Must hve minimum this gold to even consider converting.
+	POWER_CONVERSION_MODIFIER_LIMIT = 250 #Percent of normal cost AI permits converting at.
+	
+	#Battle
+	BATTLE_WEIGHT_MARTIAL = 0.25 #How much martial stat matters according to AI.
+	BATTLE_WEIGHT_TERRAIN = 0.5 #How much terrain defensiveness stat matters according to AI.
+	
+	#Forts
+	PLACE_FORT_BORDER_FACTOR = 1.5 #Is on border 1/0 multiplied by this.
+	PLACE_FORT_COAST_FACTOR = -1.5 #Is on cost 1/0 multiplied by this.
+	PLACE_FORT_DISTANCE_FACTOR = 1 #Distance in provinces to nearest fort multiplied by this.
+	PLACE_FORT_CAPITAL_FACTOR = 1 #Capital 1/0 multiplied by this.
+	PLACE_FORT_TERRAIN_FACTOR = 1 #Def bonus multiplied by this.
+	PLACE_FORT_RIVER_FACTOR = 1 #River 1/0 multiplied by this.
+	PLACE_FORT_LEVEL_FACTOR = 0.5 #Existing fort level multiplied by this.
+	PLACE_ROAD_MIN_DISTANCE = 2 #Minimum distance from one road endpoint to another.
+	DISBAND_FORTS_CAPITAL_BIAS = 2 # More likely to choose Forts in capital city to disband first
+	
+	#Recruitment
+	RECRUIT_THREAT_FACTOR = 1.0 #Scale threat by this factor when considering for recruitment.
+	RECRUIT_TERRAIN_FACTOR = 0.25 #Scale terrain defensiveness by this factor when considering for recruitment.
+	RECRUIT_AREAL_BALANCE_FACTOR = 4.0 #Scale balance urgency in is_in_area by this factor when considering for recruiment. (Urgency is highest when balance is close.)
+	RECRUIT_WAR_TARGET_FACTOR = 0.5 #Limit for factor for how much distance to war target capital can alter score. Set to 0 for no limit, or to 1 to disable entirely.
+	RECRUIT_WAR_TARGET_FACTOR_BASE = 500.0 #Base distance for above. Factor = Max( RECRUIT_WAR_TARGET_FACTOR, 1 / (RECRUIT_WAR_TARGET_FACTOR_BASE + Distance) ).
+	
+	#Unit composition
+	MAX_FLANK = 25 #Max % flanking units (to be kept at country wide basis and if possible on army basis)
+	MAX_RANGED = 25 #Max % second line units (to be kept at country wide basis and if possible on army basis)
+	
+	#Diplomacy
+	AE_MIN = 5 #AI starts being hawkish when AE has reached this value plus its own AE value.
+	AE_MAX = 15 #AI becomes particularly hawkish when AE has reached this value on harder difficulties.
+	AE_CARE = 15 #AI usually waits for around this AE or a somewhat higher value before declaring a war.
+	AE_CARE_EXTRA = 25 #Additional variation on top of AE_CARE for when AI cares about AE in declaring wars and peace deals.
+	ALLIANCE_BREAK_WARNING_MONTHS = 6 #Months of warning prior to alliances/defensive leagues breaking.
+	TRADE_REQUEST_ACCEPTANCE = 200 #Scaling of AI's "good/bad for us" acceptances.
+	
+	#Peace
+	PEACE_ACCEPTANCE_SEPARATE_PEACE = -25 #Modifier for peacing out separatately in the cases that's despicable.
+	PEACE_ACCEPTANCE_MONTHS_OF_WAR = 48 #Maximum months of war (and coincidentally, maximum modifier).
+	PEACE_ACCEPTANCE_EXHAUSTION = -10
+	PEACE_ACCEPTANCE_DESPERATION = -10
+	PEACE_ACCEPTANCE_WAR_BALANCE_MINUS = 20 #Scaling for negative enthusiasm/positive acceptance. Underlying factor has been squared so as long as balance isn't completely uneven this will be far closer to 0.
+	PEACE_ACCEPTANCE_WAR_BALANCE_PLUS = 80 #Scaling for positive enthusiasm/negative acceptance. Underlying factor has been squared so as long as balance isn't completely uneven this will be far closer to 0.
+	PEACE_ACCEPTANCE_WAR_GOAL = 10
+	PEACE_ACCEPTANCE_CAPITAL = 10
+	PEACE_ACCEPTANCE_DIRECTION = 10
+	
+	#CTA
+	CTA_ACCEPTANCE_WAR_BALANCE_MINUS = 80 #Scaling for negative acceptance. Underlying factor has been squared so as long as balance isn't completely uneven this will be far closer to 0.
+	CTA_ACCEPTANCE_WAR_BALANCE_PLUS = 40 #Scaling for positive acceptance. Underlying factor has been squared so as long as balance isn't completely uneven this will be far closer to 0.
+	
+	#Allies
+	ALLY_VALUE_TARGET_DISTANCE_WEIGHT = 3 #Value of (inverse) distance to target for candidate ally.
+	ALLY_VALUE_SELF_DISTANCE_WEIGHT = 2 #Value of (inverse) distance to self for candidate ally.
+	ALLY_VALUE_ALLY_DISTANCE_WEIGHT = 1 #Value of (inverse) distance to existing allies for candidate ally.
+	
+	#Opinions
+	OPINION_NO_WAR = 125
+	OPINION_BREAK_ALLIANCE = -50
+	OPINION_NO_SUPPORT = -75
+	OPINION_REASONS_FOR_MILITARY_ACCESS = 20 #Acceptance reasons AI can choose to reach with opinion to gain military access.
+	
+	#Spam
+	OFFER_MINIMUM_MONTHS = 18 #Minimum months until AI may resend a similar offer to a human country. Note that there is also a probabilistic reduction model additionally, so this can be rather low.
+	OFFER_EMISSION_BASE = 0.01
+	OFFER_EMISSION_ADAPT = 0.15
+	OFFER_EMISSION_DECAY = 0.07
+	START_DATE_DIPLOMACY_REDUCTION_MONTHS = 18 #AI does war declarations and some other diplo actions less frequently during these months.
+	
+	#War declarations
+	WAR_THREATEN_FACTOR = 1.5 #Scaled weight to Threaten War to see it more often.
+	WAR_NEIGHBOR_FACTOR = 10 #Scaled weight to declare war on neighbors.
+	WAR_INNER_FACTOR = 40 #Scaled weight to declare war on inner countries (e.g. OPMs) inside AI country.
+	WAR_EASY_FACTOR = 500 #Actually a term, but w/e.. The easier war is expected to be, the more likely AI is to schedule it. Even war will be about 0.5^2 of this value.
+	WAR_ACCESSIBLE_FACTOR = 15 #Scaled weight to declare war on accessible countries.
+	WAR_CASUS_BELLI_FACTOR = 4 #Scaled weight for having temporary CB.
+	WAR_CLAIM_FACTOR = 3 #Scaled weight for having permanent CB/claim.
+	WAR_OPPORTUNISM_FACTOR = 0.5 #Separate code path for reactive war declarations.
+	EAGERNESS_EXTERNAL_MANPOWER_FACTOR = 0.85 #How much manpower advantage over neighbors matters vs. %MP of max for eagerness to declare war.
+	
+	#Johan's stuff
+	PEACE_STALLED_WAR_THRESHOLD = 3 # If the warscore has changed by this amount or less in the last year, the war is stalled. Is this even AI?
+
+}
+
+NJominiMap = {
+	WORLD_EXTENTS_X = 8191
+	WORLD_EXTENTS_Y = 25.5
+	WORLD_EXTENTS_Z = 4095
+	WATERLEVEL = 3.9
+}
+
+
+

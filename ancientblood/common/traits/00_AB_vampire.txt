@@ -1,0 +1,773 @@
+﻿vampire = {
+	type = health
+	congenital = no
+	fertility = -10
+	martial = 2
+}
+
+ghoul = {
+	type = health
+	congenital = no
+	fertility = -0.1
+	martial = 1
+	health = 3
+}
+
+brujah = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		baali
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+baali = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+cappadocian = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		baali
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+followerofset = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		baali
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+gangrel = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		baali
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+haqimite = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		baali
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+ishtarri = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		baali
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+lasombra = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		baali
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+malkavian = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		baali
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+nosferatu = {
+	type = status
+	charisma = -2
+	finesse = 2
+
+	opposites =  {
+		baali
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		ravnos 
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+
+ravnos = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		baali
+		salubri
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+salubri = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		baali
+		tzimisce
+		ventrue	
+	}
+	
+}
+
+tzimisce = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		baali
+		ventrue	
+	}
+	
+}
+
+ventrue = {
+	type = status
+	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites =  {
+		brujah
+		cappadocian
+		followerofset
+		gangrel
+		haqimite
+		ishtarri
+		lasombra
+		malkavian
+		nosferatu
+		ravnos 
+		salubri
+		tzimisce
+		baali
+	}
+	
+}
+
+neonate = {
+	type = status
+	martial = 1
+	opposites = {
+		ancilla
+		elder
+		ancient
+		methuselah
+		antediluvian
+	}
+}
+
+ancilla = {
+	type = status
+	martial = 1
+	finesse = 1
+	max_rivals = 1
+	prominence = 5
+	opposites = {
+		neonate 
+		elder
+		ancient
+		methuselah
+		antediluvian
+	}
+}
+
+elder = {
+	type = status
+	martial = 1
+	finesse = 2
+	max_rivals = 2
+	prominence = 10
+	opposites = {
+		neonate 
+		ancilla
+		ancient
+		methuselah
+		antediluvian
+	}
+}
+
+ancient = {
+	type = status
+	martial = 2
+	finesse = 2
+	max_rivals = 2
+	max_friends = -1
+	prominence = 15
+	opposites = {
+		neonate 
+		ancilla
+		elder
+		methuselah
+		antediluvian
+	}
+}
+
+methuselah = {
+	type = status
+	martial = 3
+	finesse = 2
+	max_rivals = 2
+	max_friends = -2
+	prominence = 20
+	opposites = {
+		neonate 
+		ancilla
+		elder
+		ancient
+		antediluvian
+	}
+}
+
+
+antediluvian = {
+	type = status
+	martial = 3
+	finesse = 3
+	max_rivals = 3
+	max_friends = -3
+	prominence = 30
+	disallow_job = yes
+	disallow_office = yes
+	disallow_command = yes
+	opposites = {
+		neonate 
+		ancilla
+		elder
+		ancient
+		methuselah
+	}
+}
+
+generation1 = {
+	type = status
+	martial = 20
+	finesse = 20
+	prominence = 100
+	opposites = {
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}	
+}
+
+generation2 = {
+	type = status
+	martial = 15
+	finesse = 15
+	prominence = 75
+	opposites = {
+		generation1
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}	
+}
+
+generation3 = {
+	type = status
+	martial = 10
+	finesse = 10
+	prominence = 50
+	opposites = {
+		generation1
+		generation2
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation4 = {
+	type = status
+	martial = 6
+	finesse = 6
+	prominence = 30
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation5 = {
+	type = status
+	martial = 5
+	finesse = 5
+	prominence = 25
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation6 = {
+	type = status
+	martial = 4
+	finesse = 4
+	prominence = 20
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation7 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation8 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation9 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation10 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation11
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation11 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation12
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation12 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation13
+		generation14
+		generation15
+	}		
+}
+
+generation13 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation14
+		generation15
+	}		
+}
+
+generation14 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation15
+	}		
+}
+
+generation15 = {
+	type = status
+	opposites = {
+		generation1
+		generation2
+		generation3
+		generation4
+		generation5
+		generation6
+		generation7
+		generation8
+		generation9
+		generation10
+		generation11
+		generation12
+		generation13
+		generation14
+	}		
+}
+
+torpor = {
+	type = health
+	martial = -5
+	max_rivals = -1
+	max_friends = -1
+	prominence = -50
+	disallow_job = yes
+	disallow_office = yes
+	disallow_command = yes
+}
