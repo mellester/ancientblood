@@ -3,6 +3,14 @@
 	congenital = no
 	martial = 2
 	health = 5
+	
+	opposites = {
+		vampire
+		mage
+		#truefae
+		#demon
+		#changeling
+		}
 }
 
 kinfolk = {
@@ -20,7 +28,7 @@ blackfury = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -40,7 +48,7 @@ bonegnawer = {
 		blackfury
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -60,7 +68,7 @@ fianna = {
 		bonegnawer
 		blackfury
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -80,7 +88,7 @@ getoffenris = {
 		bonegnawer
 		fianna
 		blackfury
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -92,7 +100,7 @@ getoffenris = {
 	
 }
 
-childrenofgaia = {
+childofgaia = {
 	type = status
 	martial = 1
 	
@@ -120,7 +128,7 @@ redtalon = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		blackfury
 		silentstrider
 		silverfang
@@ -140,7 +148,7 @@ silentstrider = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		blackfury
 		silverfang
@@ -160,7 +168,7 @@ silverfang = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		blackfury
@@ -180,7 +188,7 @@ shadowlord = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -200,7 +208,7 @@ warder = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -220,7 +228,7 @@ whitehowler = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -240,7 +248,7 @@ blackspiraldancer = {
 		bonegnawer
 		fianna
 		getoffenris
-		childrenofgaia
+		childofgaia
 		redtalon
 		silentstrider
 		silverfang

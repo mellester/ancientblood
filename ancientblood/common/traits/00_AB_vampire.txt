@@ -85,7 +85,7 @@ cappadocian = {
 	
 }
 
-followerofset = {
+setite = {
 	type = status
 	martial = 1
 	unit = {

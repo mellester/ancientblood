@@ -9,7 +9,7 @@ gaian_religion = {
 	color = hsv { 0.01 0.51 1.01 }
 }
 
-audena = {
+aeduna_tradition = {
 	color = hsv { 0.31 0.71 0.41 }
 }
 

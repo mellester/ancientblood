@@ -1,0 +1,24 @@
+﻿mage = {
+	type = health
+	congenital = no
+	martial = 2
+	health = 5
+	
+	opposites = {
+		vampire
+		werewolf
+		#truefae
+		#demon
+		#changeling
+		}
+}
+
+aeduna = {
+	type = status
+	martial = 1
+	
+	opposites =  {
+
+	}
+	
+}

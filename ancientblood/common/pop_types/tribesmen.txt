@@ -1,0 +1,12 @@
+﻿tribesmen = {
+	tax_income = 0.015
+	local_manpower = 0.005
+	tribal = yes
+	can_promote_to = freemen
+	demotes_to = tribesmen	# does not demote really.
+	conquest_demote_chance = 0
+	
+	base_happyness = 1.0
+	
+	color = hsv { 0.3 0.7 0.4 }
+}

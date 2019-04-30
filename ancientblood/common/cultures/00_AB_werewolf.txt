@@ -1,4 +1,4 @@
-﻿werewolf = {	
+﻿werewolfculture = {	
 	color = hsv { 0.76 0.91 0.72 }
 
 
@@ -36,7 +36,7 @@
 		Ummashid.Ummashid.Ummashid.Ummashid
 	}
 	culture = {
-		blackfury = {
+		blackfuryculture = {
 			male_names = {
 				Aderbal Arish Arishti Bano Balhano Barka Barkmelqart Bodo Bodmelqart Bodashtart Qarthalus Gerashtart Gilim Gersakun Hamalko Hanibal Hano Asrubal Himelkat Magun Maharbal Malko Misde Safo Eshmunyatun Eshmunhalus
 			}
@@ -62,17 +62,17 @@
 			}
 		}
 		
-		bonegnawer = {}
-		fianna = {}
-		getoffenris = {}
-		childrenofgaia = {}
-		redtalon = {}
-		silentstrider = {}
-		silverfang = {}
-		shadowlord = {}
-		warders = {}
-		whitehowler = {}
-		blackspiraldancer = {}
+		bonegnawerculture = {}
+		fiannaculture = {}
+		getoffenrisculture = {}
+		childofgaiaculture = {}
+		redtalonculture = {}
+		silentstriderculture = {}
+		silverfangculture = {}
+		shadowlordculture = {}
+		warderculture = {}
+		whitehowlerculture = {}
+		blackspiraldancerculture = {}
 
 	}
 	
