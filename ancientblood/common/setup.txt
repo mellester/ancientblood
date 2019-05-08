@@ -380,7 +380,7 @@ provinces = { #Any entry must contain a comment with city name.
 	6611 = {	 #Indo Greek Capital
 		fortress_building = 1
 		commerce_building = 1
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		citizen = {
 			culture = magadhi
 			religion = buddhism
@@ -424,7 +424,7 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	
 	6615 = { # Alexandreia Opiane
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		tribesmen = {
 			culture = sattagydian
 			religion = zoroaster
@@ -473,7 +473,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	6821 = {
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		tribesmen = {
 			culture = sindhi
 			religion = hindu
@@ -551,7 +551,7 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 	416 = { #Athens
 		fortress_building = 1
-		modifier = { modifier = academy_of_athens }
+		modifier = { modifier = academy_of_athens always = yes }
 	}
 	835 = { #Hatra
 		fortress_building = 1
@@ -563,7 +563,7 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	266 = { #Rhodos
 		fortress_building = 1
-		modifier = { modifier = fortifications_of_rhodes }
+		modifier = { modifier = fortifications_of_rhodes always = yes }
 	}
 	
 	#Peter beyond this point:
@@ -1573,7 +1573,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	266 = { #Rhodos
-		modifier = { modifier = rhodian_glass_workshops }
+		modifier = { modifier = rhodian_glass_workshops always = yes }
 		commerce_building = 1
 		citizen = {
 			culture = hebrew
@@ -1883,10 +1883,10 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	332 = { #Kition
-		modifier = { modifier = cypriot_copper_mines }
+		modifier = { modifier = cypriot_copper_mines always = yes }
 	}
 	333 = { #Soloi
-		modifier = { modifier = cypriot_copper_mines }
+		modifier = { modifier = cypriot_copper_mines always = yes }
 	}
 	334 = { #Paphos
 		citizen = {
@@ -1899,10 +1899,10 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	336 = { #Tamassos
-		modifier = { modifier = cypriot_copper_mines }
+		modifier = { modifier = cypriot_copper_mines always = yes }
 	}
 	338 = { #Amathous
-		modifier = { modifier = cypriot_copper_mines }
+		modifier = { modifier = cypriot_copper_mines always = yes }
 	}
 	339 = { # Sebaste
 		slaves = {
@@ -2091,7 +2091,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	417 =  {
-		modifier = { modifier = megarian_school }
+		modifier = { modifier = megarian_school always = yes }
 	}
 	418 = { #Korinth
 		fortress_building = 2 #Acrocorinth
@@ -2199,7 +2199,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	441 = {
-		modifier = { modifier = asklepion }
+		modifier = { modifier = asklepion always = yes }
 	}
 	457 = { #Naupaktos
 		citizen = {
@@ -2929,7 +2929,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	741 = { #Iyyon
-		modifier = { modifier = cedars_of_lebanon }
+		modifier = { modifier = cedars_of_lebanon always = yes }
 		freemen = {
 			culture = aramaic
 			religion = carthaginian_pantheon
@@ -2940,7 +2940,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	743 = { #Tyrus
-		modifier = { modifier = tyrian_purple }
+		modifier = { modifier = tyrian_purple always = yes }
 		citizen = {
 			culture = hebrew
 			religion = judaism
@@ -2978,7 +2978,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	749 = { #Brochoi
-		modifier = { modifier = cedars_of_lebanon }
+		modifier = { modifier = cedars_of_lebanon always = yes }
 		freemen = {
 			culture = aramaic
 			religion = carthaginian_pantheon
@@ -3064,7 +3064,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	768 = { #Lebanos mons
-		modifier = { modifier = cedars_of_lebanon }
+		modifier = { modifier = cedars_of_lebanon always = yes }
 	}
 	771 = {
 		slaves = {
@@ -3124,7 +3124,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	783 = { #Bargylus Mons
-		modifier = { modifier = cedars_of_lebanon }
+		modifier = { modifier = cedars_of_lebanon always = yes }
 	}
 	784 = {
 		freemen = {
@@ -4327,7 +4327,7 @@ provinces = { #Any entry must contain a comment with city name.
 
 
 	1036 = { #Mastia/Carthago Nova
-		modifier = { modifier = mastian_gold_range }
+		modifier = { modifier = mastian_gold_range always = yes }
 		citizen = {
 			culture = carthaginian
 			religion = carthaginian_pantheon
@@ -4338,10 +4338,10 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	1209 = {
-		modifier = { modifier = lapis_specularis_segobriga }
+		modifier = { modifier = lapis_specularis_segobriga always = yes }
 	}
 	1344 = {
-		modifier = { modifier = gades_garum }
+		modifier = { modifier = gades_garum always = yes }
 	}
 	1348 = { # Karta
 		tribesmen = {
@@ -4540,7 +4540,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	1594 = { #Kangavar
-		modifier = { modifier = nisean_horses }
+		modifier = { modifier = nisean_horses always = yes }
 	}
 	1603 = { # Zagrou Pilai
 		tribesmen = {
@@ -6654,7 +6654,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	4959 = { #Alexandria Carmana
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		citizen = {
 			culture = macedonian
 			religion = roman_pantheon
@@ -7287,7 +7287,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	6686 = { # Alexandreia Tarmita
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		slaves = {
 			culture = bactrian
 			religion = roman_pantheon
@@ -7314,7 +7314,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	6688 = { # Alexandria Oxiana
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		tribesmen = {
 			culture = bactrian
 			religion = roman_pantheon
@@ -9789,7 +9789,7 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Alexandrias (ie greek Settlements founded by Alexander, small civilization boost.
 	516 = { #By the Nile
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		population_building = 1
 		commerce_building = 3
 		citizen = {
@@ -9874,7 +9874,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	940 = { #In Mesopotamia
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		tribesmen = {
 			culture = babylonian
 			religion = mesopotamian_religion
@@ -9931,19 +9931,19 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	3672 = {
-		modifier = { modifier = noric_steel }
+		modifier = { modifier = noric_steel always = yes }
 	}
 	4131 = {
-		modifier = { modifier = noric_steel }
+		modifier = { modifier = noric_steel always = yes }
 	}
 	4315 = { # Alexandreia Nikaia
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	4316 = { # Boukephalia
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	4371 = { #By the Indus
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		tribesmen = {
 			culture = sindhi
 			religion = hindu
@@ -9962,25 +9962,25 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	4372 = { # Alexandria Sogdiana
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	5550 = { # Alexandrou Parembole
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	6620 = { # Alexandria Rhambacia
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	6518 = { # Alexandreia Prophtasia
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	6552 = { #Sacastene
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	6557 = { #Auriorum
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	6541 = { #Arachosia
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		tribesmen = {
 			culture = pactyan
 			religion = zoroaster
@@ -10031,7 +10031,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	6668 = { #In Persia
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		tribesmen = {
 			culture = margian
 			religion = zoroaster
@@ -10074,7 +10074,7 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	6704 = { #Eschate
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 		slaves = {
 			culture = sogdian
 			religion = zoroaster
@@ -10097,12 +10097,12 @@ provinces = { #Any entry must contain a comment with city name.
 		}
 	}
 	7485 = { # Alexandria Hypasis
-		modifier = { modifier = alexandria }
+		modifier = { modifier = alexandria always = yes }
 	}
 	
 	#Gardens of Babylon
 	918 = {
-		modifier = { modifier = gardens_of_babylon }
+		modifier = { modifier = gardens_of_babylon always = yes }
 		citizen = {
 			culture = hebrew
 			religion = judaism
@@ -10139,52 +10139,52 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	#Pyramids of Giza
 	500 = {
-		modifier = { modifier = pyramid_complex }
+		modifier = { modifier = pyramid_complex always = yes }
 	}
 	
 	
 	#Anu Temple of Uruk
 	937 = {
-		modifier = { modifier = anu_temple }
+		modifier = { modifier = anu_temple always = yes }
 	}
 	#
 	290 = { #Ephesos
-		modifier = { modifier = artemis_temple }
+		modifier = { modifier = artemis_temple always = yes }
 	}
 	1981 = { #Halicarnassus
-		modifier = { modifier = mausoleum_of_mausolos }
+		modifier = { modifier = mausoleum_of_mausolos always = yes }
 	}
 	
 	#Bosporus
 	1453 = {
-		modifier = { modifier = bosporus }
+		modifier = { modifier = bosporus always = yes }
 	}
 	240 = {
-		modifier = { modifier = bosporus }
+		modifier = { modifier = bosporus always = yes }
 	}
 	241 = {
-		modifier = { modifier = bosporus }
+		modifier = { modifier = bosporus always = yes }
 	}
 	
 	#Hellespont
 	349 = {
-		modifier = { modifier = hellespont }
+		modifier = { modifier = hellespont always = yes }
 	}
 	261 = {
-		modifier = { modifier = hellespont }
+		modifier = { modifier = hellespont always = yes }
 	}
 	
 	#Pillars of Hercules
 	1347 = {
-		modifier = { modifier = pillars_of_hercules }
+		modifier = { modifier = pillars_of_hercules always = yes }
 	}
 	3061 = {
-		modifier = { modifier = pillars_of_hercules }
+		modifier = { modifier = pillars_of_hercules always = yes }
 	}
 	
 	439 = { #Olympia
-		modifier = { modifier = olympic_games_modifier }
-		modifier = { modifier = zeus_temple_at_olympia }
+		modifier = { modifier = olympic_games_modifier always = yes }
+		modifier = { modifier = zeus_temple_at_olympia always = yes }
 	}
 	
 	########################################
@@ -10901,8 +10901,8 @@ country = {
 		ROM = {
 			government = aristocratic_republic
 			diplomatic_stance=warmongering_stance
-			primary_culture = ventrueculture
-			religion = vampire_sect
+			primary_culture = roman
+			religion = roman_pantheon
 
 			capital = 1
 		
@@ -10989,9 +10989,9 @@ country = {
 		
 		#Etruscans
 		ETR = {
-			government = tribal_federation
-			primary_culture = etruscan
-			religion = roman_pantheon
+			government = despotic_monarchy
+			primary_culture = ventrueculture
+			religion = vampirereligion
 			diplomatic_stance=trading_stance
 			centralization = 80
 			capital = 114 

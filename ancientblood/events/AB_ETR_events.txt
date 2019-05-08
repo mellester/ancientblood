@@ -1,0 +1,33 @@
+﻿namespace = AB_ETR_events
+
+# Dealing with Tinia
+
+AB_ETR_events.1 = { # called from decision
+	type = country_event
+	title = "AB_ETR_events.1.t"
+	desc = "AB_ETR_events.1.desc"
+	picture = throneroom
+	left_portrait = current_ruler
+	
+	option = {
+		name = "AB_ETR_events.1.a"
+		
+		add_treasury = -500
+		add_oratory_power = -200
+		char:208 = { # Tinia					
+			remove_trait = ennui			
+		}	
+		ai_chance = { factor = 20 }
+		}
+	option = { 
+		name = "AB_ETR_events.1.b"
+		
+		add_oratory_power = -100
+		char:208 = { # Tinia	
+		death = {
+		death_reason = death_mysteriously_retired 
+			}				
+		}	
+		ai_chance = { factor = 80 }
+	}
+}

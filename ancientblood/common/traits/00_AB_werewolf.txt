@@ -3,14 +3,6 @@
 	congenital = no
 	martial = 2
 	health = 5
-	
-	opposites = {
-		vampire
-		mage
-		#truefae
-		#demon
-		#changeling
-		}
 }
 
 kinfolk = {
@@ -23,12 +15,15 @@ kinfolk = {
 blackfury = {
 	type = status
 	martial = 1
+	unit = {
+		horse_archers_discipline = 0.05
+	}
 	
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -42,13 +37,15 @@ blackfury = {
 
 bonegnawer = {
 	type = status
-	martial = 1
-	
+	finesse = 1
+	country = {
+		agressive_expansion_impact = -0.1
+	}
 	opposites =  {
 		blackfury
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -62,13 +59,15 @@ bonegnawer = {
 
 fianna = {
 	type = status
-	martial = 1
-	
+	charisma = 1
+	country = {
+		diplomatic_relations = 1
+	}
 	opposites =  {
 		bonegnawer
 		blackfury
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -83,12 +82,15 @@ fianna = {
 getoffenris = {
 	type = status
 	martial = 1
-	
+	unit = {
+		land_morale_modifier = 0.05
+		loyalty_gain_chance = 0.02
+	}	
 	opposites =  {
 		bonegnawer
 		fianna
 		blackfury
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -100,10 +102,12 @@ getoffenris = {
 	
 }
 
-childofgaia = {
+childrenofgaia = {
 	type = status
-	martial = 1
-	
+	charisma = 1
+	country = {
+		happiness_for_wrong_culture_group_modifier = 0.05
+	}	
 	opposites =  {
 		bonegnawer
 		fianna
@@ -123,12 +127,15 @@ childofgaia = {
 redtalon = {
 	type = status
 	martial = 1
+	unit = {
+		assault_ability = 0.1
+	}	
 	
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		blackfury
 		silentstrider
 		silverfang
@@ -142,13 +149,15 @@ redtalon = {
 
 silentstrider = {
 	type = status
-	martial = 1
-	
+	zeal = 1
+	country = {
+		change_governor_policy_cost_modifier = -0.25
+	}	
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		blackfury
 		silverfang
@@ -162,13 +171,14 @@ silentstrider = {
 
 silverfang = {
 	type = status
-	martial = 1
-	
+	charisma = 1
+	prominence = 10
+
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		blackfury
@@ -182,13 +192,15 @@ silverfang = {
 
 shadowlord = {
 	type = status
-	martial = 1
-	
+	finesse = 1
+	country = {
+		assassinate_attempt_cost_modifier = -0.2
+	}
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -202,13 +214,15 @@ shadowlord = {
 
 warder = {
 	type = status
-	martial = 1
-	
+	zeal = 1
+	country = {
+		research_points_modifier = 0.05
+	}	
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -223,12 +237,14 @@ warder = {
 whitehowler = {
 	type = status
 	martial = 1
-	
+	unit = {
+		chariots_discipline = 0.05
+	}	
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -243,12 +259,14 @@ whitehowler = {
 blackspiraldancer = {
 	type = status
 	martial = 1
-	
+	unit = {
+		land_morale_modifier = 0.05
+	}	
 	opposites =  {
 		bonegnawer
 		fianna
 		getoffenris
-		childofgaia
+		childrenofgaia
 		redtalon
 		silentstrider
 		silverfang
@@ -275,7 +293,7 @@ auspiceragabash = {
 
 auspicetheurge = {
 	type = status
-	finesse = 1
+	zeal = 1
 	opposites = {
 		auspiceragabash
 		auspicephilodox
@@ -286,7 +304,7 @@ auspicetheurge = {
 
 auspicephilodox = {
 	type = status
-	finesse = 1
+	charisma = 1
 	opposites = {
 		auspiceragabash
 		auspicetheurge
@@ -297,7 +315,7 @@ auspicephilodox = {
 
 auspicegalliard = {
 	type = status
-	finesse = 1
+	charisma = 1
 	opposites = {
 		auspiceragabash
 		auspicetheurge
@@ -308,7 +326,7 @@ auspicegalliard = {
 
 auspiceahroun = {
 	type = status
-	finesse = 1
+	martial = 1
 	opposites = {
 		auspiceragabash
 		auspicetheurge

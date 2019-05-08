@@ -38,41 +38,898 @@
 	culture = {
 		blackfuryculture = {
 			male_names = {
-				Aderbal Arish Arishti Bano Balhano Barka Barkmelqart Bodo Bodmelqart Bodashtart Qarthalus Gerashtart Gilim Gersakun Hamalko Hanibal Hano Asrubal Himelkat Magun Maharbal Malko Misde Safo Eshmunyatun Eshmunhalus
+				Abreas Achaios Acnonios Aeacides Aenias Aeropos Agaios Agatharchides
+				Agathokles Agathon Agelaos Agenor Agesipolis Agis Aischines Akrotatos
+				Alexandros Alketas Alkimachos Alkimos Amantas Amphoteros Amyntas Anaxarchos
+				Anaxikrates Anaxippos Andragoras Andromachos Andromenes Andronikos
+				Androsthenes Antenor Antialkidas Antigonos Antikles Antimachos Antiochos
+				Antipatros Antiphates Antiphilos Antisthenes Aphrodisios Apollodoros
+				Apollodotos Apollonios Apollophanes Aratos Archebios Archelaos Archias
+				Archidamos Archimedes Archippos Aretas Areus Aristarchos Aristobulos
+				Aristodemos Aristogeiton Aristomachos Ariston Aristonikos Aristophanes
+				Aristophon Aristoteles Arrhabaios Arrhidaios Arseas Artemidoros Artemidotos
+				Asandros Asklepiades Athanadoros Athenodoros Attalos Bakchides Balakros Bikon
+				Bryaxis Chabrias Chairestratos Chairondas Chares Charidemos Charikles Charinos
+				Chremes Chremonides Chrysippos Damokrates Damophon Damoteles Deinippos Demades
+				Demetrios Demodamas Demogenes Demokleides Demokritos Demophanes Demosthenes 
+				Derdas Deriades Didas Dikaiarchos Dikaios Dimnos Diodoros Diodotos Diogenes 
+				Diomedes Dion Dionysios Dropidas Echekrates Eisigonos Ekdemos Empedokles 
+				Epameinondas Epandros Epikuros Epikydes Epimenes Epokillos Erasistratos 
+				Eratosthenes Erigyios Euainetos Euandros Eubulos Eudamidas Eudoxos Euhemeros
+				Eukleides Eukrates Eukratides Euktemon Eumenes Euripides Eurylochos Euthydemos
+				Euthykrates Euthykritos Eutychides Euxenippos Gelon Glaukias Gorgias Gorgos 
+				Gylippos Hagesandros Halkyoneus Harpalos Hegemachos Hegesias Hekataios Hektor 
+				Helenos Heliodoros Heliokles Hephaistion Herakleides Herakon Hermaios 
+				Hermarchos Hermesianax Hermias Hermolaos Heromenes Herophilos Hierax Hieron 
+				Hieronymos Hiketas Hippalos Hippokrates Hippostratos Hyakinthos Hyperbatas 
+				Hypereides Ikadion Iollas Iphikrates Ismenias Isokrates Kalas Kallines 
+				Kallisthenes Kallistratos Kallixeinos Karneades Karsis Kassandros Kebalinos
+				Kephalon Kephisodoros Kephisodotos Kephisophon Kineas Kleandros Kleanthes 
+				Klearchos Kleitos Kleombrotos Kleomenes Kleonymos Koinos Koroibos Krateros 
+				Krates Krateuas Krenides Ktesikles Lachares Laomedon Leonidas Leonnatos 
+				Leontios Leosthenes Leostratos Leukon Lydiadas Lykurgos Lysandridas Lysandros 
+				Lysias Lysimachos Lysippos Lysistratos Machanidas Machatas Makartatos Marsyas 
+				Megaleas Megasthenes Memnon Menandros Menedemos Menelaos Menes Menidas Menon 
+				Menos Metrodoros Metron Milon Mnaseas Mnesidemos Molon Nabis Neaichmos 
+				Nearchos Neoptolemos Nikagoras Nikandros Nikanor Nikarchos Nikephoros 
+				Nikeratos Niketes Nikias Nikodoros Nikokles Nikokrates Nikokreon Nikomachos 
+				Nikostratos Numenios Olympiodoros Onomarchos Onomastos Ophellas Orestes 
+				Paionios Pantaleon Pantauchos Pantordanos Parmenion Patrokles Pausanias 
+				Peithagoras Peithon Pelopidas Pelops Perdikkas Peroidas Perseus Peukestas 
+				Peukolaos Pherekles Philemon Philetairos Philetas Philinos Philippos Philokles
+				Philon Philonides Philopoimenos Philotas Philoxenos Phrynichos Phyromachos 
+				Platon Pleistarchos Polemon Polybios Polydamas Polydoros Polyeuktos Polygnotos
+				Polyperchon Poseidippos Poseidonios Praxibulos Praxiteles Proteas Ptolemaios 
+				Pyrrhias Pytheas Pythodelos Seleukos Simmias Simonides Sopolis Sosistratos 
+				Sosthenes Sostratos Sotas Spalyris Stasanor Stilpon Straton Stratonikos 
+				Taurion Tauriskos Teisikrates Thearidas Themistios Theodamas Theodoros 
+				Theodotos Theokritos Theophilos Theophrastos Thoas Thoinias Thoinon Thrasykles
+				Timaios Timarchos Timoleon Timotheos Tryphon Xanthippos Xenares Xenokrates 
+				Xenophon Zeionises Zenon Zeuxis Zoilos Zopyrion
 			}
-			
 			female_names = {
-				Barkat Dido Elishat Hatmelkat Safanbal Ama'ashtart Ladash Lashmun Amtbal Asfet Rashtubal Shadanat
+				Charis Demetria Diantha Dionysia Agathokleia Agiatis Antiochis Apame Apame
+				Apollonia Ariadne Arsinoe Artemisia Athenais Belistiche Berenike Damarate
+				Daphne Demo Elpis Eirene Euphemia Euthalia Hypatia Kandake Kassandra Megaira
+				Melaina Narkissa Nysa Olympia Phila Phile Eurydike Histieia Isidora Kalliope
+				Kallista Kellanthis Kleio Kleopatra Kratesikleia Lanassa Laodike Laodike
+				Libys Lysandra Lysis Mestris Monime Nephoris Oinanthe Pamphile Phila Philotera
+				Phthia Ptolema Sofia Sostrate Thais Theophila Thetima Timo Xanthe Xene Xenia
+				Ptolemais Selene Sophe Stratonike Stratonike Theoxene Thoeris Tryphaina Zosime
+				 
+				Ada Aegyptia Anthis Antigona Aphrodisia Archestrate Archilla Archippe Aristagora 
+				Ariste Aristion Aristo Aristoboule Aristodike Aristokleia Aristokrateia Aristomache 
+				Aristonike Aristylla Artemis Aspasia Biote Boidion Chairestrate Chairippe Choirine 
+				Chrysilla Chrysis Demokrateia Demostrate Diokleia Doris Dorkas Eukleia Eukoline Euphrosyne 
+				Euporia Eutychis Glykera Hedeia Hediste Hedyle Hedyline Herais Hiero Hierokleia Hippostrate 
+				Homolois Kallimache Kallippe Kallis Kallistion Kallisto Kallistomache Kallistrate Kleagora 
+				Kleariste Kleino Kleito Kleo Kleopatra Kleostrate Krateia Laodike Leaina Leontis Lysimache 
+				Lysistrate Malthake Mania Melissa Melitta Menestrate Meniske Metrodora Mika Mnesarete Mnesistrate 
+				Murrhine Nausistrate Nikagora Nikaia Nikareta Nikarete Nikeso Niko Nikomache Nikostrate Olympias
+				Pamphile Parthenis Patrokleia Phanagora Phano Phanostrate Philainis Phileia Philias Philinna Philippa 
+				Philista Phillo Philokleia Philostrate Philotera Philotis Philoumene Philoxena Plangon Plathane Pythias 
+				Rhode Satyra Sima Simale Simon Sostrate Syra Theano Theodora Theodote Thraitta Timagora Timarete Timokleia 
+				Timostrate Xeno Xenokrateia Zopyra Zopyris
+			}
+		
+			nickname = {
+				NICKNAME_EPIPHANES
+				NICKNAME_EUERGETES
+				NICKNAME_EUPATOR
+				NICKNAME_EUSEBES
+				NICKNAME_KALLINIKOS
+				NICKNAME_NEOS_DIONYSOS
+				NICKNAME_NIKATOR
+				NICKNAME_PHILADELPHOS
+				NICKNAME_PHILOMETOR
+				NICKNAME_PHILOPATOR
+				NICKNAME_SOTER
+				NICKNAME_THEOS
+				NICKNAME_POLIORCETES
+				NICKNAME_DOSON
+				NICKNAME_GONATAS
+				NICKNAME_KALOS
 			}
 			
 			family = {
-				Tigillas.Tigilla.Tigillii.Tigillid
-				Barqa.Barqa.Barqid.Barqid
-				Magun.Magun.Magonid.Magonid
-				Gersakun.Gersakun.Gersakunid.Gersakunid
-				Dido.Dido.Didonid.Didonid
-				Ashtartitan.Ashtartitan.Ashtartitanid.Ashtartitanid
-				Famas.Famas.Famasid.Famasid
-				Rab.Rab.Rabid.Rabid
-				Haqara.Haqara.Haqarid.Haqarid
-				Arik.Arik.Arikid.Arikid
-				Shalum.Shalum.Shalumid.Shalumid
-				Yuni.Yuni.Yunid.Yunid
-				Shafur.Shafur.Shafurid.Shafurid
-			}
+				Galestus.Galestid.Galestid.Galestid
+				Kenamus.Kenamid.Kenamid.Kenamid
+				Naravid.Naravid.Naravid.Naravid
+				Penamus.Penamid.Penamid.Penamid
+				Senuid.Senuid.Senuid.Senuid
+				Setnid.Setnid.Setnid.Setnid
+				Arganid.Arganid.Arganid.Arganid
+				Psammid.Psammid.Psammid.Psammid
+				Philothid.Philothid.Philothid.Philothid
+				Timolid.Timolid.Timolid.Timolid
+				Zosid.Zosid.Zosid.Zosid
+				Phileid.Phileid.Phileid.Phileid
+				Nicodemid.Nicodemid.Nicodemid.Nicodemid
+				Nefarid.Nefarid.Nefarid.Nefarid
+				Bastid.Bastid.Bastid.Bastid
+				Xeneid.Xeneid.Xeneid.Xeneid
+				Naravid.Naravid.Naravid.Naravid
+				Ezanid.Ezanid.Ezanid.Ezanid
+				Ahmid.Ahmid.Ahmid.Ahmid
+				Alarus.Alara.Alarid.Alarid
+				Harsiotes.Harsiotes.Harsiotid.Harsiotid
+				Henus.Hena.Henid.Henid
+				Ibus.Iba.Ibid.Ibid
+				Khabbash.Khabbash.Khabbashid.Khabbashid	
+				Amasus.Amasa.Amasid.Amasid
+				Nectanebo.Nectanebo.Nectanebid.Nectanebid
+				Petubast.Petubast.Petubastes.Petubastid
+				Djedhid.Djedhid.Djedhid.Djedhid
+				Tachys.Tachya.Tachyes.Tachyid			}	
 		}
 		
-		bonegnawerculture = {}
-		fiannaculture = {}
-		getoffenrisculture = {}
-		childofgaiaculture = {}
-		redtalonculture = {}
-		silentstriderculture = {}
-		silverfangculture = {}
-		shadowlordculture = {}
-		warderculture = {}
-		whitehowlerculture = {}
-		blackspiraldancerculture = {}
+		bonegnawerculture = {	
+			male_names = {
+			Marduk-beli Marduk-belshunu Marduk-eriba Marduk-etir Marduk-ibni
+			Marduk-iddin Marduk-uballit Kidin-Marduk Lusthammar-Marduk Nidinti-Marduk
+			Rihat-Marduk Shamshi-Marduk Shipqat-Marduk Tanittu-Marduk Tukulti-Marduk
+			Bel-beli Bel-belshunu Bel-eriba Bel-etir Bel-ibni Bel-iddin Bel-uballit
+			Kidin-Bel Lusthammar-Bel Nidinti-Bel Rihat-Bel Shamshi-Bel Shipqat-Bel
+			Tanittu-Bel Tukulti-Bel Shamash-beli Shamash-belshunu Shamash-eriba
+			Shamash-etir Shamash-ibni Shamash-iddin Shamash-uballit Kidin-Shamash
+			Lusthammar-Shamash Nidinti-Shamash Rihat-Shamash Shamshi-Shamash
+			Shipqat-Shamash Tanittu-Shamash Tukulti-Shamash Ashshur-beli
+			Ashshur-belshunu Ashshur-eriba Ashshur-etir Ashshur-ibni Ashshur-iddin
+			Ashshur-uballit Kidin-Ashshur Lusthammar-Ashshur Nidinti-Ashshur
+			Rihat-Ashshur Shamshi-Ashshur Shipqat-Ashshur Tanittu-Ashshur
+			Tukulti-Ashshur Ishtar-beli Ishtar-belshunu Ishtar-eriba Ishtar-etir
+			Ishtar-ibni Ishtar-iddin Ishtar-uballit Kidin-Ishtar Lusthammar-Ishtar
+			Nidinti-Ishtar Rihat-Ishtar Shamshi-Ishtar Shipqat-Ishtar Tanittu-Ishtar
+			Tukulti-Ishtar Adad-beli Adad-belshunu Adad-eriba Adad-etir Adad-ibni
+			Adad-iddin Adad-uballit Kidin-Adad Lusthammar-Adad Nidinti-Adad Rihat-Adad
+			Shamshi-Adad Shipqat-Adad Tanittu-Adad Tukulti-Adad Nergal-beli
+			Nergal-belshunu Nergal-eriba Nergal-etir Nergal-ibni Nergal-iddin
+			Nergal-uballit Kidin-Nergal Lusthammar-Nergal Nidinti-Nergal Rihat-Nergal
+			Shamshi-Nergal Shipqat-Nergal Tanittu-Nergal Tukulti-Nergal Sin-beli
+			Sin-belshunu Sin-eriba Sin-etir Sin-ibni Sin-iddin Sin-uballit Kidin-Sin
+			Lusthammar-Sin Nidinti-Sin Rihat-Sin Shamshi-Sin Shipqat-Sin Tanittu-Sin
+			Tukulti-Sin Enlil-beli Enlil-belshunu Enlil-eriba Enlil-etir Enlil-ibni
+			Enlil-iddin Enlil-uballit Kidin-Enlil Lusthammar-Enlil Nidinti-Enlil
+			Rihat-Enlil Shamshi-Enlil Shipqat-Enlil Tanittu-Enlil Tukulti-Enlil
+			Ninurta-beli Ninurta-belshunu Ninurta-eriba Ninurta-etir Ninurta-ibni
+			Ninurta-iddin Ninurta-uballit Kidin-Ninurta Lusthammar-Ninurta
+			Nidinti-Ninurta Rihat-Ninurta Shamshi-Ninurta Shipqat-Ninurta
+			Tanittu-Ninurta Tukulti-Ninurta 
+		}
+		female_names = {
+			Wardat-Marduk Wardat-Bel Wardat-Shamash Wardat-Ashshur
+			Wardat-Ishtar Wardat-Adad Wardat-Nergal Wardat-Sin Wardat-Enlil
+			Wardat-Ninurta 
+		}
+		family = {
+			Galestus.Galestid.Galestid.Galestid
+			Kenamus.Kenamid.Kenamid.Kenamid
+			Naravid.Naravid.Naravid.Naravid
+			Penamus.Penamid.Penamid.Penamid
+			Senuid.Senuid.Senuid.Senuid
+			Setnid.Setnid.Setnid.Setnid
+			Arganid.Arganid.Arganid.Arganid
+			Psammid.Psammid.Psammid.Psammid
+			Philothid.Philothid.Philothid.Philothid
+			Timolid.Timolid.Timolid.Timolid
+			Zosid.Zosid.Zosid.Zosid
+			Phileid.Phileid.Phileid.Phileid
+			Nicodemid.Nicodemid.Nicodemid.Nicodemid
+			Nefarid.Nefarid.Nefarid.Nefarid
+			Bastid.Bastid.Bastid.Bastid
+			Xeneid.Xeneid.Xeneid.Xeneid
+			Naravid.Naravid.Naravid.Naravid
+			Ezanid.Ezanid.Ezanid.Ezanid
+			Ahmid.Ahmid.Ahmid.Ahmid
+			Alarus.Alara.Alarid.Alarid
+			Harsiotes.Harsiotes.Harsiotid.Harsiotid
+			Henus.Hena.Henid.Henid
+			Ibus.Iba.Ibid.Ibid
+			Khabbash.Khabbash.Khabbashid.Khabbashid	
+			Amasus.Amasa.Amasid.Amasid
+			Nectanebo.Nectanebo.Nectanebid.Nectanebid
+			Petubast.Petubast.Petubastes.Petubastid
+			Djedhid.Djedhid.Djedhid.Djedhid
+			Tachys.Tachya.Tachyes.Tachyid
+		}
+	}
+		fiannaculture = {	
+		male_names = {
+			Actus Aidas Alilas Ambicatus Assicu Baidagnas Barrivendas Battignias Biracas Bivaidu Bodibevas Branogenas Brocagnas Caliacas Catomaglas Cattubuts Cliucu Coillabbots Coimagnas Colomagnas Commaggagnas Corbagnas Corbbas Coribirias Corrbrias Covagnas Culidovas Cunacennas Cunagussus Cunagusus Cunalega Cunalegas Cunamaglas Cunamaqqas Cunanas Cunanets Cunas Cunatamas Cunavalas Cunorics Curcagnas Curcittias Dalagnas Dalas Donanas Donas Dovagnas Dovaidu Dovalescas Dovatuca Dovatucas Dovvina Dumeledu Dunaidu Ercagnas Ercaidu Ercas Ercaviccs Gamicu Gattagnas Glasicu Golas Gossucttia Icorics Ircittis Ivacattus Ivagenas Laddignias Lugaddu Lugudeccs Luguvveccs Maglicu Mailagnas Mainas Minnaccagnas Moddagnas Mornas Neras Netacaras Oinogustus Qasignias Qenilocagnas Qenilocas Rittavvecs Rodagnas Ronanas Sagragnas Scilagnas Sedandas Sedanias Sinas Soginas Suladamas Talagnas Totavalas Trenaccatus Trenagusus Uisinas Ulcagnas Uscaras Vedacu Veddellemettis Vendas Vendegas Vendubaras Veqoanaias Verdiadas Vergosus Vlatiamas Voenacu Vorgalas
+		}
+		female_names = {
+			Acala Aiva Aina Airmida Auitoriga Bana Bivena Balatnada Boana Brigitia Clotru Conana Danana Deicittina Derdria Elea Evera Graina Ivadaina Leavarcama Liattia Maca Mada Maeva Maga Mugaina Muirina Naevaina Nesa Niava Oivagrina Plora Saba Scattaca Uattaca Vanda Vanana Veddellema Vendabaira Venducoema Vlidais Vodula Vuamanaca
+		}
+		family = {
+			Bolgi.Bolgi.Bolgi.Bolgian
+			Cruitini.Cruitini.Cruitini.Cruitinian
+			Dairini.Dairini.Dairini.Dairene
+			Deblanni.Deblanni.Deblanni.Deblanian
+			Deirgtini.Deirgtini.Deirgtini.Deirgtinian
+			Domgnanni.Domgnanni.Domgnanni.Domgnannid
+			Ecmacti.Ecmacti.Ecmacti.Emactid
+			Eranni.Eranni.Eranni.Erannian
+			Gamagnragni.Gamagnragni.Gamagnragni.Gamagnragnid
+			Laggigni.Laggigni.Laggigni.Laggidnid
+			Laiggisi.Laiggisi.Laiggisi.Laiggisinid
+			Moggagni.Moggagni.Moggagni.Moggagnid
+			Sogagni.Sogagni.Sogagni.Sogagnid
+			Tadegni.Tadegni.Tadegni.Tadegnid
+			Uaitani.Uaitani.Uaitani.Uatinid
+			Ultacci.Ultacca.Ultacci.Ultaccian
+		}
+		}
+		getoffenrisculture = {	
+		male_names = {
+			Acthram Acthrauc Actmund Actobald Actogais Actogast Actoleik Actomar
+			Actrand Actric Actwald Agenaric Aginaric Aktumer Arbogais Arbogan
+			Arbogast Arbolaik Arbomund Arbram Arbrand Arbrauc Arbric Arbwald Ariogaesus Ariogais Ascaric Ascobald Ascogast Ascoger Ascohram
+			Ascohrauc Ascoht Ascoleik Ascomund Ascorand Ascoric Ascowald
+			Baldhrauc Baldo Baldogais Baldogast Baldric Baldwald Bauto
+			Casthrauc Castleik Castrand Castric Charietto Chariovalda
+			Chrocus Danko Duomact Duomeid Duomogan Duomogar Duomogast
+			Duomolaik Duomorand Duomorauc Duomoric Edobich Eidgais
+			Eidgast Eidhram Eidhrauc Eidleik Eidmund Eidobald Eidoht
+			Eidowald Eidrand Eidric Erbemar Erbo Erpmund Flavius Geno Genobald Genobaud
+			Genomund Genoram Genorand Genric Genwald Gerand Gerhram
+			Gerhrauc Geric Gero Gerogast Gerolaik Gerorauc Gerwald
+			Gundhram Gundleik Gundmar Gundobald Gundogan Gundogar Gundogast
+			Gundomund Gundowald Gundrand Gundrauc Gundric Hariowald Heri
+			Hildeid Hildgan Hildhram Hildobald Hildogais Hildogast Hildoht
+			Hildoleik Hildomund Hildrand Hildrauc Hildric Hildwald Hrambald
+			Hramgast Hramleik Hramo Hramric Hramund Hramwald Hraucwald
+			Hraugmund Hraugram Hraugric Hroco Ingast Ingbald Inger Ingmund
+			Ingoht Ingoleik Ingomar Ingram Ingrand Ingrauc Ingric Ingsun
+			Inguiomer Ingwald Laikwald Leigmund Leikbolad Leikrauc Leko
+			Malact Malleik Mallobald Mallobaudes Mallovendus Malo Malobald
+			Malogan Malogast Maloger Malogund Maloram Malorand Malorauc
+			Maloric Malowind Malwald Marcobold Marcogan Marcogast Marcoger
+			Marcogund Marcoleik Marcomer Marcomund Marcoram Marcorauc
+			Marcwald Markoht Marobod Marodouus Mederic Mero Merobald
+			Merobaudes Merogais Mundobald Mundogast Mundoger Nebigast
+			Randleik Randmund Rando Randobald Randram Randrauc Richomeres
+			Ricomar Rigleik Rigmund Rigrand Rigwald Segestes Segimer
+			Segimund Sesithank Sigact Sigeid Sigibald Sigigais Sigigan
+			Sigigast Sigigund Sigimar Sigimund Sigiram Sigirand Sigirauc
+			Sigismund Sigisun Siglaik Sigo Sigric Sigwald Sunbald Sungan
+			Sunger Sunlaik Sunnact Sunneid Sunneram Sunno Sunnogast
+			Sunnomund Sunnorauc Sunnoric Sunrand Sunwald Tanchild Tancoht
+			Tancram Tancrand Tancric Tancwald Teutomer Theodeid Theodlaik
+			Theodo Theodobald Theodogais Theodogan Theodogast Theodogund
+			Theodoht Theodomer Theodomund Theodoram Theodorand Theodoric
+			Theodrauc Theodwald Thumelicus Thuribald Thurigais Thurigast
+			Thurisegan Thuriseid Thuriserand Thuriseric Thurismund
+			Thurisoht Thuriswald Tuombald Tuomo Tuomogund Tuomoleik
+			Tuomomund Tuomwald Ukromer Vakromar Valao Vangio Walao
+			Walbald Waldmund Waldo Waldogast Waldrand Walgar Walgast
+			Walha Walmund Walogan Walolaik Walorand Walram Walrauc Walric Windo
+		}
+		female_names = {
+			Actihild Aschild Baldhild Casthild Castiburg Duomburg Duomhild
+			Eidburg Eidhild Eidsunne Eidwalda Geriburg Gerrhild Gunborg
+			Gundhild Hildborg Hildwald Hramburg Hramhild Hramis Hrauchild
+			Hraugiburg Ingiburg Ingihild Laighild Leigiburg Malburg Malhild
+			Marchild Mundhild Randild Rhamis Richild Rigiburg Sigiburg
+			Sigihild Sunburg Sunhild Theodeburg Theothild Thurishilda
+			Thurisinburg Thurisinhilda Thusnelda Walburg Waldburg
+			Walhild Waloburg Waluburg
+		}
+		family = {
+			Tuome.Tuoma.Tuomes.Tuomid
+			Andicus.Andica.Andices.Andicid
+			Dagaricus.Dagarica.Dagarices.Dagaricid
+			Gelimerus.Gelimera.Gelimeres.Gelimerian
+			Geroldus.Gerolda.Geroldes.Geroldian
+			Malaricus.Malarica.Malarici.Malaricid
+			Marbodus.Marboda.Marbodes.Marbodian
+			Theodus.Theoda.Theodes.Theodian
+			Marcolus.Marcola.Marcoles.Marcolian
+			Sigid.Sigida.Sigi.Sigid
+			Rigleikus.Rigleika.Rigleikes.Rigleikid
+			Tancreid.Tancra.Tancri.Tancrid
+			Malogrus.Malogra.Malogri.Malogrian
+			Gundrud.Gundruda.Gundrudii.Gundrid
+			Segimandrus.Segimandra.Segimandri.Segimandrid
+			Dwaldus.Dwalda.Dwaldes.Dwaldid
+			Merobaudes.Merobauda.Merobaudes.Merobaudian
+			Eidgid.Eidgida.Eidiges.Eidigian
+			Gerhaucres.Gerhaucra.Gerhaucres.Gerhaucrian
+			Hildganes.Hildgana.Hildganes.Hildganid
+			Hramdrid.Hramdra.Hramdri.Hramrid
+			Ingohdres.Ingohdra.Ingohdres.Ingohdrid
+			Ingrammus.Ingramma.Ingrammii.Ingrammid
+			Malactus.Malacta.Malactii.Malactian
+		}
+	}
+		childrenofgaiaculture = {
+			male_names = {
+				Abadutiker Punicus Ambon Abaraban Andobales Balkar Babpo Biurtetel Bosilkas Budar Caro Culcas Gargoris Indo Iscerbeles Kara Korbis Korribilo Lagunas Mandonio Magavarico
+				Lagunas Orisos Otirgeter Nisunin Nereildun Tiresio Otigirteker Redukeno Sakarbik Sosintaucer Sosian Seihar Skarisker Sacarisker Tureno Turibas Unibelos Urcetices Uxentio Umarilo Talskubilos
+			}
+			female_names = {
+				Ana Ama Aretaunin Aunia Auruningica Canine Daleninar Similce Sicounin Stena Aife Thurinninar Secetaunin Teite Tettingica Nerseada
+			}
+			family = {
+				Punicus.Punica.Punicii.Punicid
+				Orisus.Orisa.Orisidi.Orisid
+				Amidus.Amida.Amidi.Amidian
+				Nisunus.Nisuna.Nisunidi.Nisunidian
+				Tiresidus.Tiresida.Tiresidi.Tiresidian
+				Budidus.Budida.Budidii.Budidian
+				Gargoridus.Gargorida.Gargoridii.Gargoridian
+				Culcidus.Culcida.Culcidi.Culcidian
+				Indicidus.Indicida.Indicidii.Indicidian
+				Iscerbelus.Iscerbela.Iscerbelidi.Iscerbelidian
+				Karidus.Karida.Karidi.Karidian
+				Korbidus.Korbida.Korbidi.Korbidian
+				Lagunus.Laguna.Lagunidii.Lagunidian
+				Mandonus.Mandona.Mandonidii.Mandonidian
+				Magavaricus.Magavarica.Magavaricidii.Magavarician
+				Uxentus.Uxenta.Uxentidii.Uxentican
+				Umarilus.Umarila.Umarilidi.Umarilid
+				Turenus.Turena.Turenidi.Turenidian
+				Urceticus.Urcetica.Urceticidii.Urceticidian
+			}
+
+		}
+		redtalonculture = {
+			male_names = {
+				Abadutiker Punicus Ambon Abaraban Andobales Balkar Babpo Biurtetel Bosilkas Budar Caro Culcas Gargoris Indo Iscerbeles Kara Korbis Korribilo Lagunas Mandonio Magavarico
+				Lagunas Orisos Otirgeter Nisunin Nereildun Tiresio Otigirteker Redukeno Sakarbik Sosintaucer Sosian Seihar Skarisker Sacarisker Tureno Turibas Unibelos Urcetices Uxentio Umarilo Talskubilos
+			}
+			female_names = {
+				Ana Ama Aretaunin Aunia Auruningica Canine Daleninar Similce Sicounin Stena Aife Thurinninar Secetaunin Teite Tettingica Nerseada
+			}
+			family = {
+				Punicus.Punica.Punicii.Punicid
+				Orisus.Orisa.Orisidi.Orisid
+				Amidus.Amida.Amidi.Amidian
+				Nisunus.Nisuna.Nisunidi.Nisunidian
+				Tiresidus.Tiresida.Tiresidi.Tiresidian
+				Budidus.Budida.Budidii.Budidian
+				Gargoridus.Gargorida.Gargoridii.Gargoridian
+				Culcidus.Culcida.Culcidi.Culcidian
+				Indicidus.Indicida.Indicidii.Indicidian
+				Iscerbelus.Iscerbela.Iscerbelidi.Iscerbelidian
+				Karidus.Karida.Karidi.Karidian
+				Korbidus.Korbida.Korbidi.Korbidian
+				Lagunus.Laguna.Lagunidii.Lagunidian
+				Mandonus.Mandona.Mandonidii.Mandonidian
+				Magavaricus.Magavarica.Magavaricidii.Magavarician
+				Uxentus.Uxenta.Uxentidii.Uxentican
+				Umarilus.Umarila.Umarilidi.Umarilid
+				Turenus.Turena.Turenidi.Turenidian
+				Urceticus.Urcetica.Urceticidii.Urceticidian
+			}	
+
+		}
+		silentstriderculture = {
+			male_names = {
+				Adherbal	Bomilcar	Ezena	Gauda	Gulussa	Hiempsal
+				Iampsas	Jugurtha	Masinissa	Massiva	Mastanabal	Micipsa
+				Nabdalsa	Naravas	Oxyntas	Sypax	Syphax	Tacfarinas
+				Tychaeus	Vermina	Zeteres Gala Amastan Mastan 
+			}
+			female_names = {
+				Anno Salammbo	Sophonisba Panisba Ena Palema Synno Narva Enno Adhierno Ballanba 
+			}
+			family = {
+				Ahmid.Ahmid.Ahmid.Ahmid
+				Galesta.Galesta.Galestid.Galestid
+				Kenamid.Kenamid.Kenamid.Kenamid
+				Narava.Narava.Naravid.Naravid
+				Penamid.Penamid.Penamid.Penamid
+				Senua.Senua.Senuid.Senuid
+				Setna.Setna.Setnid.Setnid
+				Adherba.Adherba.Adherbid.Adherbid
+				Masinna.Masinna.Masinnid.Masinnid
+				Tacfarina.Tacfarina.Tacfarinid.Tacfarinid
+				Syphid.Syphid.Syphid.Syphid
+				Vermina.Vermina.Verminid.Verminid
+				Galid.Galid.Galid.Galid
+				Jugurthid.Jugurthid.Jugurthid.Jugurthid
+			}
+		
+		}
+		silverfangculture = {
+			male_names = {
+				Acthram Acthrauc Actmund Actobald Actogais Actogast Actoleik Actomar
+				Actrand Actric Actwald Agenaric Aginaric Aktumer Arbogais Arbogan
+				Arbogast Arbolaik Arbomund Arbram Arbrand Arbrauc Arbric Arbwald Ariogaesus Ariogais Ascaric Ascobald Ascogast Ascoger Ascohram
+				Ascohrauc Ascoht Ascoleik Ascomund Ascorand Ascoric Ascowald
+				Baldhrauc Baldo Baldogais Baldogast Baldric Baldwald Bauto
+				Casthrauc Castleik Castrand Castric Charietto Chariovalda
+				Chrocus Danko Duomact Duomeid Duomogan Duomogar Duomogast
+				Duomolaik Duomorand Duomorauc Duomoric Edobich Eidgais
+				Eidgast Eidhram Eidhrauc Eidleik Eidmund Eidobald Eidoht
+				Eidowald Eidrand Eidric Erbemar Erbo Erpmund Flavius Geno Genobald Genobaud
+				Genomund Genoram Genorand Genric Genwald Gerand Gerhram
+				Gerhrauc Geric Gero Gerogast Gerolaik Gerorauc Gerwald
+				Gundhram Gundleik Gundmar Gundobald Gundogan Gundogar Gundogast
+				Gundomund Gundowald Gundrand Gundrauc Gundric Hariowald Heri
+				Hildeid Hildgan Hildhram Hildobald Hildogais Hildogast Hildoht
+				Hildoleik Hildomund Hildrand Hildrauc Hildric Hildwald Hrambald
+				Hramgast Hramleik Hramo Hramric Hramund Hramwald Hraucwald
+				Hraugmund Hraugram Hraugric Hroco Ingast Ingbald Inger Ingmund
+				Ingoht Ingoleik Ingomar Ingram Ingrand Ingrauc Ingric Ingsun
+				Inguiomer Ingwald Laikwald Leigmund Leikbolad Leikrauc Leko
+				Malact Malleik Mallobald Mallobaudes Mallovendus Malo Malobald
+				Malogan Malogast Maloger Malogund Maloram Malorand Malorauc
+				Maloric Malowind Malwald Marcobold Marcogan Marcogast Marcoger
+				Marcogund Marcoleik Marcomer Marcomund Marcoram Marcorauc
+				Marcwald Markoht Marobod Marodouus Mederic Mero Merobald
+				Merobaudes Merogais Mundobald Mundogast Mundoger Nebigast
+				Randleik Randmund Rando Randobald Randram Randrauc Richomeres
+				Ricomar Rigleik Rigmund Rigrand Rigwald Segestes Segimer
+				Segimund Sesithank Sigact Sigeid Sigibald Sigigais Sigigan
+				Sigigast Sigigund Sigimar Sigimund Sigiram Sigirand Sigirauc
+				Sigismund Sigisun Siglaik Sigo Sigric Sigwald Sunbald Sungan
+				Sunger Sunlaik Sunnact Sunneid Sunneram Sunno Sunnogast
+				Sunnomund Sunnorauc Sunnoric Sunrand Sunwald Tanchild Tancoht
+				Tancram Tancrand Tancric Tancwald Teutomer Theodeid Theodlaik
+				Theodo Theodobald Theodogais Theodogan Theodogast Theodogund
+				Theodoht Theodomer Theodomund Theodoram Theodorand Theodoric
+				Theodrauc Theodwald Thumelicus Thuribald Thurigais Thurigast
+				Thurisegan Thuriseid Thuriserand Thuriseric Thurismund
+				Thurisoht Thuriswald Tuombald Tuomo Tuomogund Tuomoleik
+				Tuomomund Tuomwald Ukromer Vakromar Valao Vangio Walao
+				Walbald Waldmund Waldo Waldogast Waldrand Walgar Walgast
+				Walha Walmund Walogan Walolaik Walorand Walram Walrauc Walric Windo
+			}
+			female_names = {
+				Actihild Aschild Baldhild Casthild Castiburg Duomburg Duomhild
+				Eidburg Eidhild Eidsunne Eidwalda Geriburg Gerrhild Gunborg
+				Gundhild Hildborg Hildwald Hramburg Hramhild Hramis Hrauchild
+				Hraugiburg Ingiburg Ingihild Laighild Leigiburg Malburg Malhild
+				Marchild Mundhild Randild Rhamis Richild Rigiburg Sigiburg
+				Sigihild Sunburg Sunhild Theodeburg Theothild Thurishilda
+				Thurisinburg Thurisinhilda Thusnelda Walburg Waldburg
+				Walhild Waloburg Waluburg
+			}
+			family = {
+				Tuome.Tuoma.Tuomes.Tuomid
+				Andicus.Andica.Andices.Andicid
+				Dagaricus.Dagarica.Dagarices.Dagaricid
+				Gelimerus.Gelimera.Gelimeres.Gelimerian
+				Geroldus.Gerolda.Geroldes.Geroldian
+				Malaricus.Malarica.Malarici.Malaricid
+				Marbodus.Marboda.Marbodes.Marbodian
+				Theodus.Theoda.Theodes.Theodian
+				Marcolus.Marcola.Marcoles.Marcolian
+				Sigid.Sigida.Sigi.Sigid
+				Rigleikus.Rigleika.Rigleikes.Rigleikid
+				Tancreid.Tancra.Tancri.Tancrid
+				Malogrus.Malogra.Malogri.Malogrian
+				Gundrud.Gundruda.Gundrudii.Gundrid
+				Segimandrus.Segimandra.Segimandri.Segimandrid
+				Dwaldus.Dwalda.Dwaldes.Dwaldid
+				Merobaudes.Merobauda.Merobaudes.Merobaudian
+				Eidgid.Eidgida.Eidiges.Eidigian
+				Gerhaucres.Gerhaucra.Gerhaucres.Gerhaucrian
+				Hildganes.Hildgana.Hildganes.Hildganid
+				Hramdrid.Hramdra.Hramdri.Hramrid
+				Ingohdres.Ingohdra.Ingohdres.Ingohdrid
+				Ingrammus.Ingramma.Ingrammii.Ingrammid
+				Malactus.Malacta.Malactii.Malactian
+			}
+		}
+		shadowlordculture = {
+			male_names = {
+				Bastiza Bikilis Blegissa Blaesus Blaikisa Brasus Burebista Comosicus Cothelas Cotiso Dablosa Dadas Dadazai Daizus Dapyx Dardiolai Danillo Decibalus Dida Denzibalus Diernais Dotouzi Duras 
+				Kaigiza Komozoi Moskon Mucapor Mucatra Natoporus Orola Petipor Pierporus Rhemaxos Rholes Rubobostes Rolouzis Rigozus Scoris Tiati Tarbus Tsiru Zinna Vezina Zoutoula
+			}
+			female_names = {
+				Duccidava Rescuturme Zina Zinai Petriturme Zindurme Roibana Oriza Rescurai Raina Sanziana Claria Eccana
+			}
+		
+			family = {
+				Gudilanus.Gudilana.Gudilanii.Gudilanian
+				Cotisus.Cotisa.Cotisi.Cotisian
+				Durasus.Durasa.Durasii.Durasian
+				Dromichaetus.Dromichaeta.Dromichaeti.Dromichaetid
+				Komozus.Komoza.Komozii.Komozian
+				Moskosus.Moskosa.Moskosii.Moskosian
+				Mucatralus.Mucatrala.Mucatralii.Mucatralian
+				Natoporus.Natopora.Natoporii.Natoporian
+				Orolosus.Orolosa.Orolosii.Orolosian
+				Pieporus.Piepora.Pieporii.Pieporian
+				Rhemaxilus.Rhemaxila.Rhemaxilii.Rhemaxilid
+				Rholicus.Rholica.Rholici.Rholicid
+				Rubobosticus.Rubobostica.Rubobostici.Rubobosticid
+				Scorius.Scoria.Scorii.Scorian
+				Tiatus.Tiata.Tiatii.Tiatian
+				Tarbus.Tarba.Tarbii.Tarbian
+				Tsiricus.Tsirica.Tsirici.Tsiricid
+				Zinnicus.Zinnica.Zinnici.Zinnicid
+			}	
+		}
+		wardersculture = {
+			male_names = {
+				Amtnie Amuni Anche Anthai Aninas Arunth Araz Arzni Arnth Autu Aule Cei Ceile Ceisi
+				Cire Cnaive Clate Cruthni Cuinte Cursni Fapi Felce Felsnas Fulu Hapre Hirumina Husi
+				Carcuna Carthasie Ceisie Cavie Larce Laris Larth Larthuza Laucie Lauche Lethei
+				Licine Lucer Mamurce Marce Murila Numna Pesna Petru Plikasnas Plute Presnte
+				Pumpu Puplie Cupe Ranazu Rasce Ruvfe Ruifre Sanchuna Scarpe Sethre Spitus Spurie Squrie
+				Tarchi Teitur Thefri Thucer Ticusna Tite Tlesna Tursikina Tusnute Uchsie Uchulni Usele
+				Vel Velchaie Velthur Venel Vetus Vipie
+			}
+			female_names = {
+				Anina Aprthni Apunei Arunthia Arzna Arntha Ati Aula Ceia Culni Cursi Cusua Fasthi
+				Hasthi Hercnei Kanuta Larthi Lethi Luci Matun Metli Numni Pulia Racu Ramtha Ranthu
+				Ravnthu Satlnei Sela Semni Sethri Squria Squlina Tanchuil Tarcha Teituri Thanchvil
+				Thana Thefrina Thestia Thuceru Ticusnei Titi Veli Velchina Venela Vesi Vipi
+			}
+			family = {
+				Uclina.Uclinei.Uclinii.Ucli
+				Acnatru.Acnatrui.Acnatrui.Acnatr
+				Acriena.Acrienei.Acriena.Acrinian
+				Acvilnas.Acvilnei.Acvilnas.Acvilnian
+				Afunas.Afunei.Afunas.Afunian
+				Aisina.Aisinei.Aisina.Aisinian
+				Alethnas.Alethnei.Alethnas.Alethnasian
+				Alfi.Alfi.Alfi.Alfian
+				Alfni.Alfni.Alfni.Alfnian
+				Alsinas.Alsinei.Alsinas.Alsinasian
+				Alvethna.Alvethnei.Alvethna.Alvethnian
+				Amuni.Amuni.Amuni.Amunian
+				Anani.Aninei.Anani.Ananian
+				Aneithur.Aneithuri.Aneithur.Aneithurian
+				Anes.Anis.Anes.Anesian
+				Aninas.Aninei.Aninas.Aninasian
+				Anthiaia.Anthiaei.Anthiaia.Anthiaian
+				Apatru.Apatrui.Apatru.Apatrian
+				Apianas.Apianei.Apianas.Apianian
+				Apries.Apria.Apries.Apriesian
+				Aprthnas.Aprthnei.Aprthnas.Aprthnasian
+				Apunas.Apunei.Apunas.Apunian
+				Apvcuia.Apvcuia.Apvcuia.Apvcuian
+				Araziia.Arazei.Araziia.Arazian
+				Arnthna.Arnthi.Arnthna.Arnthnian
+				Aremsnas.Aremsnei.Aremsnas.Aremsnasian
+				Arnies.Arnia.Arnies.Arniesian
+				Arthunas.Arth.Arthunas.Arthunian
+				Arunzina.Arunzinei.Arunzina.Arunzian
+				Arznas.Arznei.Arznas.Arnznasian
+				Ateina.Ateinei.Ateina.Ateinian
+				Atelinas.Atelinei.Atelinas.Atelinian
+				Aties.Atia.Aties.Atian
+				Atnas.Atnei.Atnas.Atnasian
+				Ufle.Ufli.Ufle.Uflian
+				Aucana.Aucanei.Aucana.Aucanian
+				Auclina.Auclinei.Auclina.Auclinian
+				Aves.Avenei.Aves.Avesian
+				Aznie.Aznia.Aznie.Aznesian
+				Cafates.Cafati.Cafates.Cafatian
+				Cahate.Cahati.Cahate.Cahatian
+				Ceie.Ceinei.Ceie.Ceian
+				Cale.Cali.Cale.Calian
+				Caliathe.Calitahi.Caliathe.Caliathian
+				Calisna.Calisnei.Calisna.Calisnan
+				Camitlnas.Camitlnei.Camitlnas.Camitlan
+				Camnas.Camnai.Camnas.Camnasian
+				Campanes.Campanis.Campanes.Campanian
+				Canatnes.Canatnei.Canatnes.Canatnian
+				Carpnate.Carpnati.Carpnate.Carpnatian
+				Carsu.Carsui.Carsu.Carsunian
+				Catne.Catni.Catne.Catnian
+				Cazi.Cazi.Cazi.Cazian
+				Ceisinies.Ceisinia.Ceisinies.Ceisinian
+				Celatina.Celatinei.Celatina.Celatinian
+				Cheiras.Cheirei.Cheiras.Cheirian
+				Churcles.Churcles.Churcles.Churclian
+				Churinas.Churinei.Churinas.Churinian
+				Cicunias.Cicuniei.Cicunias.Cicunian
+				Cilnii.Cilnei.Cilnii.Cilnian
+				Cisvite.Cisviti.Cisvite.Cisvitian
+				Clute.Clutei.Clute.Clutian
+				Clavtiethur.Clavtiethuri.Clavtiethur.Clavtiethurian
+				Clevsinas.Clevsinei.Clevsinas.Clevsinian
+				Cneuna.Cneunei.Cneuna.Cneunian
+				Cravzathura.Cravzathurei.Cravzathura.Cravzathurian
+				Creicese.Creicesa.Creicese.Creicesian
+				Crepus.Crepui.Crepus.Crepian
+				Cuclni.Cuclni.Cuclni.Cuclinian
+				Cucrinathur.Cucrinathuri.Cucrinathur.Cucrinathurian
+				Curunas.Curunei.Curunas.Curunian
+				Cusinas.Cusinei.Cusinas.Cusinian
+				Cusuthur.Cusuthuri.Cusuthur.Cusuthurian
+				Cvinte.Cvinti.Cvinte.Cvintian
+				Cuthnas.Cuthnei.Cuthnas.Cuthnian
+				Cutu.Cutu.Cutu.Cute
+				Ecnate.Ecnati.Ecnate.Ecnatian
+				Einana.Einanei.Einana.Einanian
+				Eucle.Eucli.Eucle.Euclian
+				Ezpus.Ezpui.Ezpus.Ezpusian
+				Fapi.Fapi.Fapi.Fapian
+				Felces.Felcis.Felces.Felcian
+				Felsnas.Felsnei.Felsnas.Felsnasian
+				Felsni.Felsni.Felsni.Felsnian
+				Felusce.Felusci.Felusce.Feluscian
+				Fisis.Fisis.Fisis.Fisisian
+				Fulni.Fulni.Fulni.Fulnian
+				Fulu.Fului.Fulu.Fulian
+				Fulvena.Fulvenas.Fulvena.Fulvenian
+				Hanu.Hanunia.Hanu.Hanian
+				Hapisna.Hapisnei.Hapisna.Hapisnian
+				Hapre.Hapri.Hapre.Haprian
+				Hepni.Hepni.Hepni.Hepnian
+				Havrnas.Havrnei.Havrnas.Havrinian
+				Hele.Heli.Hele.Helian
+				Hercnas.Hercnei.Hercnas.Hercnasian
+				Herma.Hermei.Herma.Hermian
+				Hermenas.Hermenei.Hermenas.Hermenian
+				Hirsuneie.Hirsuneia.Hirsuneie.Hirsnusian
+				Hulchnie.Hulchnia.Hulchnie.Hulchnian
+				Hupni.Hupni.Hupni.Hupnid
+				Ceicna.Ceicnei.Ceicna.Ceicnian
+				Cansinei.Cansineie.Cansinei.Cansinian
+				Culeniie.Culeniia.Culeniie.Culenian
+				Curtinas.Curtinei.Curtinas.Curtinian
+				Lapicane.Lapicani.Lapicane.Lapicanian
+				Larani.Larani.Larani.Laranian
+				Larecena.Larecenei.Larecena.Larecinian
+				Larna.Larnei.Larna.Larnian
+				Lucina.Lucinei.Lucina.Lucinian
+				Larecena.Larecenei.Larecena.Larecinian
+				Lartle.Lartli.Lartle.Lartlian
+				Latherna.Lathernei.Latherna.Lathernian
+				Latni.Latni.Latni.Latnian
+				Leinies.Leinia.Leinies.Leinisian
+				Lethe.Lethi.Lethe.Lethian
+				Luisna.Luisnei.Luisna.Luisnian
+				Macre.Macri.Macre.Macrian
+				Malamena.Malamenas.Malamena.Malamenian
+				Marcna.Marcnei.Marcna.Marcnid
+				Marcnithur.Marcnithuri.Marcnithur.Marcnithurian
+				Matulna.Matulnei.Matulna.Matulnid
+				Mutunas.Matunei.Mutunas.Mutunid
+				Meclas.Meclei.Meclas.Meclid
+				Mefanates.Mefanatis.Mefanates.Mefanatian
+				Melacina.Melacinei.Melacina.Malacinian
+				Meluta.Melutei.Meluta.Melutid
+				Metle.Metli.Metle.Metlid
+				Minie.Minia.Minie.Minian
+				Murias.Murei.Murias.Murian
+				Murinas.Murinei.Murinas.Murinid
+				Nerinei.Nerineie.Nerinei.Nereinian
+				Ninie.Ninia.Ninie.Ninian
+				Nuiclnas.Nuiclnei.Nuiclnas.Nuiclian
+				Numclanie.Numclania.Numclanie.Numclanid
+				Numnas.Numnei.Numnas.Numnid
+				Nuni.Nuni.Nuni.Nunian
+				Nufre.Nufri.Nufre.Nufrian
+				Pachie.Pachia.Pachie.Pachid
+				Peithunas.Peithunei.Peithunas.Peithunid
+				Palazus.Palazui.Palazus.Palazusian
+				Paprsina.Paprsinei.Paprsina.Paprsinid
+				Papathnas.Papathnei.Papathnas.Papathnid
+				Papni.Papni.Papni.Papnid
+				Parmne.Parmni.Parmne.Paramnian
+				Partunus.Partunui.Partunus.Partunid
+				Paziathe.Paziathi.Paziathe.Paziathid
+				Percumsna.Percumsnei.Percumsna.Percumid
+				Petrnii.Petrnei.Petrnii.Petrnid
+				Phersnalas.Phersnalei.Phersnalas.Phersnalid
+				Phursethna.Phursethnei.Phursethna.Phursethid
+				Pinies.Pinia.Pinies.Pinian
+				Pithe.Pithi.Pithe.Pithid
+				Platia.Platiei.Platia.Platian
+				Plute.Pluti.Plute.Plutian
+				Plecus.Plecui.Plecus.Plecid
+				Plinia.Pliniei.Plinia.Plinian
+				Prastna.Prastnei.Prastna.Prastnid
+				Precuthur.Precuthuri.Precuthur.Precuthurian
+				Presnte.Presnti.Presnte.Presntid
+				Puince.Puinci.Puince.Puincian
+				Pulenas.Pulenei.Pulenas.Pulenian
+				Pumpli.Pumpli.Pumpli.Pumplid
+				Pumpna.Pumpnei.Pumpna.Pumpnid
+				Pumpus.Pumpui.Pumpus.Pumpid
+				Pupena.Pupena.Pupena.Pupenian
+				Puplina.Puplinei.Puplina.Puplinian
+				Purni.Purni.Purni.Purnid
+				Purzena.Purzenei.Purzena.Purzenian
+				Puslina.Puslinei.Puslina.Puslenian
+				Pustmina.Pustminei.Pustmina.Pustminian
+				Rufi.Rufi.Rufi.Rufid
+				Ramnuna.Ramnunei.Ramnuna.Ramnunian
+				Ranazu.Ranazuia.Ranazu.Ranazunian
+				Rasunies.Rasunia.Rasunies.Rasunian
+				Remzna.Remznei.Remzna.Remznid
+				Riertu.Riertui.Riertu.Riertunian
+				Rufres.Rufris.Rufres.Rufrid
+				Rusci.Rusci.Rusci.Ruscid
+				Santu.Santui.Santu.Santid
+				Safice.Safici.Safice.Saficinian
+				Salini.Salini.Salini.Salinian
+				Saties.Satia.Saties.Satinian
+				Satlna.Satlnei.Satlna.Satlnid
+				Savpunias.Savpuniei.Savpunias.Savpunid
+				Scevas.Scevei.Scevas.Scevid
+				Scurfiu.Scurfiui.Scurfiu.Scurfid
+				Sefre.Sefri.Sefre.Sefrid
+				Seiante.Seianti.Seiante.Seiantid
+				Seitithe.Seitithi.Seitithe.Seitithid
+				Semne.Semni.Semne.Semnid
+				Sentinate.Sentinei.Sentinate.Sentinatid
+				Sepu.Sepia.Sepu.Sepid
+				Sethre.Sethra.Sethre.Sethrid
+				Silgatana.Silgatanei.Silgatana.Silgatanian
+				Sinu.Sinui.Sinu.Sinid
+				Siprisni.Siprisni.Siprisni.Siprisnian
+				Slanzu.Slanzui.Slanzu.Slanzid
+				Spantu.Spantui.Spantu.Spantid
+				Spite.Spiti.Spite.Spitid
+				Spurinas.Spurina.Spurinas.Spurinian
+				Srutzna.Srutznei.Srutzna.Srutznid
+				Statlanes.Statlanis.Statlanes.Statlanian
+				Supelnas.Supelnei.Supelnas.Supelnid
+				Suthrina.Surthinei.Suthrina.Suthrinian
+				Sveitus.Sveitui.Sveitus.Sveitid
+				Svelthienas.Svelthienei.Svelthienas.Svelthinian
+				Tarchunies.Tarchunia.Tarchunies.Tarchunian
+				Tarcnas.Tarcnei.Tarcnas.Tarcnid
+				Tarna.Tarnei.Tarna.Tarnid
+				Teithurna.Teithurnei.Teithurna.Teithurnid
+				Teitur.Teituri.Teitur.Teiturid
+				Telathur.Telathuri.Telathur.Telathurid
+				Telicles.Telicles.Telicles.Teliclid
+				Tetnies.Tetnia.Tetnies.Tetnid
+				Thactra.Thactrei.Thactra.Thactrian
+				Thansina.Thansi.Thansina.Thansinian
+				Thefri.Thefri.Thefri.Thefrid
+				Thucerna.Thucernei.Thucerna.Thucernid
+				Thusatur.Thusaturi.Thusatur.Thusaturnian
+				Tiphile.Tiphili.Tiphile.Tiphilid
+				Titie.Titia.Titie.Titid
+				Tlesna.Tlesna.Tlesna.Tlesnian
+				Tularia.Tulariei.Tularia.Tularian
+				Tulumnes.Tulumnis.Tulumnes.Tulumnian
+				Turmna.Turmnei.Turmna.Turmnid
+				Thursethna.Thursethnei.Thursethna.Thursethnid
+				Trepe.Trepi.Trepe.Trepian
+				Tutna.Tutnei.Tutna.Tutnid
+				Tutes.Tutis.Tutes.Tutid
+				Ucrine.Ucrini.Ucrine.Ucrinian
+				Uftave.Uftavi.Uftave.Uftavian
+				Ulthes.Ulthis.Ulthes.Ulthian
+				Ultimne.Ultimni.Ultimne.Ultimnid
+				Ulzna.Ulznei.Ulzna.Ulznid
+				Ursmna.Ursmnei.Ursmna.Ursmnid
+				Uslna.Ulsnei.Uslna.Uslnid
+				Vania.Vaniei.Vania.Vanid
+				Varati.Varati.Varati.Varatian
+				Velara.Velaruna.Velara.Velarian
+				Velcheina.Velcheinei.Velcheina.Velchenian
+				Velchas.Velchei.Velchas.Velchid
+				Velcii.Velcei.Velcii.Velcian
+				Vlesi.Vlesi.Vlesi.Vlesian
+				Velie.Velia.Velie.Velian
+				Velna.Velnei.Velna.Velnid
+				Velethna.Velethnei.Velethna.Velethnid
+				Velimnas.Velimnei.Velimnas.Velimnid
+				Velthina.Velthinei.Velthina.Velthinid
+				Velthinathur.Velthinathuri.Velthinathur.Velthinathurian
+				Velthurna.Velthurnei.Velthurna.Velthurian
+				Venala.Venalei.Venala.Venalian
+				Venete.Veneti.Venete.Venetian
+				Verate.Verati.Verate.Veratian
+				Vestarenies.Vestarenia.Vestarenies.Vestarenian
+				Vestirci.Vestircina.Vestirci.Vestircian
+				Vete.Vetui.Vete.Vetian
+				Vilasnas.Vilasnei.Vilasnas.Vilasnian
+				Visnas.Visnei.Visnas.Visnasian
+				Vipena.Vipenei.Vipena.Vipenian
+				Vipinans.Vipinanei.Vipinans.Vipinansian
+				Vipithur.Vipithuri.Vipithur.Vipithurid
+				Zalthu.Zalthui.Zalthu.Zalthid
+				Zane.Zani.Zane.Zanid
+				Zertnei.Zertneie.Zertnei.Zertneian
+				Zili.Zilina.Zili.Zilinid
+			}
+			nickname = {
+				NICKNAME_ACILU
+				NICKNAME_ACRATE
+				NICKNAME_APURTHE
+				NICKNAME_CAMPANE
+				NICKNAME_CEICE
+				NICKNAME_CENCU
+				NICKNAME_CREICE
+				NICKNAME_CESU
+				NICKNAME_CRESPE
+				NICKNAME_CURCES
+				NICKNAME_CUTHNA
+				NICKNAME_HERMA
+				NICKNAME_LATINI
+				NICKNAME_NUFRE
+				NICKNAME_NUSTE
+				NICKNAME_PALPE
+				NICKNAME_PAPA
+				NICKNAME_PREZU
+				NICKNAME_PURCE
+				NICKNAME_SENATE
+				NICKNAME_SEPU
+				NICKNAME_SINU
+				NICKNAME_TREPUNI
+				NICKNAME_TREPU
+				NICKNAME_TUMU
+				NICKNAME_TURSIKINA
+				NICKNAME_VENALA
+				NICKNAME_VENTESE
+				NICKNAME_VERU
+				NICKNAME_ZALLE
+				NICKNAME_PALPENIA # female from here
+				NICKNAME_PAPANIA
+				NICKNAME_PREZUNIA
+				NICKNAME_PURCENIA
+				NICKNAME_SENATINA
+				NICKNAME_SEPUNIA
+				NICKNAME_SINUNIA
+				NICKNAME_TREPUNIA
+				NICKNAME_TREPIA
+				NICKNAME_TUMUNIA
+				NICKNAME_TURSIKINIA
+				NICKNAME_VENALANIA
+				NICKNAME_VERUNA
+				NICKNAME_VENTESA
+				NICKNAME_ZALLENIA
+			}
+		
+		}
+		whitehowlerculture = {
+			male_names = {
+				Actus Aidas Alilas Ambicatus Assicu Baidagnas Barrivendas Battignias Biracas Bivaidu Bodibevas Branogenas Brocagnas Caliacas Catomaglas Cattubuts Cliucu Coillabbots Coimagnas Colomagnas Commaggagnas Corbagnas Corbbas Coribirias Corrbrias Covagnas Culidovas Cunacennas Cunagussus Cunagusus Cunalega Cunalegas Cunamaglas Cunamaqqas Cunanas Cunanets Cunas Cunatamas Cunavalas Cunorics Curcagnas Curcittias Dalagnas Dalas Donanas Donas Dovagnas Dovaidu Dovalescas Dovatuca Dovatucas Dovvina Dumeledu Dunaidu Ercagnas Ercaidu Ercas Ercaviccs Gamicu Gattagnas Glasicu Golas Gossucttia Icorics Ircittis Ivacattus Ivagenas Laddignias Lugaddu Lugudeccs Luguvveccs Maglicu Mailagnas Mainas Minnaccagnas Moddagnas Mornas Neras Netacaras Oinogustus Qasignias Qenilocagnas Qenilocas Rittavvecs Rodagnas Ronanas Sagragnas Scilagnas Sedandas Sedanias Sinas Soginas Suladamas Talagnas Totavalas Trenaccatus Trenagusus Uisinas Ulcagnas Uscaras Vedacu Veddellemettis Vendas Vendegas Vendubaras Veqoanaias Verdiadas Vergosus Vlatiamas Voenacu Vorgalas
+			}
+			female_names = {
+				Acala Aiva Aina Airmida Auitoriga Bana Bivena Balatnada Boana Brigitia Clotru Conana Danana Deicittina Derdria Elea Evera Graina Ivadaina Leavarcama Liattia Maca Mada Maeva Maga Mugaina Muirina Naevaina Nesa Niava Oivagrina Plora Saba Scattaca Uattaca Vanda Vanana Veddellema Vendabaira Venducoema Vlidais Vodula Vuamanaca
+			}
+			family = {
+				Bolgi.Bolgi.Bolgi.Bolgian
+				Cruitini.Cruitini.Cruitini.Cruitinian
+				Dairini.Dairini.Dairini.Dairene
+				Deblanni.Deblanni.Deblanni.Deblanian
+				Deirgtini.Deirgtini.Deirgtini.Deirgtinian
+				Domgnanni.Domgnanni.Domgnanni.Domgnannid
+				Ecmacti.Ecmacti.Ecmacti.Emactid
+				Eranni.Eranni.Eranni.Erannian
+				Gamagnragni.Gamagnragni.Gamagnragni.Gamagnragnid
+				Laggigni.Laggigni.Laggigni.Laggidnid
+				Laiggisi.Laiggisi.Laiggisi.Laiggisinid
+				Moggagni.Moggagni.Moggagni.Moggagnid
+				Sogagni.Sogagni.Sogagni.Sogagnid
+				Tadegni.Tadegni.Tadegni.Tadegnid
+				Uaitani.Uaitani.Uaitani.Uatinid
+				Ultacci.Ultacca.Ultacci.Ultaccian
+			}
+					
+		}
+		blackspiraldancerculture = {
+			male_names = {
+				Actus Aidas Alilas Ambicatus Assicu Baidagnas Barrivendas Battignias Biracas Bivaidu Bodibevas Branogenas Brocagnas Caliacas Catomaglas Cattubuts Cliucu Coillabbots Coimagnas Colomagnas Commaggagnas Corbagnas Corbbas Coribirias Corrbrias Covagnas Culidovas Cunacennas Cunagussus Cunagusus Cunalega Cunalegas Cunamaglas Cunamaqqas Cunanas Cunanets Cunas Cunatamas Cunavalas Cunorics Curcagnas Curcittias Dalagnas Dalas Donanas Donas Dovagnas Dovaidu Dovalescas Dovatuca Dovatucas Dovvina Dumeledu Dunaidu Ercagnas Ercaidu Ercas Ercaviccs Gamicu Gattagnas Glasicu Golas Gossucttia Icorics Ircittis Ivacattus Ivagenas Laddignias Lugaddu Lugudeccs Luguvveccs Maglicu Mailagnas Mainas Minnaccagnas Moddagnas Mornas Neras Netacaras Oinogustus Qasignias Qenilocagnas Qenilocas Rittavvecs Rodagnas Ronanas Sagragnas Scilagnas Sedandas Sedanias Sinas Soginas Suladamas Talagnas Totavalas Trenaccatus Trenagusus Uisinas Ulcagnas Uscaras Vedacu Veddellemettis Vendas Vendegas Vendubaras Veqoanaias Verdiadas Vergosus Vlatiamas Voenacu Vorgalas
+			}
+			female_names = {
+				Acala Aiva Aina Airmida Auitoriga Bana Bivena Balatnada Boana Brigitia Clotru Conana Danana Deicittina Derdria Elea Evera Graina Ivadaina Leavarcama Liattia Maca Mada Maeva Maga Mugaina Muirina Naevaina Nesa Niava Oivagrina Plora Saba Scattaca Uattaca Vanda Vanana Veddellema Vendabaira Venducoema Vlidais Vodula Vuamanaca
+			}
+			family = {
+				Bolgi.Bolgi.Bolgi.Bolgian
+				Cruitini.Cruitini.Cruitini.Cruitinian
+				Dairini.Dairini.Dairini.Dairene
+				Deblanni.Deblanni.Deblanni.Deblanian
+				Deirgtini.Deirgtini.Deirgtini.Deirgtinian
+				Domgnanni.Domgnanni.Domgnanni.Domgnannid
+				Ecmacti.Ecmacti.Ecmacti.Emactid
+				Eranni.Eranni.Eranni.Erannian
+				Gamagnragni.Gamagnragni.Gamagnragni.Gamagnragnid
+				Laggigni.Laggigni.Laggigni.Laggidnid
+				Laiggisi.Laiggisi.Laiggisi.Laiggisinid
+				Moggagni.Moggagni.Moggagni.Moggagnid
+				Sogagni.Sogagni.Sogagni.Sogagnid
+				Tadegni.Tadegni.Tadegni.Tadegnid
+				Uaitani.Uaitani.Uaitani.Uatinid
+				Ultacci.Ultacca.Ultacci.Ultaccian
+			}
+					
+		}
 
 	}
 	
@@ -82,6 +939,6 @@
 	
 	graphical_culture = carthaginian_gfx
 	ethnicities = {
-		10 = levantine
+		10 = germanic
 	}
 }

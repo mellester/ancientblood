@@ -1,0 +1,148 @@
+﻿demon = {
+	type = health
+	congenital = no
+    fertility = -10
+    martial = 1
+}
+
+ebonlegion = {
+	type = status
+    martial = 1
+    unit = {
+		discipline = 0.05
+	}
+	opposites = {
+		alabasterlegion
+		silverlegion
+		ironlegion
+		crimsomlegion
+	}
+}
+
+alabasterlegion = {
+	type = status
+    charisma = 1
+    country = {
+		happiness_for_wrong_culture_group_modifier = 0.05
+	}
+	opposites = {
+		ebonlegion
+		silverlegion
+		ironlegion
+		crimsomlegion
+	}
+}
+
+silverlegion = {
+	type = status
+    zeal = 1
+    country = {
+		research_points_modifier = 0.05
+	}
+	opposites = {
+		ebonlegion
+		alabasterlegion
+		ironlegion
+		crimsomlegion
+	}
+}
+
+ironlegion = {
+	type = status
+    martial = 1
+    province = {
+		local_defensive = 0.2
+	}
+	opposites = {
+		ebonlegion
+		alabasterlegion
+		silverlegion
+		crimsomlegion
+	}
+}
+
+crimsomlegion = {
+	type = status
+    charisma = 1
+    country = {
+		diplomatic_reputation = 3
+	}
+	opposites = {
+		ebonlegion
+		alabasterlegion
+		silverlegion
+		ironlegion
+	}
+}
+
+pawn = {
+	type = status
+	finesse = 1
+	opposites = {
+		baron
+		marquis
+		duke
+		archduke
+	}
+}
+
+baron = {
+	type = status
+    zeal = 1
+    prominence = 10
+    max_rivals = 1
+	max_friends = -1
+	opposites = {
+		pawn
+		marquis
+		duke
+		archduke
+	}
+}
+
+marquis = {
+	type = status
+    zeal = 5
+    martial = 5
+    prominence = 20
+    max_rivals = 2
+	max_friends = -2
+	opposites = {
+		pawn
+		baron
+		duke
+		archduke
+	}
+}
+
+duke = {
+	type = status
+    zeal = 5
+    martial = 5
+    charisma = 5
+    prominence = 30
+    max_rivals = 2
+	max_friends = -2
+	opposites = {
+		pawn
+		baron
+		marquis
+		archduke
+	}
+}
+
+archduke = {
+	type = status
+    zeal = 10
+    martial = 10
+    charisma = 10
+    prominence = 50
+    max_rivals = 3
+	max_friends = -3
+	opposites = {
+		pawn
+		baron
+		marquis
+		duke
+	}
+}

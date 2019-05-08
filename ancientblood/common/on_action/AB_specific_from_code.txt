@@ -1,0 +1,7 @@
+﻿
+on_game_initialized = {
+	events = {
+		AB_startup_events.1
+		AB_startup_events.2
+	}
+}

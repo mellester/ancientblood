@@ -1,0 +1,1289 @@
+﻿mageculture = {
+    color = hsv { 0.65  0.7  0.9 }
+    male_names = {
+		Appius Agrippa Aulus Caelus Decimus Decius Drusus Faustus Gaius Gnaeus Lucius Mamercus Manius Marcus Mettius Numerius Opiter 
+		Publius Postumus Proculus Quintus Secundus Septimus Servius Sextus Spurius Tertius Titus Tiberius Volero Volumnius Octavius
+		Statius Tullus Volesus Vopiscus Caeso Paullus Hostus Numerius Sertor Potitus Vibius Cossus Arruns Camillus
+	}
+	female_names = {
+		none
+	}
+	family = {
+		Aburius.Aburia.Aburii.Aburian
+		Accius.Accia.Accii.Accian
+		Acilius.Acilia.Acilii.Acilian
+		Acutius.Acutia.Acutii.Acutian
+		Aebutius.Aebutia.Aebutii.Aebutian
+		Aelius.Aelia.Aelii.Aelian
+		Aemilius.Aemilia.Aemilii.Aemilian
+		Alienus.Aliena.Alienii.Alien
+		Anicius.Anicia.Anicii.Anician
+		Annius.Annia.Anni.Annian
+		Antius.Antia.Antii.Antian
+		Antistius.Antistia.Antistii.Antistian
+		Antonius.Antonia.Antonii.Antonian
+		Appuleius.Appuleia.Appulii.Appulian
+		Apronius.Apronia.Apronii.Apronian
+		Aquillius.Aquillia.Aquillii.Aquillian
+		Atilius.Atilia.Atilii.Atilian
+		Atius.Atia.Atii.Atian
+		Aufidius.Aufidia.Aufidii.Aufidian
+		Aulius.Aulia.Aulii.Aulian
+		Blossius.Blossia.Blossii.Blossian
+		Aurelius.Aurelia.Aurelii.Aurelian
+		Caecinus.Caecina.Caecinii.Caecinian
+		Caecilius.Caecilia.Caecilii.Caecilian
+		Calavius.Calavia.Calavii.Calavian
+		Calpurnius.Calpurnia.Calpurnii.Calpurnian
+		Cantius.Cantia.Cantii.Cantian
+		Carvilius.Carvilia.Carvilii.Carvilian
+		Cassius.Cassia.Cassii.Cassian
+		Catius.Catia.Catii.Catian
+		Centenius.Centenia.Centenii.Centenian
+		Cilnius.Cilnia.Cilnii.Cilnian
+		Cispius.Cispia.Cispii.Cispian
+		Claudius.Claudia.Claudii.Claudian
+		Cloelius.Cloelia.Cloelii.Cloelian
+		Cominius.Cominia.Cominii.Cominian
+		Cornelius.Cornelia.Cornelii.Cornelian
+		Coruncanius.Coruncania.Coruncanii.Coruncanian
+		Curiatius.Curiatia.Curiatii.Curiatian
+		Curtius.Curtia.Curtii.Curtian
+		Decius.Decia.Decii.Decian
+		Domitius.Domitia.Domitii.Domitian
+		Fabius.Fabia.Fabii.Fabian
+		Fabricius.Fabricia.Fabricii.Fabrician
+		Flavius.Flavia.Flavii.Flavian
+		Foslius.Foslia.Foslii.Foslian
+		Fulcinius.Fulcinia.Fulcinii.Fulcinian
+		Fulvius.Fulvia.Fulvii.Fulvian
+		Furius.Furia.Furii.Furian
+		Funius.Furnia.Furnii.Furnian
+		Gabinius.Gabinia.Gabinii.Gabinian
+		Galerius.Galeria.Galerii.Galerian
+		Gracchus.Gracchia.Gracchi.Gracchian
+		Geganius.Gegania.Geganii.Geganian
+		Gellius.Gellia.Gellii.Gellian
+		Herminius.Herminia.Herminii.Herminian
+		Horatius.Horatia.Horatii.Horatian
+		Hortensius.Hortensia.Hortensii.Hortensian
+		Hostilius.Hostilia.Hostilii.Hostilian
+		Julius.Julia.Julii.Julian
+		Junius.Junia.Junii.Junian
+		Juventius.Juventia.Juventii.Juventan
+		Laetorius.Laetoria.Laetorii.Laetorian
+		Lartius.Lartia.Lartii.Lartian
+		Licinius.Licinia.Licinii.Licinian
+		Livius.Livia.Livii.Livian
+		Lucius.Lucia.Lucii.Lucian
+		Lucretius.Lucretia.Lucretii.Lucretian
+		Maelius.Maelia.Maelii.Maelian
+		Maenius.Maenia.Maenii.Maenian
+		Mamilius.Mamilia.Mamilii.Mamilian
+		Manlius.Manlia.Manlii.Manlian
+		Marcius.Marcia.Marcii.Marcian
+		Marius.Maria.Marii.Marian
+		Memmius.Memmia.Memmii.Memmian
+		Messius.Messia.Messii.Messian
+		Metilius.Metilia.Metilii.Metillian
+		Minucius.Minucia.Minucii.Minucian
+		Mummius.Mummia.Mummii.Mummian
+		Nigidius.Nigidia.Nigidii.Nigidian
+		Ninnius.Ninnia.Ninnii.Ninnian
+		Nonius.Nonia.Nonii.Nonian
+		Numicius.Numicia.Numicii.Numician
+		Numisius.Numisia.Numisii.Numisian
+		Octavius.Octavia.Octavii.Octavian
+		Ofilius.Ofilia.Ofilii.Ofilian
+		Ogulnius.Ogulnia.Ogulnii.Ogulnian
+		Opimius.Opimia.Opimii.Opimian
+		Oppius.Oppia.Oppii.Oppian
+		Octacilius.Octacilia.Octacilii.Octacilian
+		Ovidius.Ovidia.Ovidii.Ovidian
+		Papirius.Papiria.Papirii.Papirian
+		Pinarius.Pinaria.Pinarii.Pinarian
+		Plautius.Plautia.Plautii.Plautian
+		Plinius.Plinia.Plinii.Plinian
+		Postumius.Postumia.Postumii.Postumian
+		Pompilius.Pompilia.Pompilii.Pompillian
+		Pompeius.Pompeia.Pompeii.Pompeian
+		Pomponius.Pomponia.Pomponii.Pomponian
+		Popillius.Popillia.Popillii.Popillian
+		Porcius.Porcia.Porcii.Porcian
+		Postumius.Postumia.Postumii.Postumian
+		Publilius.Publilia.Publilii.Publilian
+		Pupius.Pupia.Pupii.Pupian
+		Quintilius.Quintilia.Quintilii.Quintilian
+		Quinctius.Quinctia.Quinctii.Quinctian
+		Rabirius.Rabiria.Rabirii.Rabirian
+		Resius.Resia.Resii.Resian
+		Romilius.Romilia.Romilii.Romillian
+		Salonius.Salonia.Salonii.Salonian
+		Salvius.Salvia.Salvii.Salvian
+		Scribonius.Scribonia.Scribonii.Scribonian
+		Sempronius.Sempronia.Sempronii.Sempronian
+		Sergius.Sergia.Sergii.Sergian
+		Sertorius.Sertoria.Sertorii.Sertorian
+		Servilius.Servilia.Servilii.Servilian
+		Sestius.Sestia.Sestii.Sestian
+		Sextius.Sextia.Sextii.Sextian
+		Sextilius.Sextilia.Sextilii.Sextilian
+		Sicinius.Sicinia.Sicinii.Sicinian
+		Silius.Silia.Silii.Silian
+		Sulpicius.Sulpicia.Sulpicii.Sulpician
+		Titius.Titia.Titii.Titian
+		Tremulus.Tremulia.Tremulii.Tremulan
+		Tullius.Tullia.Tullii.Tullian
+		Ulpius.Ulpia.Ulpii.Ulpian
+		Valerius.Valeria.Valerii.Valerian
+		Verginius.Verginia.Verginii.Verginian
+		Veturius.Veturia.Veturii.Veturian
+		Vesuvius.Vesuvia.Vesuvii.Vesuvian
+		Villius.Villia.Villii.Villian
+		Viridius.Viridia.Viridii.Viridian
+		Volumnius.Volumnia.Volumnii.Volumnian
+	}
+	nickname = {
+		NICKNAME_ALBINUS
+		NICKNAME_ALBUS
+		NICKNAME_AGRICOLA
+		NICKNAME_AGRIPPA
+		NICKNAME_ARATUS
+		NICKNAME_ASINA
+		NICKNAME_AUSPEX
+		NICKNAME_BALBUS
+		NICKNAME_BARBATUS
+		NICKNAME_BIBULUS
+		NICKNAME_BRUTUS
+		NICKNAME_BUBO
+		NICKNAME_BUTEO
+		NICKNAME_CAESAR
+		NICKNAME_CALVUS
+		NICKNAME_CALVINUS
+		NICKNAME_CATO
+		NICKNAME_CATULUS
+		NICKNAME_CETHEGUS
+		NICKNAME_CICERO
+		NICKNAME_CINNA
+		NICKNAME_COTTA
+		NICKNAME_CRISPIAN
+		NICKNAME_CURIO
+		NICKNAME_DAMA
+		NICKNAME_DAMASUS
+		NICKNAME_DENTATUS
+		NICKNAME_DIVES
+		NICKNAME_DOLABELLA
+		NICKNAME_DONATUS
+		NICKNAME_DRACO
+		NICKNAME_EMERITUS
+		NICKNAME_EUGENIUS
+		NICKNAME_EUPHEMIUS
+		NICKNAME_FALCO
+		NICKNAME_FALX
+		NICKNAME_FELIX
+		NICKNAME_FIMBRIA
+		NICKNAME_FLACCUS
+		NICKNAME_FLORUS
+		NICKNAME_FRONTO
+		NICKNAME_GALA
+		NICKNAME_GALERUS
+		NICKNAME_GEMELLUS
+		NICKNAME_GORGONIUS
+		NICKNAME_GRACCHUS
+		NICKNAME_GRACILIS
+		NICKNAME_HABITUS
+		NICKNAME_HERMA
+		NICKNAME_HILARIUS
+		NICKNAME_HORATIUS
+		NICKNAME_IGNATIUS
+		NICKNAME_IUBA
+		NICKNAME_LABEO
+		NICKNAME_LAENAS
+		NICKNAME_LEPIDUS
+		NICKNAME_LEPTIS
+		NICKNAME_LENTULUS
+		NICKNAME_LIBO
+		NICKNAME_LONGINUS
+		NICKNAME_LONGUS
+		NICKNAME_LUCAN
+		NICKNAME_LUCULLUS
+		NICKNAME_LUPIUS
+		NICKNAME_MACRO
+		NICKNAME_MARTIALIS
+		NICKNAME_MARULLUS
+		NICKNAME_MAXIMUS
+		NICKNAME_MEMMIUS
+		NICKNAME_MERCATOR
+		NICKNAME_MESSALLA
+		NICKNAME_MONTANUS
+		NICKNAME_MURENA
+		NICKNAME_MUS
+		NICKNAME_NASICA
+		NICKNAME_OCEANUS
+		NICKNAME_OCTAVIANUS
+		NICKNAME_OPIS
+		NICKNAME_OPTATUS
+		NICKNAME_OTHO
+		NICKNAME_PAENULA
+		NICKNAME_PANTERA
+		NICKNAME_PAVO
+		NICKNAME_PEREGRINUS
+		NICKNAME_PERTINAX
+		NICKNAME_PETRONAX
+		NICKNAME_PICTOR
+		NICKNAME_PILATUS
+		NICKNAME_POLUS
+		NICKNAME_PRISCA
+		NICKNAME_PRIMUS
+		NICKNAME_PROCYON
+		NICKNAME_PULCHER
+		NICKNAME_QUARTO
+		NICKNAME_QUIRICUS
+		NICKNAME_REGILLUS
+		NICKNAME_REMUS
+		NICKNAME_ROMANUS
+		NICKNAME_ROMULUS
+		NICKNAME_RUFUS
+		NICKNAME_RUSO
+		NICKNAME_SABINUS
+		NICKNAME_SALINATOR
+		NICKNAME_SCAEVOLA
+		NICKNAME_SCIPIO
+		NICKNAME_SCROFA
+		NICKNAME_SENECA
+		NICKNAME_SENNA
+		NICKNAME_SEVERUS
+		NICKNAME_SOREX
+		NICKNAME_STATIUS
+		NICKNAME_STRABO
+		NICKNAME_SUPER
+		NICKNAME_SUPERBUS
+		NICKNAME_TACITUS
+		NICKNAME_TERTULUS
+		NICKNAME_TREBONIUS
+		NICKNAME_TIBULLUS
+		NICKNAME_TULLIUS
+		NICKNAME_URSINUS
+		NICKNAME_URSUS
+		NICKNAME_VALENS
+		NICKNAME_VARRO
+		NICKNAME_VARUS
+		NICKNAME_VERGILIUS
+		NICKNAME_VIATOR
+		NICKNAME_VICTOR
+		NICKNAME_VINDEX
+		NICKNAME_VIRILIS
+		NICKNAME_VITALIS
+		NICKNAME_VITUS
+		NICKNAME_ZENO
+		NICKNAME_ZOILUS
+		NICKNAME_ZOSIMUS
+	}
+
+	female_order = {
+		Prima Secunda Tertia Quarta Quinta Septa Septima Octava Nona Decima Undecima Duodecima
+    }
+    culture = {
+        ahlibatinculture = {
+            male_names = {
+                Marduk-beli Marduk-belshunu Marduk-eriba Marduk-etir Marduk-ibni
+                Marduk-iddin Marduk-uballit Kidin-Marduk Lusthammar-Marduk Nidinti-Marduk
+                Rihat-Marduk Shamshi-Marduk Shipqat-Marduk Tanittu-Marduk Tukulti-Marduk
+                Bel-beli Bel-belshunu Bel-eriba Bel-etir Bel-ibni Bel-iddin Bel-uballit
+                Kidin-Bel Lusthammar-Bel Nidinti-Bel Rihat-Bel Shamshi-Bel Shipqat-Bel
+                Tanittu-Bel Tukulti-Bel Shamash-beli Shamash-belshunu Shamash-eriba
+                Shamash-etir Shamash-ibni Shamash-iddin Shamash-uballit Kidin-Shamash
+                Lusthammar-Shamash Nidinti-Shamash Rihat-Shamash Shamshi-Shamash
+                Shipqat-Shamash Tanittu-Shamash Tukulti-Shamash Ashshur-beli
+                Ashshur-belshunu Ashshur-eriba Ashshur-etir Ashshur-ibni Ashshur-iddin
+                Ashshur-uballit Kidin-Ashshur Lusthammar-Ashshur Nidinti-Ashshur
+                Rihat-Ashshur Shamshi-Ashshur Shipqat-Ashshur Tanittu-Ashshur
+                Tukulti-Ashshur Ishtar-beli Ishtar-belshunu Ishtar-eriba Ishtar-etir
+                Ishtar-ibni Ishtar-iddin Ishtar-uballit Kidin-Ishtar Lusthammar-Ishtar
+                Nidinti-Ishtar Rihat-Ishtar Shamshi-Ishtar Shipqat-Ishtar Tanittu-Ishtar
+                Tukulti-Ishtar Adad-beli Adad-belshunu Adad-eriba Adad-etir Adad-ibni
+                Adad-iddin Adad-uballit Kidin-Adad Lusthammar-Adad Nidinti-Adad Rihat-Adad
+                Shamshi-Adad Shipqat-Adad Tanittu-Adad Tukulti-Adad Nergal-beli
+                Nergal-belshunu Nergal-eriba Nergal-etir Nergal-ibni Nergal-iddin
+                Nergal-uballit Kidin-Nergal Lusthammar-Nergal Nidinti-Nergal Rihat-Nergal
+                Shamshi-Nergal Shipqat-Nergal Tanittu-Nergal Tukulti-Nergal Sin-beli
+                Sin-belshunu Sin-eriba Sin-etir Sin-ibni Sin-iddin Sin-uballit Kidin-Sin
+                Lusthammar-Sin Nidinti-Sin Rihat-Sin Shamshi-Sin Shipqat-Sin Tanittu-Sin
+                Tukulti-Sin Enlil-beli Enlil-belshunu Enlil-eriba Enlil-etir Enlil-ibni
+                Enlil-iddin Enlil-uballit Kidin-Enlil Lusthammar-Enlil Nidinti-Enlil
+                Rihat-Enlil Shamshi-Enlil Shipqat-Enlil Tanittu-Enlil Tukulti-Enlil
+                Ninurta-beli Ninurta-belshunu Ninurta-eriba Ninurta-etir Ninurta-ibni
+                Ninurta-iddin Ninurta-uballit Kidin-Ninurta Lusthammar-Ninurta
+                Nidinti-Ninurta Rihat-Ninurta Shamshi-Ninurta Shipqat-Ninurta
+                Tanittu-Ninurta Tukulti-Ninurta 
+            }
+            female_names = {
+                Wardat-Marduk Wardat-Bel Wardat-Shamash Wardat-Ashshur
+                Wardat-Ishtar Wardat-Adad Wardat-Nergal Wardat-Sin Wardat-Enlil
+                Wardat-Ninurta 
+            }
+            family = {
+                Galestus.Galestid.Galestid.Galestid
+                Kenamus.Kenamid.Kenamid.Kenamid
+                Naravid.Naravid.Naravid.Naravid
+                Penamus.Penamid.Penamid.Penamid
+                Senuid.Senuid.Senuid.Senuid
+                Setnid.Setnid.Setnid.Setnid
+                Arganid.Arganid.Arganid.Arganid
+                Psammid.Psammid.Psammid.Psammid
+                Philothid.Philothid.Philothid.Philothid
+                Timolid.Timolid.Timolid.Timolid
+                Zosid.Zosid.Zosid.Zosid
+                Phileid.Phileid.Phileid.Phileid
+                Nicodemid.Nicodemid.Nicodemid.Nicodemid
+                Nefarid.Nefarid.Nefarid.Nefarid
+                Bastid.Bastid.Bastid.Bastid
+                Xeneid.Xeneid.Xeneid.Xeneid
+                Naravid.Naravid.Naravid.Naravid
+                Ezanid.Ezanid.Ezanid.Ezanid
+                Ahmid.Ahmid.Ahmid.Ahmid
+                Alarus.Alara.Alarid.Alarid
+                Harsiotes.Harsiotes.Harsiotid.Harsiotid
+                Henus.Hena.Henid.Henid
+                Ibus.Iba.Ibid.Ibid
+                Khabbash.Khabbash.Khabbashid.Khabbashid	
+                Amasus.Amasa.Amasid.Amasid
+                Nectanebo.Nectanebo.Nectanebid.Nectanebid
+                Petubast.Petubast.Petubastes.Petubastid
+                Djedhid.Djedhid.Djedhid.Djedhid
+                Tachys.Tachya.Tachyes.Tachyid  
+            }
+        }
+        akashayanaculture = {
+            male_names = {
+                Cenni_Ellagan Kadalan Kochaet_Cenni Maran Nan_Maran
+                Nedungop_Perunkilli Perumpoot_Cenni Perunar_Killi
+                Selva_Kadunko Vani_Nungunan Vel_Kezhu Ambalathu Anthuvan
+                Asela Caetchenni Dutthagamani Dutthagamani Ellalan Kaandhalan Kaandhaman
+                Kochenganaan Koon Kopperunjozhan Maeyan Mahasiva Mantaral Mudukudumi
+                Musiri Mutasiva Nalangilli Nalluruththiran Nannan Narmudi Nedum
+                Nedunj Nedunjeliyan Pandukabhaya Perumcheral Puda Sena Suratissa
+                Suratissa Thiththan Ukkirap Uthiyan Varcembiyan 
+            }
+            female_names = {
+                 Illango_Venmal Harini Kanchanamala Kuveni Meenakshi Nandini
+                 Pajapati Sinhasivali Suppadevi Swarnapali Thathagai
+            }
+            family = {
+                Vanavaramba.Vanavaramba.Vanavaramba.Vanavaramban
+                Irumporai.Irumporai.Irumporai.Irumporan
+                Pandya.Pandya.Pandya.Pandyan
+                Chola.Chola.Chola.Cholan
+                Pallava.Pallava.Pallava.Pallavan 
+                Satavahana.Satavahana.Satavahana.Satavahanan 
+                Chutu.Chutu.Chutu.Chutan 
+                Vijaya.Vijaya.Vijaya.Vijayan	
+                Ikshvaku.Ikshvaku.Ikshvaku.Ikshvakan 
+                Poramba.Poramba.Poramba.Poramban 
+                Damela.Damela.Damela.Damelan 
+                Moriya.Moriya.Moriya.Moriyan 
+                Upatissa.Upatissa.Upatissa.Upatissan 
+                Silakala.Silakala.Silakala.Silakalan 
+                Mahanaga.Mahanaga.Mahanaga.Mahanagan 
+                Pithiya.Pithiya.Pithiya.Pithiyan 
+                Vasabha.Vasabha.Vasabha.Vasabhan 
+                Somavamsa.Somavamsa.Somavamsa.Somavamsan 
+                Udaya.Udaya.Udaya.Udayan 
+                Mittasena.Mittasena.Mittasena.Mittasenian
+            }
+        }
+        chakravanticulture = {
+            male_names = {
+                Cenni_Ellagan Kadalan Kochaet_Cenni Maran Nan_Maran
+                Nedungop_Perunkilli Perumpoot_Cenni Perunar_Killi
+                Selva_Kadunko Vani_Nungunan Vel_Kezhu Ambalathu Anthuvan
+                Asela Caetchenni Dutthagamani Dutthagamani Ellalan Kaandhalan Kaandhaman
+                Kochenganaan Koon Kopperunjozhan Maeyan Mahasiva Mantaral Mudukudumi
+                Musiri Mutasiva Nalangilli Nalluruththiran Nannan Narmudi Nedum
+                Nedunj Nedunjeliyan Pandukabhaya Perumcheral Puda Sena Suratissa
+                Suratissa Thiththan Ukkirap Uthiyan Varcembiyan 
+            }
+            female_names = {
+                 Illango_Venmal Harini Kanchanamala Kuveni Meenakshi Nandini
+                 Pajapati Sinhasivali Suppadevi Swarnapali Thathagai
+            }
+            family = {
+                Vanavaramba.Vanavaramba.Vanavaramba.Vanavaramban
+                Irumporai.Irumporai.Irumporai.Irumporan
+                Pandya.Pandya.Pandya.Pandyan
+                Chola.Chola.Chola.Cholan
+                Pallava.Pallava.Pallava.Pallavan 
+                Satavahana.Satavahana.Satavahana.Satavahanan 
+                Chutu.Chutu.Chutu.Chutan 
+                Vijaya.Vijaya.Vijaya.Vijayan	
+                Ikshvaku.Ikshvaku.Ikshvaku.Ikshvakan 
+                Poramba.Poramba.Poramba.Poramban 
+                Damela.Damela.Damela.Damelan 
+                Moriya.Moriya.Moriya.Moriyan 
+                Upatissa.Upatissa.Upatissa.Upatissan 
+                Silakala.Silakala.Silakala.Silakalan 
+                Mahanaga.Mahanaga.Mahanaga.Mahanagan 
+                Pithiya.Pithiya.Pithiya.Pithiyan 
+                Vasabha.Vasabha.Vasabha.Vasabhan 
+                Somavamsa.Somavamsa.Somavamsa.Somavamsan 
+                Udaya.Udaya.Udaya.Udayan 
+                Mittasena.Mittasena.Mittasena.Mittasenian
+            }
+        }
+        celestialsingersculture = {
+            male_names = {
+				Abreas Achaios Acnonios Aeacides Aenias Aeropos Agaios Agatharchides
+				Agathokles Agathon Agelaos Agenor Agesipolis Agis Aischines Akrotatos
+				Alexandros Alketas Alkimachos Alkimos Amantas Amphoteros Amyntas Anaxarchos
+				Anaxikrates Anaxippos Andragoras Andromachos Andromenes Andronikos
+				Androsthenes Antenor Antialkidas Antigonos Antikles Antimachos Antiochos
+				Antipatros Antiphates Antiphilos Antisthenes Aphrodisios Apollodoros
+				Apollodotos Apollonios Apollophanes Aratos Archebios Archelaos Archias
+				Archidamos Archimedes Archippos Aretas Areus Aristarchos Aristobulos
+				Aristodemos Aristogeiton Aristomachos Ariston Aristonikos Aristophanes
+				Aristophon Aristoteles Arrhabaios Arrhidaios Arseas Artemidoros Artemidotos
+				Asandros Asklepiades Athanadoros Athenodoros Attalos Bakchides Balakros Bikon
+				Bryaxis Chabrias Chairestratos Chairondas Chares Charidemos Charikles Charinos
+				Chremes Chremonides Chrysippos Damokrates Damophon Damoteles Deinippos Demades
+				Demetrios Demodamas Demogenes Demokleides Demokritos Demophanes Demosthenes 
+				Derdas Deriades Didas Dikaiarchos Dikaios Dimnos Diodoros Diodotos Diogenes 
+				Diomedes Dion Dionysios Dropidas Echekrates Eisigonos Ekdemos Empedokles 
+				Epameinondas Epandros Epikuros Epikydes Epimenes Epokillos Erasistratos 
+				Eratosthenes Erigyios Euainetos Euandros Eubulos Eudamidas Eudoxos Euhemeros
+				Eukleides Eukrates Eukratides Euktemon Eumenes Euripides Eurylochos Euthydemos
+				Euthykrates Euthykritos Eutychides Euxenippos Gelon Glaukias Gorgias Gorgos 
+				Gylippos Hagesandros Halkyoneus Harpalos Hegemachos Hegesias Hekataios Hektor 
+				Helenos Heliodoros Heliokles Hephaistion Herakleides Herakon Hermaios 
+				Hermarchos Hermesianax Hermias Hermolaos Heromenes Herophilos Hierax Hieron 
+				Hieronymos Hiketas Hippalos Hippokrates Hippostratos Hyakinthos Hyperbatas 
+				Hypereides Ikadion Iollas Iphikrates Ismenias Isokrates Kalas Kallines 
+				Kallisthenes Kallistratos Kallixeinos Karneades Karsis Kassandros Kebalinos
+				Kephalon Kephisodoros Kephisodotos Kephisophon Kineas Kleandros Kleanthes 
+				Klearchos Kleitos Kleombrotos Kleomenes Kleonymos Koinos Koroibos Krateros 
+				Krates Krateuas Krenides Ktesikles Lachares Laomedon Leonidas Leonnatos 
+				Leontios Leosthenes Leostratos Leukon Lydiadas Lykurgos Lysandridas Lysandros 
+				Lysias Lysimachos Lysippos Lysistratos Machanidas Machatas Makartatos Marsyas 
+				Megaleas Megasthenes Memnon Menandros Menedemos Menelaos Menes Menidas Menon 
+				Menos Metrodoros Metron Milon Mnaseas Mnesidemos Molon Nabis Neaichmos 
+				Nearchos Neoptolemos Nikagoras Nikandros Nikanor Nikarchos Nikephoros 
+				Nikeratos Niketes Nikias Nikodoros Nikokles Nikokrates Nikokreon Nikomachos 
+				Nikostratos Numenios Olympiodoros Onomarchos Onomastos Ophellas Orestes 
+				Paionios Pantaleon Pantauchos Pantordanos Parmenion Patrokles Pausanias 
+				Peithagoras Peithon Pelopidas Pelops Perdikkas Peroidas Perseus Peukestas 
+				Peukolaos Pherekles Philemon Philetairos Philetas Philinos Philippos Philokles
+				Philon Philonides Philopoimenos Philotas Philoxenos Phrynichos Phyromachos 
+				Platon Pleistarchos Polemon Polybios Polydamas Polydoros Polyeuktos Polygnotos
+				Polyperchon Poseidippos Poseidonios Praxibulos Praxiteles Proteas Ptolemaios 
+				Pyrrhias Pytheas Pythodelos Seleukos Simmias Simonides Sopolis Sosistratos 
+				Sosthenes Sostratos Sotas Spalyris Stasanor Stilpon Straton Stratonikos 
+				Taurion Tauriskos Teisikrates Thearidas Themistios Theodamas Theodoros 
+				Theodotos Theokritos Theophilos Theophrastos Thoas Thoinias Thoinon Thrasykles
+				Timaios Timarchos Timoleon Timotheos Tryphon Xanthippos Xenares Xenokrates 
+				Xenophon Zeionises Zenon Zeuxis Zoilos Zopyrion
+			}
+			female_names = {
+				Charis Demetria Diantha Dionysia Agathokleia Agiatis Antiochis Apame Apame
+				Apollonia Ariadne Arsinoe Artemisia Athenais Belistiche Berenike Damarate
+				Daphne Demo Elpis Eirene Euphemia Euthalia Hypatia Kandake Kassandra Megaira
+				Melaina Narkissa Nysa Olympia Phila Phile Eurydike Histieia Isidora Kalliope
+				Kallista Kellanthis Kleio Kleopatra Kratesikleia Lanassa Laodike Laodike
+				Libys Lysandra Lysis Mestris Monime Nephoris Oinanthe Pamphile Phila Philotera
+				Phthia Ptolema Sofia Sostrate Thais Theophila Thetima Timo Xanthe Xene Xenia
+				Ptolemais Selene Sophe Stratonike Stratonike Theoxene Thoeris Tryphaina Zosime
+				 
+				Ada Aegyptia Anthis Antigona Aphrodisia Archestrate Archilla Archippe Aristagora 
+				Ariste Aristion Aristo Aristoboule Aristodike Aristokleia Aristokrateia Aristomache 
+				Aristonike Aristylla Artemis Aspasia Biote Boidion Chairestrate Chairippe Choirine 
+				Chrysilla Chrysis Demokrateia Demostrate Diokleia Doris Dorkas Eukleia Eukoline Euphrosyne 
+				Euporia Eutychis Glykera Hedeia Hediste Hedyle Hedyline Herais Hiero Hierokleia Hippostrate 
+				Homolois Kallimache Kallippe Kallis Kallistion Kallisto Kallistomache Kallistrate Kleagora 
+				Kleariste Kleino Kleito Kleo Kleopatra Kleostrate Krateia Laodike Leaina Leontis Lysimache 
+				Lysistrate Malthake Mania Melissa Melitta Menestrate Meniske Metrodora Mika Mnesarete Mnesistrate 
+				Murrhine Nausistrate Nikagora Nikaia Nikareta Nikarete Nikeso Niko Nikomache Nikostrate Olympias
+				Pamphile Parthenis Patrokleia Phanagora Phano Phanostrate Philainis Phileia Philias Philinna Philippa 
+				Philista Phillo Philokleia Philostrate Philotera Philotis Philoumene Philoxena Plangon Plathane Pythias 
+				Rhode Satyra Sima Simale Simon Sostrate Syra Theano Theodora Theodote Thraitta Timagora Timarete Timokleia 
+				Timostrate Xeno Xenokrateia Zopyra Zopyris
+			}
+		
+			nickname = {
+				NICKNAME_EPIPHANES
+				NICKNAME_EUERGETES
+				NICKNAME_EUPATOR
+				NICKNAME_EUSEBES
+				NICKNAME_KALLINIKOS
+				NICKNAME_NEOS_DIONYSOS
+				NICKNAME_NIKATOR
+				NICKNAME_PHILADELPHOS
+				NICKNAME_PHILOMETOR
+				NICKNAME_PHILOPATOR
+				NICKNAME_SOTER
+				NICKNAME_THEOS
+				NICKNAME_POLIORCETES
+				NICKNAME_DOSON
+				NICKNAME_GONATAS
+				NICKNAME_KALOS
+			}
+			
+			family = {
+				Galestus.Galestid.Galestid.Galestid
+				Kenamus.Kenamid.Kenamid.Kenamid
+				Naravid.Naravid.Naravid.Naravid
+				Penamus.Penamid.Penamid.Penamid
+				Senuid.Senuid.Senuid.Senuid
+				Setnid.Setnid.Setnid.Setnid
+				Arganid.Arganid.Arganid.Arganid
+				Psammid.Psammid.Psammid.Psammid
+				Philothid.Philothid.Philothid.Philothid
+				Timolid.Timolid.Timolid.Timolid
+				Zosid.Zosid.Zosid.Zosid
+				Phileid.Phileid.Phileid.Phileid
+				Nicodemid.Nicodemid.Nicodemid.Nicodemid
+				Nefarid.Nefarid.Nefarid.Nefarid
+				Bastid.Bastid.Bastid.Bastid
+				Xeneid.Xeneid.Xeneid.Xeneid
+				Naravid.Naravid.Naravid.Naravid
+				Ezanid.Ezanid.Ezanid.Ezanid
+				Ahmid.Ahmid.Ahmid.Ahmid
+				Alarus.Alara.Alarid.Alarid
+				Harsiotes.Harsiotes.Harsiotid.Harsiotid
+				Henus.Hena.Henid.Henid
+				Ibus.Iba.Ibid.Ibid
+				Khabbash.Khabbash.Khabbashid.Khabbashid	
+				Amasus.Amasa.Amasid.Amasid
+				Nectanebo.Nectanebo.Nectanebid.Nectanebid
+				Petubast.Petubast.Petubastes.Petubastid
+				Djedhid.Djedhid.Djedhid.Djedhid
+				Tachys.Tachya.Tachyes.Tachyid			}	   
+        }
+        dreamspeakerculture = {}
+        cultofmercuryculture = {
+            male_names = {
+				Abreas Achaios Acnonios Aeacides Aenias Aeropos Agaios Agatharchides
+				Agathokles Agathon Agelaos Agenor Agesipolis Agis Aischines Akrotatos
+				Alexandros Alketas Alkimachos Alkimos Amantas Amphoteros Amyntas Anaxarchos
+				Anaxikrates Anaxippos Andragoras Andromachos Andromenes Andronikos
+				Androsthenes Antenor Antialkidas Antigonos Antikles Antimachos Antiochos
+				Antipatros Antiphates Antiphilos Antisthenes Aphrodisios Apollodoros
+				Apollodotos Apollonios Apollophanes Aratos Archebios Archelaos Archias
+				Archidamos Archimedes Archippos Aretas Areus Aristarchos Aristobulos
+				Aristodemos Aristogeiton Aristomachos Ariston Aristonikos Aristophanes
+				Aristophon Aristoteles Arrhabaios Arrhidaios Arseas Artemidoros Artemidotos
+				Asandros Asklepiades Athanadoros Athenodoros Attalos Bakchides Balakros Bikon
+				Bryaxis Chabrias Chairestratos Chairondas Chares Charidemos Charikles Charinos
+				Chremes Chremonides Chrysippos Damokrates Damophon Damoteles Deinippos Demades
+				Demetrios Demodamas Demogenes Demokleides Demokritos Demophanes Demosthenes 
+				Derdas Deriades Didas Dikaiarchos Dikaios Dimnos Diodoros Diodotos Diogenes 
+				Diomedes Dion Dionysios Dropidas Echekrates Eisigonos Ekdemos Empedokles 
+				Epameinondas Epandros Epikuros Epikydes Epimenes Epokillos Erasistratos 
+				Eratosthenes Erigyios Euainetos Euandros Eubulos Eudamidas Eudoxos Euhemeros
+				Eukleides Eukrates Eukratides Euktemon Eumenes Euripides Eurylochos Euthydemos
+				Euthykrates Euthykritos Eutychides Euxenippos Gelon Glaukias Gorgias Gorgos 
+				Gylippos Hagesandros Halkyoneus Harpalos Hegemachos Hegesias Hekataios Hektor 
+				Helenos Heliodoros Heliokles Hephaistion Herakleides Herakon Hermaios 
+				Hermarchos Hermesianax Hermias Hermolaos Heromenes Herophilos Hierax Hieron 
+				Hieronymos Hiketas Hippalos Hippokrates Hippostratos Hyakinthos Hyperbatas 
+				Hypereides Ikadion Iollas Iphikrates Ismenias Isokrates Kalas Kallines 
+				Kallisthenes Kallistratos Kallixeinos Karneades Karsis Kassandros Kebalinos
+				Kephalon Kephisodoros Kephisodotos Kephisophon Kineas Kleandros Kleanthes 
+				Klearchos Kleitos Kleombrotos Kleomenes Kleonymos Koinos Koroibos Krateros 
+				Krates Krateuas Krenides Ktesikles Lachares Laomedon Leonidas Leonnatos 
+				Leontios Leosthenes Leostratos Leukon Lydiadas Lykurgos Lysandridas Lysandros 
+				Lysias Lysimachos Lysippos Lysistratos Machanidas Machatas Makartatos Marsyas 
+				Megaleas Megasthenes Memnon Menandros Menedemos Menelaos Menes Menidas Menon 
+				Menos Metrodoros Metron Milon Mnaseas Mnesidemos Molon Nabis Neaichmos 
+				Nearchos Neoptolemos Nikagoras Nikandros Nikanor Nikarchos Nikephoros 
+				Nikeratos Niketes Nikias Nikodoros Nikokles Nikokrates Nikokreon Nikomachos 
+				Nikostratos Numenios Olympiodoros Onomarchos Onomastos Ophellas Orestes 
+				Paionios Pantaleon Pantauchos Pantordanos Parmenion Patrokles Pausanias 
+				Peithagoras Peithon Pelopidas Pelops Perdikkas Peroidas Perseus Peukestas 
+				Peukolaos Pherekles Philemon Philetairos Philetas Philinos Philippos Philokles
+				Philon Philonides Philopoimenos Philotas Philoxenos Phrynichos Phyromachos 
+				Platon Pleistarchos Polemon Polybios Polydamas Polydoros Polyeuktos Polygnotos
+				Polyperchon Poseidippos Poseidonios Praxibulos Praxiteles Proteas Ptolemaios 
+				Pyrrhias Pytheas Pythodelos Seleukos Simmias Simonides Sopolis Sosistratos 
+				Sosthenes Sostratos Sotas Spalyris Stasanor Stilpon Straton Stratonikos 
+				Taurion Tauriskos Teisikrates Thearidas Themistios Theodamas Theodoros 
+				Theodotos Theokritos Theophilos Theophrastos Thoas Thoinias Thoinon Thrasykles
+				Timaios Timarchos Timoleon Timotheos Tryphon Xanthippos Xenares Xenokrates 
+				Xenophon Zeionises Zenon Zeuxis Zoilos Zopyrion
+			}
+			female_names = {
+				Charis Demetria Diantha Dionysia Agathokleia Agiatis Antiochis Apame Apame
+				Apollonia Ariadne Arsinoe Artemisia Athenais Belistiche Berenike Damarate
+				Daphne Demo Elpis Eirene Euphemia Euthalia Hypatia Kandake Kassandra Megaira
+				Melaina Narkissa Nysa Olympia Phila Phile Eurydike Histieia Isidora Kalliope
+				Kallista Kellanthis Kleio Kleopatra Kratesikleia Lanassa Laodike Laodike
+				Libys Lysandra Lysis Mestris Monime Nephoris Oinanthe Pamphile Phila Philotera
+				Phthia Ptolema Sofia Sostrate Thais Theophila Thetima Timo Xanthe Xene Xenia
+				Ptolemais Selene Sophe Stratonike Stratonike Theoxene Thoeris Tryphaina Zosime
+				 
+				Ada Aegyptia Anthis Antigona Aphrodisia Archestrate Archilla Archippe Aristagora 
+				Ariste Aristion Aristo Aristoboule Aristodike Aristokleia Aristokrateia Aristomache 
+				Aristonike Aristylla Artemis Aspasia Biote Boidion Chairestrate Chairippe Choirine 
+				Chrysilla Chrysis Demokrateia Demostrate Diokleia Doris Dorkas Eukleia Eukoline Euphrosyne 
+				Euporia Eutychis Glykera Hedeia Hediste Hedyle Hedyline Herais Hiero Hierokleia Hippostrate 
+				Homolois Kallimache Kallippe Kallis Kallistion Kallisto Kallistomache Kallistrate Kleagora 
+				Kleariste Kleino Kleito Kleo Kleopatra Kleostrate Krateia Laodike Leaina Leontis Lysimache 
+				Lysistrate Malthake Mania Melissa Melitta Menestrate Meniske Metrodora Mika Mnesarete Mnesistrate 
+				Murrhine Nausistrate Nikagora Nikaia Nikareta Nikarete Nikeso Niko Nikomache Nikostrate Olympias
+				Pamphile Parthenis Patrokleia Phanagora Phano Phanostrate Philainis Phileia Philias Philinna Philippa 
+				Philista Phillo Philokleia Philostrate Philotera Philotis Philoumene Philoxena Plangon Plathane Pythias 
+				Rhode Satyra Sima Simale Simon Sostrate Syra Theano Theodora Theodote Thraitta Timagora Timarete Timokleia 
+				Timostrate Xeno Xenokrateia Zopyra Zopyris
+			}
+		
+			nickname = {
+				NICKNAME_EPIPHANES
+				NICKNAME_EUERGETES
+				NICKNAME_EUPATOR
+				NICKNAME_EUSEBES
+				NICKNAME_KALLINIKOS
+				NICKNAME_NEOS_DIONYSOS
+				NICKNAME_NIKATOR
+				NICKNAME_PHILADELPHOS
+				NICKNAME_PHILOMETOR
+				NICKNAME_PHILOPATOR
+				NICKNAME_SOTER
+				NICKNAME_THEOS
+				NICKNAME_POLIORCETES
+				NICKNAME_DOSON
+				NICKNAME_GONATAS
+				NICKNAME_KALOS
+			}
+			
+			family = {
+				Galestus.Galestid.Galestid.Galestid
+				Kenamus.Kenamid.Kenamid.Kenamid
+				Naravid.Naravid.Naravid.Naravid
+				Penamus.Penamid.Penamid.Penamid
+				Senuid.Senuid.Senuid.Senuid
+				Setnid.Setnid.Setnid.Setnid
+				Arganid.Arganid.Arganid.Arganid
+				Psammid.Psammid.Psammid.Psammid
+				Philothid.Philothid.Philothid.Philothid
+				Timolid.Timolid.Timolid.Timolid
+				Zosid.Zosid.Zosid.Zosid
+				Phileid.Phileid.Phileid.Phileid
+				Nicodemid.Nicodemid.Nicodemid.Nicodemid
+				Nefarid.Nefarid.Nefarid.Nefarid
+				Bastid.Bastid.Bastid.Bastid
+				Xeneid.Xeneid.Xeneid.Xeneid
+				Naravid.Naravid.Naravid.Naravid
+				Ezanid.Ezanid.Ezanid.Ezanid
+				Ahmid.Ahmid.Ahmid.Ahmid
+				Alarus.Alara.Alarid.Alarid
+				Harsiotes.Harsiotes.Harsiotid.Harsiotid
+				Henus.Hena.Henid.Henid
+				Ibus.Iba.Ibid.Ibid
+				Khabbash.Khabbash.Khabbashid.Khabbashid	
+				Amasus.Amasa.Amasid.Amasid
+				Nectanebo.Nectanebo.Nectanebid.Nectanebid
+				Petubast.Petubast.Petubastes.Petubastid
+				Djedhid.Djedhid.Djedhid.Djedhid
+				Tachys.Tachya.Tachyes.Tachyid			}	
+        }
+        sahajiyaculture = {
+            male_names = {
+                Cenni_Ellagan Kadalan Kochaet_Cenni Maran Nan_Maran
+                Nedungop_Perunkilli Perumpoot_Cenni Perunar_Killi
+                Selva_Kadunko Vani_Nungunan Vel_Kezhu Ambalathu Anthuvan
+                Asela Caetchenni Dutthagamani Dutthagamani Ellalan Kaandhalan Kaandhaman
+                Kochenganaan Koon Kopperunjozhan Maeyan Mahasiva Mantaral Mudukudumi
+                Musiri Mutasiva Nalangilli Nalluruththiran Nannan Narmudi Nedum
+                Nedunj Nedunjeliyan Pandukabhaya Perumcheral Puda Sena Suratissa
+                Suratissa Thiththan Ukkirap Uthiyan Varcembiyan 
+            }
+            female_names = {
+                 Illango_Venmal Harini Kanchanamala Kuveni Meenakshi Nandini
+                 Pajapati Sinhasivali Suppadevi Swarnapali Thathagai
+            }
+            family = {
+                Vanavaramba.Vanavaramba.Vanavaramba.Vanavaramban
+                Irumporai.Irumporai.Irumporai.Irumporan
+                Pandya.Pandya.Pandya.Pandyan
+                Chola.Chola.Chola.Cholan
+                Pallava.Pallava.Pallava.Pallavan 
+                Satavahana.Satavahana.Satavahana.Satavahanan 
+                Chutu.Chutu.Chutu.Chutan 
+                Vijaya.Vijaya.Vijaya.Vijayan	
+                Ikshvaku.Ikshvaku.Ikshvaku.Ikshvakan 
+                Poramba.Poramba.Poramba.Poramban 
+                Damela.Damela.Damela.Damelan 
+                Moriya.Moriya.Moriya.Moriyan 
+                Upatissa.Upatissa.Upatissa.Upatissan 
+                Silakala.Silakala.Silakala.Silakalan 
+                Mahanaga.Mahanaga.Mahanaga.Mahanagan 
+                Pithiya.Pithiya.Pithiya.Pithiyan 
+                Vasabha.Vasabha.Vasabha.Vasabhan 
+                Somavamsa.Somavamsa.Somavamsa.Somavamsan 
+                Udaya.Udaya.Udaya.Udayan 
+                Mittasena.Mittasena.Mittasena.Mittasenian
+            } 
+        }
+        daedelanculture = {
+            male_names = {
+				Abreas Achaios Acnonios Aeacides Aenias Aeropos Agaios Agatharchides
+				Agathokles Agathon Agelaos Agenor Agesipolis Agis Aischines Akrotatos
+				Alexandros Alketas Alkimachos Alkimos Amantas Amphoteros Amyntas Anaxarchos
+				Anaxikrates Anaxippos Andragoras Andromachos Andromenes Andronikos
+				Androsthenes Antenor Antialkidas Antigonos Antikles Antimachos Antiochos
+				Antipatros Antiphates Antiphilos Antisthenes Aphrodisios Apollodoros
+				Apollodotos Apollonios Apollophanes Aratos Archebios Archelaos Archias
+				Archidamos Archimedes Archippos Aretas Areus Aristarchos Aristobulos
+				Aristodemos Aristogeiton Aristomachos Ariston Aristonikos Aristophanes
+				Aristophon Aristoteles Arrhabaios Arrhidaios Arseas Artemidoros Artemidotos
+				Asandros Asklepiades Athanadoros Athenodoros Attalos Bakchides Balakros Bikon
+				Bryaxis Chabrias Chairestratos Chairondas Chares Charidemos Charikles Charinos
+				Chremes Chremonides Chrysippos Damokrates Damophon Damoteles Deinippos Demades
+				Demetrios Demodamas Demogenes Demokleides Demokritos Demophanes Demosthenes 
+				Derdas Deriades Didas Dikaiarchos Dikaios Dimnos Diodoros Diodotos Diogenes 
+				Diomedes Dion Dionysios Dropidas Echekrates Eisigonos Ekdemos Empedokles 
+				Epameinondas Epandros Epikuros Epikydes Epimenes Epokillos Erasistratos 
+				Eratosthenes Erigyios Euainetos Euandros Eubulos Eudamidas Eudoxos Euhemeros
+				Eukleides Eukrates Eukratides Euktemon Eumenes Euripides Eurylochos Euthydemos
+				Euthykrates Euthykritos Eutychides Euxenippos Gelon Glaukias Gorgias Gorgos 
+				Gylippos Hagesandros Halkyoneus Harpalos Hegemachos Hegesias Hekataios Hektor 
+				Helenos Heliodoros Heliokles Hephaistion Herakleides Herakon Hermaios 
+				Hermarchos Hermesianax Hermias Hermolaos Heromenes Herophilos Hierax Hieron 
+				Hieronymos Hiketas Hippalos Hippokrates Hippostratos Hyakinthos Hyperbatas 
+				Hypereides Ikadion Iollas Iphikrates Ismenias Isokrates Kalas Kallines 
+				Kallisthenes Kallistratos Kallixeinos Karneades Karsis Kassandros Kebalinos
+				Kephalon Kephisodoros Kephisodotos Kephisophon Kineas Kleandros Kleanthes 
+				Klearchos Kleitos Kleombrotos Kleomenes Kleonymos Koinos Koroibos Krateros 
+				Krates Krateuas Krenides Ktesikles Lachares Laomedon Leonidas Leonnatos 
+				Leontios Leosthenes Leostratos Leukon Lydiadas Lykurgos Lysandridas Lysandros 
+				Lysias Lysimachos Lysippos Lysistratos Machanidas Machatas Makartatos Marsyas 
+				Megaleas Megasthenes Memnon Menandros Menedemos Menelaos Menes Menidas Menon 
+				Menos Metrodoros Metron Milon Mnaseas Mnesidemos Molon Nabis Neaichmos 
+				Nearchos Neoptolemos Nikagoras Nikandros Nikanor Nikarchos Nikephoros 
+				Nikeratos Niketes Nikias Nikodoros Nikokles Nikokrates Nikokreon Nikomachos 
+				Nikostratos Numenios Olympiodoros Onomarchos Onomastos Ophellas Orestes 
+				Paionios Pantaleon Pantauchos Pantordanos Parmenion Patrokles Pausanias 
+				Peithagoras Peithon Pelopidas Pelops Perdikkas Peroidas Perseus Peukestas 
+				Peukolaos Pherekles Philemon Philetairos Philetas Philinos Philippos Philokles
+				Philon Philonides Philopoimenos Philotas Philoxenos Phrynichos Phyromachos 
+				Platon Pleistarchos Polemon Polybios Polydamas Polydoros Polyeuktos Polygnotos
+				Polyperchon Poseidippos Poseidonios Praxibulos Praxiteles Proteas Ptolemaios 
+				Pyrrhias Pytheas Pythodelos Seleukos Simmias Simonides Sopolis Sosistratos 
+				Sosthenes Sostratos Sotas Spalyris Stasanor Stilpon Straton Stratonikos 
+				Taurion Tauriskos Teisikrates Thearidas Themistios Theodamas Theodoros 
+				Theodotos Theokritos Theophilos Theophrastos Thoas Thoinias Thoinon Thrasykles
+				Timaios Timarchos Timoleon Timotheos Tryphon Xanthippos Xenares Xenokrates 
+				Xenophon Zeionises Zenon Zeuxis Zoilos Zopyrion
+			}
+			female_names = {
+				Charis Demetria Diantha Dionysia Agathokleia Agiatis Antiochis Apame Apame
+				Apollonia Ariadne Arsinoe Artemisia Athenais Belistiche Berenike Damarate
+				Daphne Demo Elpis Eirene Euphemia Euthalia Hypatia Kandake Kassandra Megaira
+				Melaina Narkissa Nysa Olympia Phila Phile Eurydike Histieia Isidora Kalliope
+				Kallista Kellanthis Kleio Kleopatra Kratesikleia Lanassa Laodike Laodike
+				Libys Lysandra Lysis Mestris Monime Nephoris Oinanthe Pamphile Phila Philotera
+				Phthia Ptolema Sofia Sostrate Thais Theophila Thetima Timo Xanthe Xene Xenia
+				Ptolemais Selene Sophe Stratonike Stratonike Theoxene Thoeris Tryphaina Zosime
+				 
+				Ada Aegyptia Anthis Antigona Aphrodisia Archestrate Archilla Archippe Aristagora 
+				Ariste Aristion Aristo Aristoboule Aristodike Aristokleia Aristokrateia Aristomache 
+				Aristonike Aristylla Artemis Aspasia Biote Boidion Chairestrate Chairippe Choirine 
+				Chrysilla Chrysis Demokrateia Demostrate Diokleia Doris Dorkas Eukleia Eukoline Euphrosyne 
+				Euporia Eutychis Glykera Hedeia Hediste Hedyle Hedyline Herais Hiero Hierokleia Hippostrate 
+				Homolois Kallimache Kallippe Kallis Kallistion Kallisto Kallistomache Kallistrate Kleagora 
+				Kleariste Kleino Kleito Kleo Kleopatra Kleostrate Krateia Laodike Leaina Leontis Lysimache 
+				Lysistrate Malthake Mania Melissa Melitta Menestrate Meniske Metrodora Mika Mnesarete Mnesistrate 
+				Murrhine Nausistrate Nikagora Nikaia Nikareta Nikarete Nikeso Niko Nikomache Nikostrate Olympias
+				Pamphile Parthenis Patrokleia Phanagora Phano Phanostrate Philainis Phileia Philias Philinna Philippa 
+				Philista Phillo Philokleia Philostrate Philotera Philotis Philoumene Philoxena Plangon Plathane Pythias 
+				Rhode Satyra Sima Simale Simon Sostrate Syra Theano Theodora Theodote Thraitta Timagora Timarete Timokleia 
+				Timostrate Xeno Xenokrateia Zopyra Zopyris
+			}
+		
+			nickname = {
+				NICKNAME_EPIPHANES
+				NICKNAME_EUERGETES
+				NICKNAME_EUPATOR
+				NICKNAME_EUSEBES
+				NICKNAME_KALLINIKOS
+				NICKNAME_NEOS_DIONYSOS
+				NICKNAME_NIKATOR
+				NICKNAME_PHILADELPHOS
+				NICKNAME_PHILOMETOR
+				NICKNAME_PHILOPATOR
+				NICKNAME_SOTER
+				NICKNAME_THEOS
+				NICKNAME_POLIORCETES
+				NICKNAME_DOSON
+				NICKNAME_GONATAS
+				NICKNAME_KALOS
+			}
+			
+			family = {
+				Galestus.Galestid.Galestid.Galestid
+				Kenamus.Kenamid.Kenamid.Kenamid
+				Naravid.Naravid.Naravid.Naravid
+				Penamus.Penamid.Penamid.Penamid
+				Senuid.Senuid.Senuid.Senuid
+				Setnid.Setnid.Setnid.Setnid
+				Arganid.Arganid.Arganid.Arganid
+				Psammid.Psammid.Psammid.Psammid
+				Philothid.Philothid.Philothid.Philothid
+				Timolid.Timolid.Timolid.Timolid
+				Zosid.Zosid.Zosid.Zosid
+				Phileid.Phileid.Phileid.Phileid
+				Nicodemid.Nicodemid.Nicodemid.Nicodemid
+				Nefarid.Nefarid.Nefarid.Nefarid
+				Bastid.Bastid.Bastid.Bastid
+				Xeneid.Xeneid.Xeneid.Xeneid
+				Naravid.Naravid.Naravid.Naravid
+				Ezanid.Ezanid.Ezanid.Ezanid
+				Ahmid.Ahmid.Ahmid.Ahmid
+				Alarus.Alara.Alarid.Alarid
+				Harsiotes.Harsiotes.Harsiotid.Harsiotid
+				Henus.Hena.Henid.Henid
+				Ibus.Iba.Ibid.Ibid
+				Khabbash.Khabbash.Khabbashid.Khabbashid	
+				Amasus.Amasa.Amasid.Amasid
+				Nectanebo.Nectanebo.Nectanebid.Nectanebid
+				Petubast.Petubast.Petubastes.Petubastid
+				Djedhid.Djedhid.Djedhid.Djedhid
+				Tachys.Tachya.Tachyes.Tachyid			}	
+        }
+        verbenaculture = {	
+        male_names = {
+            Actus Aidas Alilas Ambicatus Assicu Baidagnas Barrivendas Battignias Biracas Bivaidu Bodibevas Branogenas Brocagnas Caliacas Catomaglas Cattubuts Cliucu Coillabbots Coimagnas Colomagnas Commaggagnas Corbagnas Corbbas Coribirias Corrbrias Covagnas Culidovas Cunacennas Cunagussus Cunagusus Cunalega Cunalegas Cunamaglas Cunamaqqas Cunanas Cunanets Cunas Cunatamas Cunavalas Cunorics Curcagnas Curcittias Dalagnas Dalas Donanas Donas Dovagnas Dovaidu Dovalescas Dovatuca Dovatucas Dovvina Dumeledu Dunaidu Ercagnas Ercaidu Ercas Ercaviccs Gamicu Gattagnas Glasicu Golas Gossucttia Icorics Ircittis Ivacattus Ivagenas Laddignias Lugaddu Lugudeccs Luguvveccs Maglicu Mailagnas Mainas Minnaccagnas Moddagnas Mornas Neras Netacaras Oinogustus Qasignias Qenilocagnas Qenilocas Rittavvecs Rodagnas Ronanas Sagragnas Scilagnas Sedandas Sedanias Sinas Soginas Suladamas Talagnas Totavalas Trenaccatus Trenagusus Uisinas Ulcagnas Uscaras Vedacu Veddellemettis Vendas Vendegas Vendubaras Veqoanaias Verdiadas Vergosus Vlatiamas Voenacu Vorgalas
+        }
+        female_names = {
+            Acala Aiva Aina Airmida Auitoriga Bana Bivena Balatnada Boana Brigitia Clotru Conana Danana Deicittina Derdria Elea Evera Graina Ivadaina Leavarcama Liattia Maca Mada Maeva Maga Mugaina Muirina Naevaina Nesa Niava Oivagrina Plora Saba Scattaca Uattaca Vanda Vanana Veddellema Vendabaira Venducoema Vlidais Vodula Vuamanaca
+        }
+        family = {
+            Bolgi.Bolgi.Bolgi.Bolgian
+            Cruitini.Cruitini.Cruitini.Cruitinian
+            Dairini.Dairini.Dairini.Dairene
+            Deblanni.Deblanni.Deblanni.Deblanian
+            Deirgtini.Deirgtini.Deirgtini.Deirgtinian
+            Domgnanni.Domgnanni.Domgnanni.Domgnannid
+            Ecmacti.Ecmacti.Ecmacti.Emactid
+            Eranni.Eranni.Eranni.Erannian
+            Gamagnragni.Gamagnragni.Gamagnragni.Gamagnragnid
+            Laggigni.Laggigni.Laggigni.Laggidnid
+            Laiggisi.Laiggisi.Laiggisi.Laiggisinid
+            Moggagni.Moggagni.Moggagni.Moggagnid
+            Sogagni.Sogagni.Sogagni.Sogagnid
+            Tadegni.Tadegni.Tadegni.Tadegnid
+            Uaitani.Uaitani.Uaitani.Uatinid
+            Ultacci.Ultacca.Ultacci.Ultaccian
+        }
+        }
+        taftaniculture = {
+            male_names = {
+                Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
+                 Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
+                Philotheos Polyperchon Psherenamun Psherenptah Psammuthes Ptolemy Theocritus Therapon Timoleon Xanthos Xenon Zeteres Zosimus Ahmes
+                Ahmose Alarus Amasus Ameny Bakenrenef Cleomenes Euclid Harsiotef Henut Ibi Khabash Lagus Nectanebo Kheperkare Neferkare Nehi Osorkon Pami
+                Petubastis Teos
+            }
+            female_names = {
+                Agape Agathoclea Amanishabheto Antigone Apame Apollonia Aristomache Artemisia Aspacia Athenais Berenice Charis Cleopatra Cynna
+                Demetria Elpis Eirene Eudocia Eunice Euphemia Eurydice Euthalia Hypatia Nysa Oenanthe Olympia Phila Phile Sostrate Stratonice Thais
+                Theophila Thetima Thessaloniki Thorakis Timo Arsinoe Lysandra Kiya Qelhata
+            }
+            family = {
+                
+                Ahmid.Ahmid.Ahmid.Ahmid
+                Galestus.Galestid.Galestid.Galestid
+                Kenamus.Kenamid.Kenamid.Kenamid
+                Naravid.Naravid.Naravid.Naravid
+                Penamus.Penamid.Penamid.Penamid
+                Senuid.Senuid.Senuid.Senuid
+                Setnid.Setnid.Setnid.Setnid
+                Arganid.Arganid.Arganid.Arganid
+                Psammid.Psammid.Psammid.Psammid
+                Philothid.Philothid.Philothid.Philothid
+                Timolid.Timolid.Timolid.Timolid
+                Zosid.Zosid.Zosid.Zosid
+                Phileid.Phileid.Phileid.Phileid
+                Nicodemid.Nicodemid.Nicodemid.Nicodemid
+                Nefarid.Nefarid.Nefarid.Nefarid
+                Bastid.Bastid.Bastid.Bastid
+                Xeneid.Xeneid.Xeneid.Xeneid
+                Naravid.Naravid.Naravid.Naravid
+                Ezanid.Ezanid.Ezanid.Ezanid
+                Ahmid.Ahmid.Ahmid.Ahmid
+                Alarus.Alara.Alarid.Alarid
+                Harsiotes.Harsiotes.Harsiotid.Harsiotid
+                Henus.Hena.Henid.Henid
+                Ibus.Iba.Ibid.Ibid
+                Khabbash.Khabbash.Khabbashid.Khabbashid	
+                Amasus.Amasa.Amasid.Amasid
+                Nectanebo.Nectanebo.Nectanebid.Nectanebid
+                Petubast.Petubast.Petubastes.Petubastid
+                Djedhid.Djedhid.Djedhid.Djedhid
+                Tachys.Tachya.Tachyes.Tachyid
+                Mago.Mago.Mago.Magid
+            }
+        }
+        nephandiculture = {
+            male_names = {
+                Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
+                 Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
+                Philotheos Polyperchon Psherenamun Psherenptah Psammuthes Ptolemy Theocritus Therapon Timoleon Xanthos Xenon Zeteres Zosimus Ahmes
+                Ahmose Alarus Amasus Ameny Bakenrenef Cleomenes Euclid Harsiotef Henut Ibi Khabash Lagus Nectanebo Kheperkare Neferkare Nehi Osorkon Pami
+                Petubastis Teos
+            }
+            female_names = {
+                Agape Agathoclea Amanishabheto Antigone Apame Apollonia Aristomache Artemisia Aspacia Athenais Berenice Charis Cleopatra Cynna
+                Demetria Elpis Eirene Eudocia Eunice Euphemia Eurydice Euthalia Hypatia Nysa Oenanthe Olympia Phila Phile Sostrate Stratonice Thais
+                Theophila Thetima Thessaloniki Thorakis Timo Arsinoe Lysandra Kiya Qelhata
+            }
+            family = {
+                
+                Ahmid.Ahmid.Ahmid.Ahmid
+                Galestus.Galestid.Galestid.Galestid
+                Kenamus.Kenamid.Kenamid.Kenamid
+                Naravid.Naravid.Naravid.Naravid
+                Penamus.Penamid.Penamid.Penamid
+                Senuid.Senuid.Senuid.Senuid
+                Setnid.Setnid.Setnid.Setnid
+                Arganid.Arganid.Arganid.Arganid
+                Psammid.Psammid.Psammid.Psammid
+                Philothid.Philothid.Philothid.Philothid
+                Timolid.Timolid.Timolid.Timolid
+                Zosid.Zosid.Zosid.Zosid
+                Phileid.Phileid.Phileid.Phileid
+                Nicodemid.Nicodemid.Nicodemid.Nicodemid
+                Nefarid.Nefarid.Nefarid.Nefarid
+                Bastid.Bastid.Bastid.Bastid
+                Xeneid.Xeneid.Xeneid.Xeneid
+                Naravid.Naravid.Naravid.Naravid
+                Ezanid.Ezanid.Ezanid.Ezanid
+                Ahmid.Ahmid.Ahmid.Ahmid
+                Alarus.Alara.Alarid.Alarid
+                Harsiotes.Harsiotes.Harsiotid.Harsiotid
+                Henus.Hena.Henid.Henid
+                Ibus.Iba.Ibid.Ibid
+                Khabbash.Khabbash.Khabbashid.Khabbashid	
+                Amasus.Amasa.Amasid.Amasid
+                Nectanebo.Nectanebo.Nectanebid.Nectanebid
+                Petubast.Petubast.Petubastes.Petubastid
+                Djedhid.Djedhid.Djedhid.Djedhid
+                Tachys.Tachya.Tachyes.Tachyid
+                Mago.Mago.Mago.Magid
+            }
+        }
+        sisterofhippolytaculture = {
+            male_names = {
+				Abreas Achaios Acnonios Aeacides Aenias Aeropos Agaios Agatharchides
+				Agathokles Agathon Agelaos Agenor Agesipolis Agis Aischines Akrotatos
+				Alexandros Alketas Alkimachos Alkimos Amantas Amphoteros Amyntas Anaxarchos
+				Anaxikrates Anaxippos Andragoras Andromachos Andromenes Andronikos
+				Androsthenes Antenor Antialkidas Antigonos Antikles Antimachos Antiochos
+				Antipatros Antiphates Antiphilos Antisthenes Aphrodisios Apollodoros
+				Apollodotos Apollonios Apollophanes Aratos Archebios Archelaos Archias
+				Archidamos Archimedes Archippos Aretas Areus Aristarchos Aristobulos
+				Aristodemos Aristogeiton Aristomachos Ariston Aristonikos Aristophanes
+				Aristophon Aristoteles Arrhabaios Arrhidaios Arseas Artemidoros Artemidotos
+				Asandros Asklepiades Athanadoros Athenodoros Attalos Bakchides Balakros Bikon
+				Bryaxis Chabrias Chairestratos Chairondas Chares Charidemos Charikles Charinos
+				Chremes Chremonides Chrysippos Damokrates Damophon Damoteles Deinippos Demades
+				Demetrios Demodamas Demogenes Demokleides Demokritos Demophanes Demosthenes 
+				Derdas Deriades Didas Dikaiarchos Dikaios Dimnos Diodoros Diodotos Diogenes 
+				Diomedes Dion Dionysios Dropidas Echekrates Eisigonos Ekdemos Empedokles 
+				Epameinondas Epandros Epikuros Epikydes Epimenes Epokillos Erasistratos 
+				Eratosthenes Erigyios Euainetos Euandros Eubulos Eudamidas Eudoxos Euhemeros
+				Eukleides Eukrates Eukratides Euktemon Eumenes Euripides Eurylochos Euthydemos
+				Euthykrates Euthykritos Eutychides Euxenippos Gelon Glaukias Gorgias Gorgos 
+				Gylippos Hagesandros Halkyoneus Harpalos Hegemachos Hegesias Hekataios Hektor 
+				Helenos Heliodoros Heliokles Hephaistion Herakleides Herakon Hermaios 
+				Hermarchos Hermesianax Hermias Hermolaos Heromenes Herophilos Hierax Hieron 
+				Hieronymos Hiketas Hippalos Hippokrates Hippostratos Hyakinthos Hyperbatas 
+				Hypereides Ikadion Iollas Iphikrates Ismenias Isokrates Kalas Kallines 
+				Kallisthenes Kallistratos Kallixeinos Karneades Karsis Kassandros Kebalinos
+				Kephalon Kephisodoros Kephisodotos Kephisophon Kineas Kleandros Kleanthes 
+				Klearchos Kleitos Kleombrotos Kleomenes Kleonymos Koinos Koroibos Krateros 
+				Krates Krateuas Krenides Ktesikles Lachares Laomedon Leonidas Leonnatos 
+				Leontios Leosthenes Leostratos Leukon Lydiadas Lykurgos Lysandridas Lysandros 
+				Lysias Lysimachos Lysippos Lysistratos Machanidas Machatas Makartatos Marsyas 
+				Megaleas Megasthenes Memnon Menandros Menedemos Menelaos Menes Menidas Menon 
+				Menos Metrodoros Metron Milon Mnaseas Mnesidemos Molon Nabis Neaichmos 
+				Nearchos Neoptolemos Nikagoras Nikandros Nikanor Nikarchos Nikephoros 
+				Nikeratos Niketes Nikias Nikodoros Nikokles Nikokrates Nikokreon Nikomachos 
+				Nikostratos Numenios Olympiodoros Onomarchos Onomastos Ophellas Orestes 
+				Paionios Pantaleon Pantauchos Pantordanos Parmenion Patrokles Pausanias 
+				Peithagoras Peithon Pelopidas Pelops Perdikkas Peroidas Perseus Peukestas 
+				Peukolaos Pherekles Philemon Philetairos Philetas Philinos Philippos Philokles
+				Philon Philonides Philopoimenos Philotas Philoxenos Phrynichos Phyromachos 
+				Platon Pleistarchos Polemon Polybios Polydamas Polydoros Polyeuktos Polygnotos
+				Polyperchon Poseidippos Poseidonios Praxibulos Praxiteles Proteas Ptolemaios 
+				Pyrrhias Pytheas Pythodelos Seleukos Simmias Simonides Sopolis Sosistratos 
+				Sosthenes Sostratos Sotas Spalyris Stasanor Stilpon Straton Stratonikos 
+				Taurion Tauriskos Teisikrates Thearidas Themistios Theodamas Theodoros 
+				Theodotos Theokritos Theophilos Theophrastos Thoas Thoinias Thoinon Thrasykles
+				Timaios Timarchos Timoleon Timotheos Tryphon Xanthippos Xenares Xenokrates 
+				Xenophon Zeionises Zenon Zeuxis Zoilos Zopyrion
+			}
+			female_names = {
+				Charis Demetria Diantha Dionysia Agathokleia Agiatis Antiochis Apame Apame
+				Apollonia Ariadne Arsinoe Artemisia Athenais Belistiche Berenike Damarate
+				Daphne Demo Elpis Eirene Euphemia Euthalia Hypatia Kandake Kassandra Megaira
+				Melaina Narkissa Nysa Olympia Phila Phile Eurydike Histieia Isidora Kalliope
+				Kallista Kellanthis Kleio Kleopatra Kratesikleia Lanassa Laodike Laodike
+				Libys Lysandra Lysis Mestris Monime Nephoris Oinanthe Pamphile Phila Philotera
+				Phthia Ptolema Sofia Sostrate Thais Theophila Thetima Timo Xanthe Xene Xenia
+				Ptolemais Selene Sophe Stratonike Stratonike Theoxene Thoeris Tryphaina Zosime
+				 
+				Ada Aegyptia Anthis Antigona Aphrodisia Archestrate Archilla Archippe Aristagora 
+				Ariste Aristion Aristo Aristoboule Aristodike Aristokleia Aristokrateia Aristomache 
+				Aristonike Aristylla Artemis Aspasia Biote Boidion Chairestrate Chairippe Choirine 
+				Chrysilla Chrysis Demokrateia Demostrate Diokleia Doris Dorkas Eukleia Eukoline Euphrosyne 
+				Euporia Eutychis Glykera Hedeia Hediste Hedyle Hedyline Herais Hiero Hierokleia Hippostrate 
+				Homolois Kallimache Kallippe Kallis Kallistion Kallisto Kallistomache Kallistrate Kleagora 
+				Kleariste Kleino Kleito Kleo Kleopatra Kleostrate Krateia Laodike Leaina Leontis Lysimache 
+				Lysistrate Malthake Mania Melissa Melitta Menestrate Meniske Metrodora Mika Mnesarete Mnesistrate 
+				Murrhine Nausistrate Nikagora Nikaia Nikareta Nikarete Nikeso Niko Nikomache Nikostrate Olympias
+				Pamphile Parthenis Patrokleia Phanagora Phano Phanostrate Philainis Phileia Philias Philinna Philippa 
+				Philista Phillo Philokleia Philostrate Philotera Philotis Philoumene Philoxena Plangon Plathane Pythias 
+				Rhode Satyra Sima Simale Simon Sostrate Syra Theano Theodora Theodote Thraitta Timagora Timarete Timokleia 
+				Timostrate Xeno Xenokrateia Zopyra Zopyris
+			}
+		
+			nickname = {
+				NICKNAME_EPIPHANES
+				NICKNAME_EUERGETES
+				NICKNAME_EUPATOR
+				NICKNAME_EUSEBES
+				NICKNAME_KALLINIKOS
+				NICKNAME_NEOS_DIONYSOS
+				NICKNAME_NIKATOR
+				NICKNAME_PHILADELPHOS
+				NICKNAME_PHILOMETOR
+				NICKNAME_PHILOPATOR
+				NICKNAME_SOTER
+				NICKNAME_THEOS
+				NICKNAME_POLIORCETES
+				NICKNAME_DOSON
+				NICKNAME_GONATAS
+				NICKNAME_KALOS
+			}
+			
+			family = {
+				Galestus.Galestid.Galestid.Galestid
+				Kenamus.Kenamid.Kenamid.Kenamid
+				Naravid.Naravid.Naravid.Naravid
+				Penamus.Penamid.Penamid.Penamid
+				Senuid.Senuid.Senuid.Senuid
+				Setnid.Setnid.Setnid.Setnid
+				Arganid.Arganid.Arganid.Arganid
+				Psammid.Psammid.Psammid.Psammid
+				Philothid.Philothid.Philothid.Philothid
+				Timolid.Timolid.Timolid.Timolid
+				Zosid.Zosid.Zosid.Zosid
+				Phileid.Phileid.Phileid.Phileid
+				Nicodemid.Nicodemid.Nicodemid.Nicodemid
+				Nefarid.Nefarid.Nefarid.Nefarid
+				Bastid.Bastid.Bastid.Bastid
+				Xeneid.Xeneid.Xeneid.Xeneid
+				Naravid.Naravid.Naravid.Naravid
+				Ezanid.Ezanid.Ezanid.Ezanid
+				Ahmid.Ahmid.Ahmid.Ahmid
+				Alarus.Alara.Alarid.Alarid
+				Harsiotes.Harsiotes.Harsiotid.Harsiotid
+				Henus.Hena.Henid.Henid
+				Ibus.Iba.Ibid.Ibid
+				Khabbash.Khabbash.Khabbashid.Khabbashid	
+				Amasus.Amasa.Amasid.Amasid
+				Nectanebo.Nectanebo.Nectanebid.Nectanebid
+				Petubast.Petubast.Petubastes.Petubastid
+				Djedhid.Djedhid.Djedhid.Djedhid
+				Tachys.Tachya.Tachyes.Tachyid			}	
+        }
+        hemkasobkculture = {
+            male_names = {
+                Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
+                 Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
+                Philotheos Polyperchon Psherenamun Psherenptah Psammuthes Ptolemy Theocritus Therapon Timoleon Xanthos Xenon Zeteres Zosimus Ahmes
+                Ahmose Alarus Amasus Ameny Bakenrenef Cleomenes Euclid Harsiotef Henut Ibi Khabash Lagus Nectanebo Kheperkare Neferkare Nehi Osorkon Pami
+                Petubastis Teos
+            }
+            female_names = {
+                Agape Agathoclea Amanishabheto Antigone Apame Apollonia Aristomache Artemisia Aspacia Athenais Berenice Charis Cleopatra Cynna
+                Demetria Elpis Eirene Eudocia Eunice Euphemia Eurydice Euthalia Hypatia Nysa Oenanthe Olympia Phila Phile Sostrate Stratonice Thais
+                Theophila Thetima Thessaloniki Thorakis Timo Arsinoe Lysandra Kiya Qelhata
+            }
+            family = {     
+                Ahmid.Ahmid.Ahmid.Ahmid
+                Galestus.Galestid.Galestid.Galestid
+                Kenamus.Kenamid.Kenamid.Kenamid
+                Naravid.Naravid.Naravid.Naravid
+                Penamus.Penamid.Penamid.Penamid
+                Senuid.Senuid.Senuid.Senuid
+                Setnid.Setnid.Setnid.Setnid
+                Arganid.Arganid.Arganid.Arganid
+                Psammid.Psammid.Psammid.Psammid
+                Philothid.Philothid.Philothid.Philothid
+                Timolid.Timolid.Timolid.Timolid
+                Zosid.Zosid.Zosid.Zosid
+                Phileid.Phileid.Phileid.Phileid
+                Nicodemid.Nicodemid.Nicodemid.Nicodemid
+                Nefarid.Nefarid.Nefarid.Nefarid
+                Bastid.Bastid.Bastid.Bastid
+                Xeneid.Xeneid.Xeneid.Xeneid
+                Naravid.Naravid.Naravid.Naravid
+                Ezanid.Ezanid.Ezanid.Ezanid
+                Ahmid.Ahmid.Ahmid.Ahmid
+                Alarus.Alara.Alarid.Alarid
+                Harsiotes.Harsiotes.Harsiotid.Harsiotid
+                Henus.Hena.Henid.Henid
+                Ibus.Iba.Ibid.Ibid
+                Khabbash.Khabbash.Khabbashid.Khabbashid	
+                Amasus.Amasa.Amasid.Amasid
+                Nectanebo.Nectanebo.Nectanebid.Nectanebid
+                Petubast.Petubast.Petubastes.Petubastid
+                Djedhid.Djedhid.Djedhid.Djedhid
+                Tachys.Tachya.Tachyes.Tachyid
+        }
+    }
+        euthanatosculture = {
+            male_names = {
+				Abreas Achaios Acnonios Aeacides Aenias Aeropos Agaios Agatharchides
+				Agathokles Agathon Agelaos Agenor Agesipolis Agis Aischines Akrotatos
+				Alexandros Alketas Alkimachos Alkimos Amantas Amphoteros Amyntas Anaxarchos
+				Anaxikrates Anaxippos Andragoras Andromachos Andromenes Andronikos
+				Androsthenes Antenor Antialkidas Antigonos Antikles Antimachos Antiochos
+				Antipatros Antiphates Antiphilos Antisthenes Aphrodisios Apollodoros
+				Apollodotos Apollonios Apollophanes Aratos Archebios Archelaos Archias
+				Archidamos Archimedes Archippos Aretas Areus Aristarchos Aristobulos
+				Aristodemos Aristogeiton Aristomachos Ariston Aristonikos Aristophanes
+				Aristophon Aristoteles Arrhabaios Arrhidaios Arseas Artemidoros Artemidotos
+				Asandros Asklepiades Athanadoros Athenodoros Attalos Bakchides Balakros Bikon
+				Bryaxis Chabrias Chairestratos Chairondas Chares Charidemos Charikles Charinos
+				Chremes Chremonides Chrysippos Damokrates Damophon Damoteles Deinippos Demades
+				Demetrios Demodamas Demogenes Demokleides Demokritos Demophanes Demosthenes 
+				Derdas Deriades Didas Dikaiarchos Dikaios Dimnos Diodoros Diodotos Diogenes 
+				Diomedes Dion Dionysios Dropidas Echekrates Eisigonos Ekdemos Empedokles 
+				Epameinondas Epandros Epikuros Epikydes Epimenes Epokillos Erasistratos 
+				Eratosthenes Erigyios Euainetos Euandros Eubulos Eudamidas Eudoxos Euhemeros
+				Eukleides Eukrates Eukratides Euktemon Eumenes Euripides Eurylochos Euthydemos
+				Euthykrates Euthykritos Eutychides Euxenippos Gelon Glaukias Gorgias Gorgos 
+				Gylippos Hagesandros Halkyoneus Harpalos Hegemachos Hegesias Hekataios Hektor 
+				Helenos Heliodoros Heliokles Hephaistion Herakleides Herakon Hermaios 
+				Hermarchos Hermesianax Hermias Hermolaos Heromenes Herophilos Hierax Hieron 
+				Hieronymos Hiketas Hippalos Hippokrates Hippostratos Hyakinthos Hyperbatas 
+				Hypereides Ikadion Iollas Iphikrates Ismenias Isokrates Kalas Kallines 
+				Kallisthenes Kallistratos Kallixeinos Karneades Karsis Kassandros Kebalinos
+				Kephalon Kephisodoros Kephisodotos Kephisophon Kineas Kleandros Kleanthes 
+				Klearchos Kleitos Kleombrotos Kleomenes Kleonymos Koinos Koroibos Krateros 
+				Krates Krateuas Krenides Ktesikles Lachares Laomedon Leonidas Leonnatos 
+				Leontios Leosthenes Leostratos Leukon Lydiadas Lykurgos Lysandridas Lysandros 
+				Lysias Lysimachos Lysippos Lysistratos Machanidas Machatas Makartatos Marsyas 
+				Megaleas Megasthenes Memnon Menandros Menedemos Menelaos Menes Menidas Menon 
+				Menos Metrodoros Metron Milon Mnaseas Mnesidemos Molon Nabis Neaichmos 
+				Nearchos Neoptolemos Nikagoras Nikandros Nikanor Nikarchos Nikephoros 
+				Nikeratos Niketes Nikias Nikodoros Nikokles Nikokrates Nikokreon Nikomachos 
+				Nikostratos Numenios Olympiodoros Onomarchos Onomastos Ophellas Orestes 
+				Paionios Pantaleon Pantauchos Pantordanos Parmenion Patrokles Pausanias 
+				Peithagoras Peithon Pelopidas Pelops Perdikkas Peroidas Perseus Peukestas 
+				Peukolaos Pherekles Philemon Philetairos Philetas Philinos Philippos Philokles
+				Philon Philonides Philopoimenos Philotas Philoxenos Phrynichos Phyromachos 
+				Platon Pleistarchos Polemon Polybios Polydamas Polydoros Polyeuktos Polygnotos
+				Polyperchon Poseidippos Poseidonios Praxibulos Praxiteles Proteas Ptolemaios 
+				Pyrrhias Pytheas Pythodelos Seleukos Simmias Simonides Sopolis Sosistratos 
+				Sosthenes Sostratos Sotas Spalyris Stasanor Stilpon Straton Stratonikos 
+				Taurion Tauriskos Teisikrates Thearidas Themistios Theodamas Theodoros 
+				Theodotos Theokritos Theophilos Theophrastos Thoas Thoinias Thoinon Thrasykles
+				Timaios Timarchos Timoleon Timotheos Tryphon Xanthippos Xenares Xenokrates 
+				Xenophon Zeionises Zenon Zeuxis Zoilos Zopyrion
+			}
+			female_names = {
+				Charis Demetria Diantha Dionysia Agathokleia Agiatis Antiochis Apame Apame
+				Apollonia Ariadne Arsinoe Artemisia Athenais Belistiche Berenike Damarate
+				Daphne Demo Elpis Eirene Euphemia Euthalia Hypatia Kandake Kassandra Megaira
+				Melaina Narkissa Nysa Olympia Phila Phile Eurydike Histieia Isidora Kalliope
+				Kallista Kellanthis Kleio Kleopatra Kratesikleia Lanassa Laodike Laodike
+				Libys Lysandra Lysis Mestris Monime Nephoris Oinanthe Pamphile Phila Philotera
+				Phthia Ptolema Sofia Sostrate Thais Theophila Thetima Timo Xanthe Xene Xenia
+				Ptolemais Selene Sophe Stratonike Stratonike Theoxene Thoeris Tryphaina Zosime
+				 
+				Ada Aegyptia Anthis Antigona Aphrodisia Archestrate Archilla Archippe Aristagora 
+				Ariste Aristion Aristo Aristoboule Aristodike Aristokleia Aristokrateia Aristomache 
+				Aristonike Aristylla Artemis Aspasia Biote Boidion Chairestrate Chairippe Choirine 
+				Chrysilla Chrysis Demokrateia Demostrate Diokleia Doris Dorkas Eukleia Eukoline Euphrosyne 
+				Euporia Eutychis Glykera Hedeia Hediste Hedyle Hedyline Herais Hiero Hierokleia Hippostrate 
+				Homolois Kallimache Kallippe Kallis Kallistion Kallisto Kallistomache Kallistrate Kleagora 
+				Kleariste Kleino Kleito Kleo Kleopatra Kleostrate Krateia Laodike Leaina Leontis Lysimache 
+				Lysistrate Malthake Mania Melissa Melitta Menestrate Meniske Metrodora Mika Mnesarete Mnesistrate 
+				Murrhine Nausistrate Nikagora Nikaia Nikareta Nikarete Nikeso Niko Nikomache Nikostrate Olympias
+				Pamphile Parthenis Patrokleia Phanagora Phano Phanostrate Philainis Phileia Philias Philinna Philippa 
+				Philista Phillo Philokleia Philostrate Philotera Philotis Philoumene Philoxena Plangon Plathane Pythias 
+				Rhode Satyra Sima Simale Simon Sostrate Syra Theano Theodora Theodote Thraitta Timagora Timarete Timokleia 
+				Timostrate Xeno Xenokrateia Zopyra Zopyris
+			}
+		
+			nickname = {
+				NICKNAME_EPIPHANES
+				NICKNAME_EUERGETES
+				NICKNAME_EUPATOR
+				NICKNAME_EUSEBES
+				NICKNAME_KALLINIKOS
+				NICKNAME_NEOS_DIONYSOS
+				NICKNAME_NIKATOR
+				NICKNAME_PHILADELPHOS
+				NICKNAME_PHILOMETOR
+				NICKNAME_PHILOPATOR
+				NICKNAME_SOTER
+				NICKNAME_THEOS
+				NICKNAME_POLIORCETES
+				NICKNAME_DOSON
+				NICKNAME_GONATAS
+				NICKNAME_KALOS
+			}
+			
+			family = {
+				Galestus.Galestid.Galestid.Galestid
+				Kenamus.Kenamid.Kenamid.Kenamid
+				Naravid.Naravid.Naravid.Naravid
+				Penamus.Penamid.Penamid.Penamid
+				Senuid.Senuid.Senuid.Senuid
+				Setnid.Setnid.Setnid.Setnid
+				Arganid.Arganid.Arganid.Arganid
+				Psammid.Psammid.Psammid.Psammid
+				Philothid.Philothid.Philothid.Philothid
+				Timolid.Timolid.Timolid.Timolid
+				Zosid.Zosid.Zosid.Zosid
+				Phileid.Phileid.Phileid.Phileid
+				Nicodemid.Nicodemid.Nicodemid.Nicodemid
+				Nefarid.Nefarid.Nefarid.Nefarid
+				Bastid.Bastid.Bastid.Bastid
+				Xeneid.Xeneid.Xeneid.Xeneid
+				Naravid.Naravid.Naravid.Naravid
+				Ezanid.Ezanid.Ezanid.Ezanid
+				Ahmid.Ahmid.Ahmid.Ahmid
+				Alarus.Alara.Alarid.Alarid
+				Harsiotes.Harsiotes.Harsiotid.Harsiotid
+				Henus.Hena.Henid.Henid
+				Ibus.Iba.Ibid.Ibid
+				Khabbash.Khabbash.Khabbashid.Khabbashid	
+				Amasus.Amasa.Amasid.Amasid
+				Nectanebo.Nectanebo.Nectanebid.Nectanebid
+				Petubast.Petubast.Petubastes.Petubastid
+				Djedhid.Djedhid.Djedhid.Djedhid
+				Tachys.Tachya.Tachyes.Tachyid			}	
+        }
+    }  
+    barbarian_names = { 
+		# Paeonian Tribes
+		AESTRAEI AGRIANES DERRONES DOBERES LAIAIOUS MYGDONES ODOMANTI PAIOPLAI SIRIOPAIONES TRIBALLI 
+
+		# Illyrian Tribes
+		BARIDUSTAE TARIOTES SELEPITANOI PARTHINI BREUCI PIRUSTAE SARDEATI BYLLIONES BALAITES PARTHENI PEUCETI CINAMBRI DASSARETI PENESTI DEUNI NARENSI CHELIDONI BATHIATAE
+
+		# Thracian Tribes
+		MAEDI PAETI SATRI DERSAEI KORPILOI KORELI NIPSAIOI SAPAIOI SINTEIS MELANOPHAGI MELANDITAE CEBRENII
+
+		# Other
+		PELASGOI
+	}
+	
+	graphical_culture = greek_gfx
+	ethnicities = {
+		10 = greek
+	}   
+}

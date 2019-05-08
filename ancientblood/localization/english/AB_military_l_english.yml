@@ -1,0 +1,10 @@
+﻿l_english:
+ ARMY_NAME_vampireculture:0 "$NUM$$ORDER$ Thrall Army"
+ COHORT_NAME_vampireculture:0 "$HOME$'s $NUM$$ORDER$ Pawns"
+ ARMY_NAME_mageculture:0 "$NUM$$ORDER$ Reality Shapers"
+ COHORT_NAME_mageculture:0 "$HOME$'s $NUM$$ORDER$ Shapers"
+ ARMY_NAME_demonculture:0 "$NUM$$ORDER$ Infernal Host"
+ COHORT_NAME_demonculture:0 "$HOME$'s $NUM$$ORDER$ Cultists"
+ ARMY_NAME_werewolfculture:0 "$NUM$$ORDER$ Tribal Host"
+ COHORT_NAME_werewolfculture:0 "$HOME$'s $NUM$$ORDER$ Kinfolks" 
+

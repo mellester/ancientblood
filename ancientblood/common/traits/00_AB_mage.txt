@@ -1,24 +1,393 @@
 ﻿mage = {
 	type = health
 	congenital = no
-	martial = 2
-	health = 5
-	
-	opposites = {
-		vampire
-		werewolf
-		#truefae
-		#demon
-		#changeling
-		}
+	finesse = 1
 }
 
-aeduna = {
+apprentice = {
+	type = status
+	finesse = 1
+	opposites = {
+		adept
+		master
+		archmage		
+	}
+}
+
+adept = {
+	type = status
+	finesse = 5
+	opposites = {
+		apprentice
+		master
+		archmage
+		
+	}
+}
+
+master = {
+	type = status
+	finesse = 5
+    martial = 5
+    charisma = 5
+    prominence = 10
+    max_rivals = 1
+	max_friends = -1
+	opposites = {
+		apprentice
+		adept
+		archmage
+		
+	}
+}
+
+archmage = {
+	type = status
+    finesse = 10
+    martial = 10
+    charisma = 10
+    prominence = 50
+    max_rivals = 3
+	max_friends = -3
+	opposites = {
+		apprentice
+		adept
+		master
+		
+	}
+}
+
+
+euthanatos = {
+	type = status
+	finesse = 1
+	country = {
+		assassinate_attempt_cost_modifier = -0.2
+	}
+	opposites = {
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}	
+}
+
+nephandi = {
+	type = status
+	zeal = 1
+	unit = {
+		land_morale_modifier = 0.05
+	}	
+	opposites = {
+		euthanatos
+		
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+hemkasobk = {
+	type = status
+	zeal = 1
+	unit = {
+		land_morale_modifier = 0.05
+	}	
+	opposites = {
+		euthanatos
+		
+		nephandi
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+sisterofhippolyta = {
+	type = status
+	finesse = 1
+	unit = {
+		horse_archers_discipline = 0.05
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+taftani = {
 	type = status
 	martial = 1
-	
-	opposites =  {
+	unit = {
+		assault_ability = 0.1
+	}	
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
 
+verbena = {
+	type = status
+	zeal = 1
+	country = {
+		call_omen_cost_modifier = -0.1
 	}
-	
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+daedelan = {
+	type = status
+	charisma = 1
+	country = {
+		technology_investment = 0.05
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+sahajiya = {
+	type = status
+	charisma = 1
+	country = {
+		monthly_governor_loyalty = 0.05
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+ahlibatin = {
+	type = status
+	finesse = 1
+	country = {
+		monthly_tyranny = -0.05
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+akashayana = {
+	type = status
+	martial = 1
+	unit = {
+		discipline = 0.05
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		chakravanti
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+chakravanti = {
+	type = status
+	martial = 1
+	assassinate_attempt_cost_modifier = -0.2
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		celestialsinger
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+celestialsinger = {
+	type = status
+	zeal = 1
+	country = {
+		call_omen_cost_modifier = -0.1
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		dreamspeaker
+		cultofmercury
+	}		
+}
+
+dreamspeaker = {
+	type = status
+	zeal = 1
+	country = {
+		call_omen_cost_modifier = -0.1
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		cultofmercury
+	}		
+}
+
+cultofmercury = {
+	type = status
+	finesse = 1
+	country = {
+		tribute_income_modifier = 0.2
+	}
+	opposites = {
+		euthanatos
+		
+		nephandi
+		hemkasobk
+		sisterofhippolyta
+		taftani
+		verbena
+		daedelan
+		sahajiya
+		ahlibatin
+		akashayana
+		chakravanti
+		celestialsinger
+		dreamspeaker
+	}		
 }

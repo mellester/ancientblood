@@ -1,18 +1,31 @@
-﻿vampire_sect = {
+﻿vampirereligion = {
 	color = hsv { 0.64  0.71  0.81 }
 }
-mummy_pantheon = {
+
+masqueradereligion = {
+	color = hsv { 0.74  0.71  0.91 }
+}
+
+setitereligion = {
+	color = hsv { 0.55  0.62  0.2 }
+}
+
+wyrmreligion = {
 	color = hsv { 0.16  1  0.71 }
 }
 
-gaian_religion = {
+gaiareligion = {
 	color = hsv { 0.01 0.51 1.01 }
 }
 
-aeduna_tradition = {
+magickreligion = {
 	color = hsv { 0.31 0.71 0.41 }
 }
 
-valderman_tradition = {
+rationalityreligion = {
 	color = hsv { 0.06 0.71 0.31 }
+}
+
+infernalreligion = {
+	color = hsv { 0.66 0.01 0.51 }
 }
