@@ -156,6 +156,456 @@ special_genes = {
                     }
                 }
 			}
+                        old_2 = {
+                index = 1
+                #set_tags = "test1,test3"
+                male = {
+                    setting = {required_tags = "not(unaging)" attribute = "bs_old2"    value = { min = 0.0 max = 1.0 }   
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        } 
+                    } 
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    } 
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 0 2 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    }          
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.35   { 0.0 0.0 0.0 } }
+                        { 0.6   { 0.0 -0.5 0.3 } }
+                    }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } }
+                    }                    
+                }
+                female = {
+                    setting = { attribute = "bs_old2"    value = { min = 0.0 max = 1.0 } 
+                    required_tags = "not(unaging)"
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        }   
+                    } 
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    } 
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 3 1 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    } 
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.35  { 0.0 0.0 0.0 } }
+                        { 0.6   { 0.0 -0.5 0.3 } }
+                    }
+                    # eye_hsv_shift_curve = {
+                    #   #age    {hsv change}    
+                    #   { 0.6   { 0.0 0.0 0.0 } }
+                    #   { 1.0   { 0.0 0.0 0.0 } } 
+                    # }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } }
+                    }
+                }
+                boy = {
+				    setting = {                 
+						attribute = "bs_youth"    value = { min = 1.0 max = 1.0 }  
+						
+					}
+                    setting = { 
+                        attribute = "bs_child"    value = { min = 1.0 max = 0.0 } 
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 1 }
+                            { 0.05 1 }
+                            { 0.17 0.0 }
+                        }
+                    }
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+                girl = {
+                    setting = { 
+                        attribute = "bs_child"    value = { min = 1.0 max = 0.0 } 
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 0.7 }
+                            { 0.05 0.7 }
+                            { 0.17 0.0 }
+                        } 
+                    }
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }                        
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 -1 }
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+            }
+
+            old_3 = {
+                index = 2
+                #set_tags = "test1,test3"
+                male = {
+                    setting = { attribute = "bs_old3"    value = { min = 0.0 max = 1.0 }    
+                    required_tags = "not(unaging)"
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        }
+                    }
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    }  
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 0 3 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    }          
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.35   { 0.0 0.0 0.0 } }
+                        { 0.6   { 0.0 -0.5 0.3 } }
+                    }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } }
+                    }                    
+                }
+                female = {
+                    setting = { attribute = "bs_old3"    value = { min = 0.0 max = 1.0 }   
+                    required_tags = "not(unaging)" 
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        }
+                    } 
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    } 
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 3 0 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    } 
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.35  { 0.0 0.0 0.0 } }
+                        { 0.6   { 0.0 -0.5 0.3 } }
+                    }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } }
+                    }
+
+                }
+                boy = {
+				    setting = {                 
+						attribute = "bs_youth"    value = { min = 1.0 max = 1.0 }  
+						
+					}
+                    setting = { attribute = "bs_child"    value = { min = 1.0 max = 0.0 }   
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 1 }
+                            { 0.05 1 }
+                            { 0.17 0.0 }
+                        } 
+                    } 
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+                girl = {
+                    setting = { 
+                        attribute = "bs_child"    value = { min = 1.0 max = 0.0 } 
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 0.5 }
+                            { 0.05 0.5 }
+                            { 0.17 0.0 }
+                        } 
+                    }
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }                        
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 -1 }
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+            }
+            old_4 = {
+                index = 3
+                #set_tags = "test1,test3"
+                male = {
+                    setting = { attribute = "bs_old4"    value = { min = 0.0 max = 1.0 }    
+                        required_tags = "not(unaging)"
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        }
+                    } 
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    } 
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 1 0 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    }        
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.35   { 0.0 0.0 0.0 } }
+                        { 0.6	{ 0.0 -0.5 0.3 } } # modded to old_1
+                    }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } } 
+                    }
+                }
+                female = {
+                    setting = { attribute = "bs_old4"    value = { min = 0.0 max = 1.0 }    
+                    required_tags = "not(unaging)"
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        }
+                    } 
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    } 
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 3 1 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    } 
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.35  { 0.0 0.0 0.0 } }
+                        { 0.6	{ 0.0 -0.5 0.3 } } # modded to old_1 there the same
+                    }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } }
+                    }
+                }
+                boy = {
+				    setting = {                 
+						attribute = "bs_youth"    value = { min = 1.0 max = 1.0 }  
+						
+					}
+                    setting = { 
+                        attribute = "bs_child"    value = { min = 1.0 max = 0.0 }    
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 1 }
+                            { 0.05 1 }
+                            { 0.17 0.0 }
+                        }
+                    } 
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+                girl = {
+                    setting = { 
+                        attribute = "bs_child"    value = { min = 1.0 max = 0.0 } 
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 0.6 }
+                            { 0.05 0.6 }
+                            { 0.17 0.0 }
+                        } 
+                    }
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }                        
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 -1 }
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+            }
+
+            old_5 = {
+                index = 4
+                #set_tags = "test1,test3"
+                male = {
+                    setting = { attribute = "bs_old5"    value = { min = 0.0 max = 1.0 }    
+                    required_tags = "not(unaging)"
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        }
+                    } 
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    } 
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 1 1 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    }   
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.45   { 0.0 0.0 0.0 } }
+                        { 0.6	{ 0.0 -0.5 0.3 } } # modded to old_1 there the same
+                    }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } }
+                    }
+                }
+                female = {
+                    setting = { attribute = "bs_old5"    value = { min = 0.0 max = 1.0 }  
+                    required_tags = "not(unaging)"  
+                        animation_curve = {
+                            #character age%, animation value
+                            {0.0 0.0}
+                            { 0.3 0 }
+                            { 0.8 1.0 }
+                        }
+                    } 
+                    # setting = { attribute = "eye_size"    value = { min = -0.5 max = -1.0 }    } 
+                    decal = {   
+                        required_tags = "not(unaging)"
+                        type = skin     
+                        atlas_pos = { 3 1 } 
+                        alpha_curve = {              #controls decal alpha relative to gene strength. Will give a linear interpolation if left unspecified
+                            #character age%, decal alpha
+                            { 0.32  0.0 }
+                            { 0.75   1.0 }
+                        }                            
+                    } 
+                    hair_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.45  { 0.0 0.0 0.0 } }
+                        { 0.6	{ 0.0 -0.5 0.3 } } # modded to old_1 there the same
+                    }
+                    skin_hsv_shift_curve = {
+                        #age    {hsv change}    
+                        { 0.55  { 0.0 0.0 0.0 } }
+                        { 0.8   { 0.0 -0.1 0.02 } }
+                    }
+                }
+                boy = {
+				    setting = {                 
+						attribute = "bs_youth"    value = { min = 1.0 max = 1.0 }  
+						
+					}
+                    setting = { 
+                        attribute = "bs_child"    value = { min = 1.0 max = 0.0 }    
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 1 }
+                            { 0.05 1 }
+                            { 0.17 0.0 }
+                        }
+                    } 
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+                girl = {
+                    setting = { 
+                        attribute = "bs_child"    value = { min = 1.0 max = 0.0 } 
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 0.5 }
+                            { 0.05 0.5 }
+                            { 0.17 0.0 }
+                        } 
+                    }
+                    setting = {
+                        attribute = "child_proportions" value = { min = -1.0 max = 1.0 }                        
+                        animation_curve = {
+                            #character age%, animation value
+                            { 0.0 -1 }
+                            { 0.05 -1 }
+                            { 0.17 1.0 }
+                        }
+                    }
+                }
+            }
 		}
 		gene_tags = {
 			no_hair = { index = 0 set_tags = "no_hair" }
