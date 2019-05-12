@@ -610,28 +610,31 @@ special_genes = {
 		gene_tags = {
 			no_hair = { index = 0 set_tags = "no_hair" }
             # full_hair = { index = 1 set_tags = "full_hair" }
-            unaging ={
+            unaging = {
             index = 1
             set_tags = "unaging"
-            #set_tags = "test1,test3"
+            # the tag unaging wil disable most aging effets but not all 
+            # terhefore we will need to undo the other effets.
+            # a strength of 0.1 wil reverse the effects of aging by 10 years
             male = {
-                    hair_hsv_shift_curve = {
-                        #age	{hsv change}	
-                        { 0.35	{ 0.0 0.0 0.0 } }
-                        { 0.6   { 0.0 0.5 -0.3 } }
-                    }
-                    skin_hsv_shift_curve = {
+                hair_hsv_shift_curve = {
+                    #age	{hsv change}	
+                    { 0.35	{ 0.0 0.0 0.0 } }
+                    { 0.6   { 0.0 0.5 -0.3 } }
+                }
+                skin_hsv_shift_curve = {
                     #age	{hsv change}	
                     { 0.55	{ 0.0 0.0 0.0 } }
                     { 0.8   { 0.0 0.1 -0.02 } }
                 }
-                female = {
-                    hair_hsv_shift_curve = {
-                        #age	{hsv change}	
-                        { 0.35  { 0.0 0.0 0.0 } }
-                        { 0.6   { 0.0 -0.5 0.3 } }
-                    }
-                    skin_hsv_shift_curve = {
+            }
+            female = {
+                hair_hsv_shift_curve = {
+                    #age	{hsv change}	
+                    { 0.35  { 0.0 0.0 0.0 } }
+                    { 0.6   { 0.0 -0.5 0.3 } }
+                }
+                skin_hsv_shift_curve = {
                     #age	{hsv change}	
                     { 0.55	{ 0.0 0.0 0.0 } }
                     { 0.8   { 0.0 0.1 -0.02 } }

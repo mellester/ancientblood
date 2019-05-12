@@ -42,7 +42,8 @@ char_is_immortal_trigger = {
     }
 }
 
-# detrimine if age should affect a char
+# detrimine if age should affect a char`
+# used in potrait modifers
 char_is_unaging_trigger = {
 	OR = { 
         char_is_vampire_trigger = yes

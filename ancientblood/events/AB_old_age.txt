@@ -1,0 +1,21 @@
+﻿namespace = old_age
+# events reltaing to old_age of people
+
+old_age.1 = { #test to add a modifier
+    type = character_event
+    title = "old_age"
+    desc = "old_age"
+    right_portrait = scope:target
+    trigger =  {
+        char_is_unaging_trigger = yes
+    }
+    immediate = {
+        add_character_modifier = {
+            name = old_age_modifier
+            duration = -1
+        }
+    }
+    option = {
+        name = "time does halt for some"
+    }
+}
