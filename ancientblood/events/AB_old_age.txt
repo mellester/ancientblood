@@ -1,21 +1,50 @@
 ﻿namespace = old_age
-# events reltaing to old_age of people
 
 old_age.1 = { #test to add a modifier
-    type = character_event
-    title = "old_age"
-    desc = "old_age"
-    right_portrait = scope:target
-    trigger =  {
-        char_is_unaging_trigger = yes
-    }
+    type = country_event
+    title = "old_age.1"
+    desc = "old_age.1"
+
+    right_portrait = scope:old_person_first
+    right_portrait = scope:old_person_second
+    right_portrait = scope:old_person_third
+
     immediate = {
-        add_character_modifier = {
-            name = old_age_modifier
-            duration = -1
-        }
+        ordered_character = {
+            limit = {
+                is_alive = yes
+                age > 80
+            }
+            order_by = age
+            max = 3
+            if = {
+                limit = {
+                    NOT = {
+                        exists = scope:old_person_first
+                    }
+                }
+                save_scope_as = old_person_first
+            }
+            else_if = {
+                limit = {
+                    NOT = {
+                        exists = scope:old_person_second
+                    }
+                }
+                save_scope_as = old_person_second
+            }
+            else_if = {
+                limit = {
+                    NOT = {
+                        exists = scope:old_person_third
+                    }
+                }
+                save_scope_as = old_person_third
+            }    
+        }        
     }
     option = {
-        name = "time does halt for some"
+        name = "old_age.1.a"
     }
+
 }

@@ -1,0 +1,8 @@
+age_mine = {
+        value = age
+        max = 100
+        subtract = 50
+        divide = 10
+        min = 0
+    
+}

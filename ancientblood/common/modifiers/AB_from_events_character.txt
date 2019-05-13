@@ -1,3 +1,0 @@
-﻿old_age_modifier = {
-    health = 0.5
-}

@@ -6,23 +6,3 @@ on_game_initialized = {
 		AB_startup_events.3
 	}
 }
-
-yearly_medical_pulse = 
-{
-	# old_age for splats
-	events = {
-		old_age.1
-	}
-	random_events = 
-	{
-		150 = 0
-		#Illness
-		4 = traits.4
-		2 = traits.6
-		2 = traits.8
-		1 = health.6 # depression
-		4 = health.7 # getting better from depression
-		30 = death.2 # old age
-		1 = traits.18
-	}
-}

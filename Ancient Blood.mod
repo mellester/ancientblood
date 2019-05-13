@@ -1,6 +1,6 @@
 name="Ancient Blood"
-supported_version="1.0.*"
-description="Overhaul mod."
+supported_version="0.1"
+description=""
 tags={
 	"Characters"
 	"Total Conversions"
